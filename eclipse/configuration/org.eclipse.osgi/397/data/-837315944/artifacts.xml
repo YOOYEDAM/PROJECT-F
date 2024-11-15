@@ -1,0 +1,2649 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\work\pleiades\eclipse\dropins\EclipseRCP' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1716343785575'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='258'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.help.webapp.source' version='3.8.0.v20160504-0839'>
+      <properties size='2'>
+        <property name='artifact.size' value='204503'/>
+        <property name='download.size' value='204503'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.help.webapp.source_3.8.0.v20160504-0839.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.help.webapp.source_3.8.0.v20160504-0839.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.jcraft.jsch.source' version='0.1.54.v20170116-1932'>
+      <properties size='2'>
+        <property name='artifact.size' value='297192'/>
+        <property name='download.size' value='297192'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.jcraft.jsch.source_0.1.54.v20170116-1932.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.jcraft.jsch.source_0.1.54.v20170116-1932.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ant.core.source' version='3.4.100.v20160505-0642'>
+      <properties size='2'>
+        <property name='artifact.size' value='100125'/>
+        <property name='download.size' value='100125'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ant.core.source_3.4.100.v20160505-0642.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ant.core.source_3.4.100.v20160505-0642.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.reviews.core' version='2.12.0.v20160819-2206'>
+      <properties size='2'>
+        <property name='artifact.size' value='171896'/>
+        <property name='download.size' value='171896'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.reviews.core_2.12.0.v20160819-2206.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.reviews.core_2.12.0.v20160819-2206.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.templates' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='60273'/>
+        <property name='download.size' value='60273'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.templates_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.templates_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.tools.compat' version='4.5.0.v20160503-0947'>
+      <properties size='2'>
+        <property name='artifact.size' value='39754'/>
+        <property name='download.size' value='39754'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.tools.compat_4.5.0.v20160503-0947.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.tools.compat_4.5.0.v20160503-0947.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.recommenders.snipmatch' version='2.4.6.v20170307-1041'>
+      <properties size='2'>
+        <property name='artifact.size' value='62235'/>
+        <property name='download.size' value='62235'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.recommenders.snipmatch_2.4.6.v20170307-1041.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.recommenders.snipmatch_2.4.6.v20170307-1041.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.generator' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='88098'/>
+        <property name='download.size' value='88098'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.generator_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.generator_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.publisher.source' version='1.4.100.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='75850'/>
+        <property name='download.size' value='75850'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.publisher.source_1.4.100.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.publisher.source_1.4.100.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench.addons.swt.source' version='1.2.101.v20170206-1129'>
+      <properties size='2'>
+        <property name='artifact.size' value='79612'/>
+        <property name='download.size' value='79612'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.workbench.addons.swt.source_1.2.101.v20170206-1129.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.workbench.addons.swt.source_1.2.101.v20170206-1129.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.e4.core.tools.feature' version='4.5.100.v20170131-1452'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.e4.core.tools.feature_4.5.100.v20170131-1452/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.e4.core.tools.feature_4.5.100.v20170131-1452'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.git.ui' version='1.13.0.v20160630-2022'>
+      <properties size='2'>
+        <property name='artifact.size' value='21654'/>
+        <property name='download.size' value='21654'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.git.ui_1.13.0.v20160630-2022.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.git.ui_1.13.0.v20160630-2022.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.intro.quicklinks.source' version='1.0.0.v20160515-0255'>
+      <properties size='2'>
+        <property name='artifact.size' value='18688'/>
+        <property name='download.size' value='18688'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.intro.quicklinks.source_1.0.0.v20160515-0255.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.intro.quicklinks.source_1.0.0.v20160515-0255.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.registry.source' version='3.6.100.v20160223-2218'>
+      <properties size='2'>
+        <property name='artifact.size' value='178780'/>
+        <property name='download.size' value='178780'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.registry.source_3.6.100.v20160223-2218.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.registry.source_3.6.100.v20160223-2218.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.util.source' version='9.3.9.v20160517'>
+      <properties size='2'>
+        <property name='artifact.size' value='313920'/>
+        <property name='download.size' value='313920'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jetty.util.source_9.3.9.v20160517.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jetty.util.source_9.3.9.v20160517.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.versions' version='1.13.0.v20160630-2022'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.versions_1.13.0.v20160630-2022/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.versions_1.13.0.v20160630-2022'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.launch.rwt.source' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='75995'/>
+        <property name='download.size' value='75995'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.launch.rwt.source_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.launch.rwt.source_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.security.win32.x86_64.source' version='1.0.100.v20130327-1442'>
+      <properties size='2'>
+        <property name='artifact.size' value='15993'/>
+        <property name='download.size' value='15993'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.security.win32.x86_64.source_1.0.100.v20130327-1442.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.security.win32.x86_64.source_1.0.100.v20130327-1442.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.util.source' version='1.0.500.v20130404-1337'>
+      <properties size='2'>
+        <property name='artifact.size' value='75442'/>
+        <property name='download.size' value='75442'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.util.source_1.0.500.v20130404-1337.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.util.source_1.0.500.v20130404-1337.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.servlet.source' version='9.3.9.v20160517'>
+      <properties size='2'>
+        <property name='artifact.size' value='74337'/>
+        <property name='download.size' value='74337'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jetty.servlet.source_9.3.9.v20160517.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jetty.servlet.source_9.3.9.v20160517.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.commons.repositories.http.core' version='1.13.0.v20160630-1702'>
+      <properties size='2'>
+        <property name='artifact.size' value='36425'/>
+        <property name='download.size' value='36425'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.commons.repositories.http.core_1.13.0.v20160630-1702.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.commons.repositories.http.core_1.13.0.v20160630-1702.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.buildship.ui' version='1.0.21.v20161010-1640'>
+      <properties size='2'>
+        <property name='artifact.size' value='586670'/>
+        <property name='download.size' value='586670'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.buildship.ui_1.0.21.v20161010-1640.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.buildship.ui_1.0.21.v20161010-1640.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.compatibility.state.source' version='1.0.200.v20160504-1419'>
+      <properties size='2'>
+        <property name='artifact.size' value='144478'/>
+        <property name='download.size' value='144478'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.osgi.compatibility.state.source_1.0.200.v20160504-1419.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.osgi.compatibility.state.source_1.0.200.v20160504-1419.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.hudson.ui' version='1.13.0.v20160704-1634'>
+      <properties size='2'>
+        <property name='artifact.size' value='20809'/>
+        <property name='download.size' value='20809'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.hudson.ui_1.13.0.v20160704-1634.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.hudson.ui_1.13.0.v20160704-1634.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.help.ui.source' version='4.0.200.v20160510-0758'>
+      <properties size='2'>
+        <property name='artifact.size' value='226838'/>
+        <property name='download.size' value='226838'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.help.ui.source_4.0.200.v20160510-0758.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.help.ui.source_4.0.200.v20160510-0758.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jface.databinding.source' version='1.8.1.v20161026-1531'>
+      <properties size='2'>
+        <property name='artifact.size' value='216033'/>
+        <property name='download.size' value='216033'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jface.databinding.source_1.8.1.v20161026-1531.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jface.databinding.source_1.8.1.v20161026-1531.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.gradle.toolingapi' version='2.14.1.v20160831165132'>
+      <properties size='2'>
+        <property name='artifact.size' value='1862880'/>
+        <property name='download.size' value='1862880'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.gradle.toolingapi_2.14.1.v20160831165132.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.gradle.toolingapi_2.14.1.v20160831165132.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.databinding.source' version='1.6.0.v20160412-0910'>
+      <properties size='2'>
+        <property name='artifact.size' value='141215'/>
+        <property name='download.size' value='141215'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.databinding.source_1.6.0.v20160412-0910.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.databinding.source_1.6.0.v20160412-0910.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.buildship.stsmigration' version='1.0.21.v20161010-1640'>
+      <properties size='2'>
+        <property name='artifact.size' value='20016'/>
+        <property name='download.size' value='20016'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.buildship.stsmigration_1.0.21.v20161010-1640.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.buildship.stsmigration_1.0.21.v20161010-1640.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jsch.ui.source' version='1.3.0.v20160323-1650'>
+      <properties size='2'>
+        <property name='artifact.size' value='49597'/>
+        <property name='download.size' value='49597'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jsch.ui.source_1.3.0.v20160323-1650.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jsch.ui.source_1.3.0.v20160323-1650.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.contexts.source' version='1.5.1.v20170203-1100'>
+      <properties size='2'>
+        <property name='artifact.size' value='42533'/>
+        <property name='download.size' value='42533'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.core.contexts.source_1.5.1.v20170203-1100.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.core.contexts.source_1.5.1.v20170203-1100.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.help.base.source' version='4.1.2.v20170301-0400'>
+      <properties size='2'>
+        <property name='artifact.size' value='314772'/>
+        <property name='download.size' value='314772'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.help.base.source_4.1.2.v20170301-0400.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.help.base.source_4.1.2.v20170301-0400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.team.core.source' version='3.8.0.v20160418-1534'>
+      <properties size='2'>
+        <property name='artifact.size' value='383849'/>
+        <property name='download.size' value='383849'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.team.core.source_3.8.0.v20160418-1534.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.team.core.source_3.8.0.v20160418-1534.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.swtbot.ide' version='2.5.0.201609021837'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.swtbot.ide_2.5.0.201609021837/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.swtbot.ide_2.5.0.201609021837'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.core.source' version='2.4.100.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='61096'/>
+        <property name='download.size' value='61096'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.core.source_2.4.100.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.core.source_2.4.100.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jsch.core.source' version='1.3.0.v20160422-1917'>
+      <properties size='2'>
+        <property name='artifact.size' value='39623'/>
+        <property name='download.size' value='39623'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jsch.core.source_1.3.0.v20160422-1917.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jsch.core.source_1.3.0.v20160422-1917.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.operations.source' version='2.4.200.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='66186'/>
+        <property name='download.size' value='66186'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.operations.source_2.4.200.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.operations.source_2.4.200.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.commands.source' version='3.8.1.v20161221-1651'>
+      <properties size='2'>
+        <property name='artifact.size' value='153347'/>
+        <property name='download.size' value='153347'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.commands.source_3.8.1.v20161221-1651.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.commands.source_3.8.1.v20161221-1651.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.jarprocessor.source' version='1.0.500.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='48379'/>
+        <property name='download.size' value='48379'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.jarprocessor.source_1.0.500.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.jarprocessor.source_1.0.500.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.intro.universal.source' version='3.3.1.v20160829-1558'>
+      <properties size='2'>
+        <property name='artifact.size' value='59532'/>
+        <property name='download.size' value='59532'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.intro.universal.source_3.3.1.v20160829-1558.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.intro.universal.source_3.3.1.v20160829-1558.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.compare.core.source' version='3.6.0.v20160418-1534'>
+      <properties size='2'>
+        <property name='artifact.size' value='64179'/>
+        <property name='download.size' value='64179'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.compare.core.source_3.6.0.v20160418-1534.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.compare.core.source_3.6.0.v20160418-1534.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.resources.source' version='3.11.1.v20161107-2032'>
+      <properties size='2'>
+        <property name='artifact.size' value='801576'/>
+        <property name='download.size' value='801576'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.resources.source_3.11.1.v20161107-2032.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.resources.source_3.11.1.v20161107-2032.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.reviews.ui' version='2.12.0.v20160819-2206'>
+      <properties size='2'>
+        <property name='artifact.size' value='317852'/>
+        <property name='download.size' value='317852'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.reviews.ui_2.12.0.v20160819-2206.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.reviews.ui_2.12.0.v20160819-2206.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.extensionlocation.source' version='1.2.300.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='27301'/>
+        <property name='download.size' value='27301'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.extensionlocation.source_1.2.300.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.extensionlocation.source_1.2.300.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.hamcrest.library' version='1.3.0.v201505072020'>
+      <properties size='2'>
+        <property name='artifact.size' value='64202'/>
+        <property name='download.size' value='64202'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.hamcrest.library_1.3.0.v201505072020.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.hamcrest.library_1.3.0.v201505072020.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.updatesite.source' version='1.0.600.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='72543'/>
+        <property name='download.size' value='72543'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.updatesite.source_1.0.600.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.updatesite.source_1.0.600.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.w3c.css.sac.source' version='1.3.1.v200903091627'>
+      <properties size='2'>
+        <property name='artifact.size' value='55581'/>
+        <property name='download.size' value='55581'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.w3c.css.sac.source_1.3.1.v200903091627.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.w3c.css.sac.source_1.3.1.v200903091627.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.css.core.source' version='0.12.1.v20161114-0210'>
+      <properties size='2'>
+        <property name='artifact.size' value='212580'/>
+        <property name='download.size' value='212580'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.css.core.source_0.12.1.v20161114-0210.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.css.core.source_0.12.1.v20161114-0210.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench3.source' version='0.13.100.v20160506-0759'>
+      <properties size='2'>
+        <property name='artifact.size' value='12313'/>
+        <property name='download.size' value='12313'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.workbench3.source_0.13.100.v20160506-0759.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.workbench3.source_0.13.100.v20160506-0759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.inject.source' version='1.0.0.v20091030'>
+      <properties size='2'>
+        <property name='artifact.size' value='25518'/>
+        <property name='download.size' value='25518'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/javax.inject.source_1.0.0.v20091030.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\javax.inject.source_1.0.0.v20091030.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.platform.source' version='4.6.3.v20170301-0400'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.platform.source_4.6.3.v20170301-0400/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.platform.source_4.6.3.v20170301-0400'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.swtbot.eclipse' version='2.5.0.201609021837'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.swtbot.eclipse_2.5.0.201609021837/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.swtbot.eclipse_2.5.0.201609021837'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.di.source' version='1.1.100.v20160506-0759'>
+      <properties size='2'>
+        <property name='artifact.size' value='16401'/>
+        <property name='download.size' value='16401'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.di.source_1.1.100.v20160506-0759.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.di.source_1.1.100.v20160506-0759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.swtbot.eclipse.gef' version='2.5.0.201609021837'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.swtbot.eclipse.gef_2.5.0.201609021837/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.swtbot.eclipse.gef_2.5.0.201609021837'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.annotation.source' version='1.2.0.v201602091430'>
+      <properties size='2'>
+        <property name='artifact.size' value='48649'/>
+        <property name='download.size' value='48649'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/javax.annotation.source_1.2.0.v201602091430.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\javax.annotation.source_1.2.0.v201602091430.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.doc' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='4627805'/>
+        <property name='download.size' value='4627805'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.doc_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.doc_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.jsp.jasper.source' version='1.0.500.v20150119-1358'>
+      <properties size='2'>
+        <property name='artifact.size' value='18647'/>
+        <property name='download.size' value='18647'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.jsp.jasper.source_1.0.500.v20150119-1358.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.jsp.jasper.source_1.0.500.v20150119-1358.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.ui.sdk.source' version='1.0.400.v20150423-1455'>
+      <properties size='2'>
+        <property name='artifact.size' value='29492'/>
+        <property name='download.size' value='29492'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.ui.sdk.source_1.0.400.v20150423-1455.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.ui.sdk.source_1.0.400.v20150423-1455.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.intro.source' version='3.5.2.v20161116-1147'>
+      <properties size='2'>
+        <property name='artifact.size' value='266244'/>
+        <property name='download.size' value='266244'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.intro.source_3.5.2.v20161116-1147.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.intro.source_3.5.2.v20161116-1147.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.director.source' version='2.3.300.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='67887'/>
+        <property name='download.size' value='67887'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.director.source_2.3.300.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.director.source_2.3.300.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.gerrit.feature' version='2.12.0.v20160719-2354'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.gerrit.feature_2.12.0.v20160719-2354/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.gerrit.feature_2.12.0.v20160719-2354'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.batik.util.source' version='1.7.0.v201011041433'>
+      <properties size='2'>
+        <property name='artifact.size' value='142606'/>
+        <property name='download.size' value='142606'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.batik.util.source_1.7.0.v201011041433.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.batik.util.source_1.7.0.v201011041433.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.tukaani.xz.source' version='1.3.0.v201308270617'>
+      <properties size='2'>
+        <property name='artifact.size' value='125809'/>
+        <property name='download.size' value='125809'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.tukaani.xz.source_1.3.0.v201308270617.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.tukaani.xz.source_1.3.0.v201308270617.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.security.source' version='1.2.200.v20150715-1528'>
+      <properties size='2'>
+        <property name='artifact.size' value='102115'/>
+        <property name='download.size' value='102115'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.security.source_1.2.200.v20150715-1528.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.security.source_1.2.200.v20150715-1528.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.themes.source' version='1.1.300.v20161107-1827'>
+      <properties size='2'>
+        <property name='artifact.size' value='7582'/>
+        <property name='download.size' value='7582'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.themes.source_1.1.300.v20161107-1827.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.themes.source_1.1.300.v20161107-1827.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.builds' version='1.13.0.v20160725-1817'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.builds_1.13.0.v20160725-1817/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.builds_1.13.0.v20160725-1817'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.servlet' version='3.0.0.v201112011016'>
+      <properties size='2'>
+        <property name='artifact.size' value='200993'/>
+        <property name='download.size' value='200993'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/javax.servlet_3.0.0.v201112011016.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\javax.servlet_3.0.0.v201112011016.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.source' version='3.11.3.v20170209-1843'>
+      <properties size='2'>
+        <property name='artifact.size' value='1099449'/>
+        <property name='download.size' value='1099449'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.osgi.source_3.11.3.v20170209-1843.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.osgi.source_3.11.3.v20170209-1843.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.dialogs.source' version='1.1.0.v20151127-1218'>
+      <properties size='2'>
+        <property name='artifact.size' value='27275'/>
+        <property name='download.size' value='27275'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.dialogs.source_1.1.0.v20151127-1218.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.dialogs.source_1.1.0.v20151127-1218.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.swtbot' version='2.5.0.201609021837'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.swtbot_2.5.0.201609021837/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.swtbot_2.5.0.201609021837'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.lucene.analysis.source' version='3.5.0.v20120725-1805'>
+      <properties size='2'>
+        <property name='artifact.size' value='627434'/>
+        <property name='download.size' value='627434'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.lucene.analysis.source_3.5.0.v20120725-1805.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.lucene.analysis.source_3.5.0.v20120725-1805.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.compare.source' version='3.7.1.v20170103-1805'>
+      <properties size='2'>
+        <property name='artifact.size' value='436173'/>
+        <property name='download.size' value='436173'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.compare.source_3.7.1.v20170103-1805.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.compare.source_3.7.1.v20170103-1805.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.intro.source' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='32407'/>
+        <property name='download.size' value='32407'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.intro.source_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.intro.source_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.ui.source' version='2.4.100.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='302288'/>
+        <property name='download.size' value='302288'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.ui.source_2.4.100.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.ui.source_2.4.100.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.eclipse.spy' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='35284'/>
+        <property name='download.size' value='35284'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.eclipse.spy_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.eclipse.spy_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.shell.source' version='0.10.0.v201212101605'>
+      <properties size='2'>
+        <property name='artifact.size' value='37624'/>
+        <property name='download.size' value='37624'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.felix.gogo.shell.source_0.10.0.v201212101605.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.felix.gogo.shell.source_0.10.0.v201212101605.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.epp.package.rcp' version='4.6.3.20170314-1500'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.epp.package.rcp_4.6.3.20170314-1500/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.epp.package.rcp_4.6.3.20170314-1500'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.repository.source' version='2.3.200.v20160421-0324'>
+      <properties size='2'>
+        <property name='artifact.size' value='121555'/>
+        <property name='download.size' value='121555'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.repository.source_2.3.200.v20160421-0324.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.repository.source_2.3.200.v20160421-0324.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.updatechecker.source' version='1.1.300.v20161124-1529'>
+      <properties size='2'>
+        <property name='artifact.size' value='15873'/>
+        <property name='download.size' value='15873'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.updatechecker.source_1.1.300.v20161124-1529.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.updatechecker.source_1.1.300.v20161124-1529.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.databinding.observable.source' version='1.6.0.v20160511-1747'>
+      <properties size='2'>
+        <property name='artifact.size' value='209406'/>
+        <property name='download.size' value='209406'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.databinding.observable.source_1.6.0.v20160511-1747.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.databinding.observable.source_1.6.0.v20160511-1747.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.tools.emf.editor3x' version='4.5.0.v20160503-0947'>
+      <properties size='2'>
+        <property name='artifact.size' value='69544'/>
+        <property name='download.size' value='69544'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.tools.emf.editor3x_4.5.0.v20160503-0947.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.tools.emf.editor3x_4.5.0.v20160503-0947.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.help.source' version='2.2.2.v20170301-0400'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.help.source_2.2.2.v20170301-0400/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.help.source_2.2.2.v20170301-0400'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.forms.finder' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='18520'/>
+        <property name='download.size' value='18520'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.forms.finder_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.forms.finder_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.go' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='13263'/>
+        <property name='download.size' value='13263'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.go_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.go_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.http.servlet.source' version='1.3.1.v20160808-1329'>
+      <properties size='2'>
+        <property name='artifact.size' value='108971'/>
+        <property name='download.size' value='108971'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.http.servlet.source_1.3.1.v20160808-1329.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.http.servlet.source_1.3.1.v20160808-1329.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.views.properties.tabbed.source' version='3.7.0.v20160310-0903'>
+      <properties size='2'>
+        <property name='artifact.size' value='80332'/>
+        <property name='download.size' value='80332'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.views.properties.tabbed.source_3.7.0.v20160310-0903.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.views.properties.tabbed.source_3.7.0.v20160310-0903.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.w3c.dom.events.source' version='3.0.0.draft20060413_v201105210656'>
+      <properties size='2'>
+        <property name='artifact.size' value='42894'/>
+        <property name='download.size' value='42894'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.w3c.dom.events.source_3.0.0.draft20060413_v201105210656.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.w3c.dom.events.source_3.0.0.draft20060413_v201105210656.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench.renderers.swt.source' version='0.14.1.v20170117-1415'>
+      <properties size='2'>
+        <property name='artifact.size' value='140136'/>
+        <property name='download.size' value='140136'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.workbench.renderers.swt.source_0.14.1.v20170117-1415.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.workbench.renderers.swt.source_0.14.1.v20170117-1415.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.console.source' version='1.1.200.v20150929-1405'>
+      <properties size='2'>
+        <property name='artifact.size' value='85970'/>
+        <property name='download.size' value='85970'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.console.source_1.1.200.v20150929-1405.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.console.source_1.1.200.v20150929-1405.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.contenttype.source' version='3.5.100.v20160418-1621'>
+      <properties size='2'>
+        <property name='artifact.size' value='81842'/>
+        <property name='download.size' value='81842'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.contenttype.source_3.5.100.v20160418-1621.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.contenttype.source_3.5.100.v20160418-1621.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.gwtjsonrpc' version='1.2.5.v201112241444'>
+      <properties size='2'>
+        <property name='artifact.size' value='133770'/>
+        <property name='download.size' value='133770'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.google.gwtjsonrpc_1.2.5.v201112241444.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.google.gwtjsonrpc_1.2.5.v201112241444.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.jxpath.source' version='1.3.0.v200911051830'>
+      <properties size='2'>
+        <property name='artifact.size' value='354599'/>
+        <property name='download.size' value='354599'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.commons.jxpath.source_1.3.0.v200911051830.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.commons.jxpath.source_1.3.0.v200911051830.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.templates.source' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='32684'/>
+        <property name='download.size' value='32684'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.templates.source_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.templates.source_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.recommenders.snipmatch.rcp' version='2.4.6.v20170307-1041'>
+      <properties size='2'>
+        <property name='artifact.size' value='316667'/>
+        <property name='download.size' value='316667'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.recommenders.snipmatch.rcp_2.4.6.v20170307-1041.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.recommenders.snipmatch.rcp_2.4.6.v20170307-1041.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.databinding.beans.source' version='1.3.100.v20160509-1025'>
+      <properties size='2'>
+        <property name='artifact.size' value='68367'/>
+        <property name='download.size' value='68367'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.databinding.beans.source_1.3.100.v20160509-1025.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.databinding.beans.source_1.3.100.v20160509-1025.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.generator.jdt' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='57283'/>
+        <property name='download.size' value='57283'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.generator.jdt_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.generator.jdt_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.frameworkadmin.source' version='2.0.300.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='36995'/>
+        <property name='download.size' value='36995'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.frameworkadmin.source_2.0.300.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.frameworkadmin.source_2.0.300.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench.swt.source' version='0.14.1.v20160829-0832'>
+      <properties size='2'>
+        <property name='artifact.size' value='108062'/>
+        <property name='download.size' value='108062'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.workbench.swt.source_0.14.1.v20160829-0832.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.workbench.swt.source_0.14.1.v20160829-0832.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.bindings.source' version='0.11.100.v20160509-1025'>
+      <properties size='2'>
+        <property name='artifact.size' value='39386'/>
+        <property name='download.size' value='39386'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.bindings.source_0.11.100.v20160509-1025.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.bindings.source_0.11.100.v20160509-1025.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.gerrit.common' version='2.1.5.v201112241444'>
+      <properties size='2'>
+        <property name='artifact.size' value='89820'/>
+        <property name='download.size' value='89820'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.google.gerrit.common_2.1.5.v201112241444.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.google.gerrit.common_2.1.5.v201112241444.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.simpleconfigurator.manipulator.source' version='2.0.200.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='19781'/>
+        <property name='download.size' value='19781'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.simpleconfigurator.manipulator.source_2.0.200.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.simpleconfigurator.manipulator.source_2.0.200.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.server.source' version='9.3.9.v20160517'>
+      <properties size='2'>
+        <property name='artifact.size' value='312820'/>
+        <property name='download.size' value='312820'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jetty.server.source_9.3.9.v20160517.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jetty.server.source_9.3.9.v20160517.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.buildship' version='1.0.21.v20161010-1640'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.buildship_1.0.21.v20161010-1640/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.buildship_1.0.21.v20161010-1640'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.debug.core.source' version='3.10.100.v20160419-1720'>
+      <properties size='2'>
+        <property name='artifact.size' value='388352'/>
+        <property name='download.size' value='388352'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.debug.core.source_3.10.100.v20160419-1720.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.debug.core.source_3.10.100.v20160419-1720.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.frameworkadmin.equinox.source' version='1.0.700.v20160102-2223'>
+      <properties size='2'>
+        <property name='artifact.size' value='48322'/>
+        <property name='download.size' value='48322'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.frameworkadmin.equinox.source_1.0.700.v20160102-2223.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.frameworkadmin.equinox.source_1.0.700.v20160102-2223.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.jsp.jasper.registry.source' version='1.0.300.v20130327-1442'>
+      <properties size='2'>
+        <property name='artifact.size' value='11425'/>
+        <property name='download.size' value='11425'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.jsp.jasper.registry.source_1.0.300.v20130327-1442.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.jsp.jasper.registry.source_1.0.300.v20130327-1442.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.equinox.p2.core.feature.source' version='1.3.203.v20170131-1444'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.equinox.p2.core.feature.source_1.3.203.v20170131-1444/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.equinox.p2.core.feature.source_1.3.203.v20170131-1444'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.equinox.p2.extras.feature.source' version='1.2.203.v20170131-1444'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.equinox.p2.extras.feature.source_1.2.203.v20170131-1444/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.equinox.p2.extras.feature.source_1.2.203.v20170131-1444'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.win32.source' version='3.3.0.v20160505-1310'>
+      <properties size='2'>
+        <property name='artifact.size' value='16269'/>
+        <property name='download.size' value='16269'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.win32.source_3.3.0.v20160505-1310.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.win32.source_3.3.0.v20160505-1310.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.swtbot.generator.feature' version='2.5.0.201609021837'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.swtbot.generator.feature_2.5.0.201609021837/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.swtbot.generator.feature_2.5.0.201609021837'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.http.registry.source' version='1.1.400.v20150715-1528'>
+      <properties size='2'>
+        <property name='artifact.size' value='33027'/>
+        <property name='download.size' value='33027'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.http.registry.source_1.1.400.v20150715-1528.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.http.registry.source_1.1.400.v20150715-1528.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.security.ui.source' version='1.1.300.v20150803-1225'>
+      <properties size='2'>
+        <property name='artifact.size' value='87070'/>
+        <property name='download.size' value='87070'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.security.ui.source_1.1.300.v20150803-1225.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.security.ui.source_1.1.300.v20150803-1225.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ltk.core.refactoring.source' version='3.7.0.v20160419-0705'>
+      <properties size='2'>
+        <property name='artifact.size' value='291797'/>
+        <property name='download.size' value='291797'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ltk.core.refactoring.source_3.7.0.v20160419-0705.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ltk.core.refactoring.source_3.7.0.v20160419-0705.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.hudson.core' version='1.13.0.v20160806-1446'>
+      <properties size='2'>
+        <property name='artifact.size' value='118008'/>
+        <property name='download.size' value='118008'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.hudson.core_1.13.0.v20160806-1446.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.hudson.core_1.13.0.v20160806-1446.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.gwt.servlet' version='2.0.4.v20100709-0658'>
+      <properties size='2'>
+        <property name='artifact.size' value='1694268'/>
+        <property name='download.size' value='1694268'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.google.gwt.servlet_2.0.4.v20100709-0658.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.google.gwt.servlet_2.0.4.v20100709-0658.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.epp.package.rcp.feature' version='4.6.3.20170314-1500'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.epp.package.rcp.feature_4.6.3.20170314-1500/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.epp.package.rcp.feature_4.6.3.20170314-1500'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.net.source' version='1.3.0.v20160418-1534'>
+      <properties size='2'>
+        <property name='artifact.size' value='63932'/>
+        <property name='download.size' value='63932'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.net.source_1.3.0.v20160418-1534.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.net.source_1.3.0.v20160418-1534.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.runtime.source' version='3.12.0.v20160606-1342'>
+      <properties size='2'>
+        <property name='artifact.size' value='87641'/>
+        <property name='download.size' value='87641'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.runtime.source_3.12.0.v20160606-1342.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.runtime.source_3.12.0.v20160606-1342.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.widgets.source' version='1.1.100.v20160506-0759'>
+      <properties size='2'>
+        <property name='artifact.size' value='10712'/>
+        <property name='download.size' value='10712'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.widgets.source_1.1.100.v20160506-0759.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.widgets.source_1.1.100.v20160506-0759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.preferences.source' version='3.6.1.v20160815-1406'>
+      <properties size='2'>
+        <property name='artifact.size' value='113911'/>
+        <property name='download.size' value='113911'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.preferences.source_3.6.1.v20160815-1406.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.preferences.source_3.6.1.v20160815-1406.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.security.source' version='9.3.9.v20160517'>
+      <properties size='2'>
+        <property name='artifact.size' value='75511'/>
+        <property name='download.size' value='75511'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jetty.security.source_9.3.9.v20160517.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jetty.security.source_9.3.9.v20160517.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.eclipse.gef.finder' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='97696'/>
+        <property name='download.size' value='97696'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.eclipse.gef.finder_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.eclipse.gef.finder_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.eclipse.ui' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='78001'/>
+        <property name='download.size' value='78001'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.eclipse.ui_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.eclipse.ui_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.lucene.core.source' version='3.5.0.v20120725-1805'>
+      <properties size='2'>
+        <property name='artifact.size' value='1392375'/>
+        <property name='download.size' value='1392375'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.lucene.core.source_3.5.0.v20120725-1805.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.lucene.core.source_3.5.0.v20120725-1805.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.garbagecollector.source' version='1.0.300.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='19657'/>
+        <property name='download.size' value='19657'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.garbagecollector.source_1.0.300.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.garbagecollector.source_1.0.300.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.junit4_x' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='38776'/>
+        <property name='download.size' value='38776'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.junit4_x_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.junit4_x_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.gradleware.tooling.utils' version='0.16.0.v20160831165132'>
+      <properties size='2'>
+        <property name='artifact.size' value='26607'/>
+        <property name='download.size' value='26607'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.gradleware.tooling.utils_0.16.0.v20160831165132.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.gradleware.tooling.utils_0.16.0.v20160831165132.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.cheatsheets.source' version='3.5.0.v20160504-0839'>
+      <properties size='2'>
+        <property name='artifact.size' value='252502'/>
+        <property name='download.size' value='252502'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.cheatsheets.source_3.5.0.v20160504-0839.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.cheatsheets.source_3.5.0.v20160504-0839.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.common.source' version='3.8.0.v20160509-1230'>
+      <properties size='2'>
+        <property name='artifact.size' value='131247'/>
+        <property name='download.size' value='131247'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.common.source_3.8.0.v20160509-1230.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.common.source_3.8.0.v20160509-1230.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.launcher.source' version='1.3.201.v20161025-1711'>
+      <properties size='2'>
+        <property name='artifact.size' value='45822'/>
+        <property name='download.size' value='45822'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.launcher.source_1.3.201.v20161025-1711.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.launcher.source_1.3.201.v20161025-1711.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.intro' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='42944'/>
+        <property name='download.size' value='42944'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.intro_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.intro_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.buildship.branding' version='1.0.21.v20161010-1640'>
+      <properties size='2'>
+        <property name='artifact.size' value='12361'/>
+        <property name='download.size' value='12361'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.buildship.branding_1.0.21.v20161010-1640.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.buildship.branding_1.0.21.v20161010-1640.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.metadata.source' version='2.3.100.v20160427-2220'>
+      <properties size='2'>
+        <property name='artifact.size' value='246237'/>
+        <property name='download.size' value='246237'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.metadata.source_2.3.100.v20160427-2220.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.metadata.source_2.3.100.v20160427-2220.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.directorywatcher.source' version='1.1.100.v20150423-1455'>
+      <properties size='2'>
+        <property name='artifact.size' value='22293'/>
+        <property name='download.size' value='22293'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.directorywatcher.source_1.1.100.v20150423-1455.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.directorywatcher.source_1.1.100.v20150423-1455.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.w3c.dom.smil.source' version='1.0.1.v200903091627'>
+      <properties size='2'>
+        <property name='artifact.size' value='20780'/>
+        <property name='download.size' value='20780'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.w3c.dom.smil.source_1.0.1.v200903091627.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.w3c.dom.smil.source_1.0.1.v200903091627.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.debug.ui.source' version='3.11.202.v20161114-0338'>
+      <properties size='2'>
+        <property name='artifact.size' value='1726917'/>
+        <property name='download.size' value='1726917'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.debug.ui.source_3.11.202.v20161114-0338.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.debug.ui.source_3.11.202.v20161114-0338.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.monitoring.source' version='1.1.2.v20170203-1115'>
+      <properties size='2'>
+        <property name='artifact.size' value='46148'/>
+        <property name='download.size' value='46148'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.monitoring.source_1.1.2.v20170203-1115.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.monitoring.source_1.1.2.v20170203-1115.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.model.workbench.source' version='1.2.0.v20160229-1459'>
+      <properties size='2'>
+        <property name='artifact.size' value='381395'/>
+        <property name='download.size' value='381395'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.model.workbench.source_1.2.0.v20160229-1459.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.model.workbench.source_1.2.0.v20160229-1459.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ltk.ui.refactoring.source' version='3.8.0.v20160518-1817'>
+      <properties size='2'>
+        <property name='artifact.size' value='255460'/>
+        <property name='download.size' value='255460'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ltk.ui.refactoring.source_3.8.0.v20160518-1817.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ltk.ui.refactoring.source_3.8.0.v20160518-1817.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.ui.importexport.source' version='1.1.200.v20160521-1138'>
+      <properties size='2'>
+        <property name='artifact.size' value='52134'/>
+        <property name='download.size' value='52134'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.ui.importexport.source_1.1.200.v20160521-1138.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.ui.importexport.source_1.1.200.v20160521-1138.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.app.source' version='1.3.400.v20150715-1528'>
+      <properties size='2'>
+        <property name='artifact.size' value='77974'/>
+        <property name='download.size' value='77974'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.app.source_1.3.400.v20150715-1528.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.app.source_1.3.400.v20150715-1528.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.touchpoint.eclipse.source' version='2.1.400.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='97750'/>
+        <property name='download.size' value='97750'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.touchpoint.eclipse.source_2.1.400.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.touchpoint.eclipse.source_2.1.400.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.jasper.glassfish.source' version='2.2.2.v201501141630'>
+      <properties size='2'>
+        <property name='artifact.size' value='466765'/>
+        <property name='download.size' value='466765'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.jasper.glassfish.source_2.2.2.v201501141630.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.jasper.glassfish.source_2.2.2.v201501141630.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.simpleconfigurator.source' version='1.1.200.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='37855'/>
+        <property name='download.size' value='37855'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.simpleconfigurator.source_1.1.200.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.simpleconfigurator.source_1.1.200.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.services.source' version='2.0.100.v20160509-1032'>
+      <properties size='2'>
+        <property name='artifact.size' value='50002'/>
+        <property name='download.size' value='50002'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.core.services.source_2.0.100.v20160509-1032.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.core.services.source_2.0.100.v20160509-1032.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.workbench.source' version='3.108.3.v20170216-1539'>
+      <properties size='2'>
+        <property name='artifact.size' value='2701119'/>
+        <property name='download.size' value='2701119'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.workbench.source_3.108.3.v20170216-1539.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.workbench.source_3.108.3.v20170216-1539.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.launch' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='66507'/>
+        <property name='download.size' value='66507'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.launch_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.launch_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.console.source' version='3.6.201.v20161107-0337'>
+      <properties size='2'>
+        <property name='artifact.size' value='122997'/>
+        <property name='download.size' value='122997'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.console.source_3.6.201.v20161107-0337.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.console.source_3.6.201.v20161107-0337.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.recommenders.snipmatch.rcp.feature' version='2.4.6.v20170307-1041'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.recommenders.snipmatch.rcp.feature_2.4.6.v20170307-1041/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.recommenders.snipmatch.rcp.feature_2.4.6.v20170307-1041'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.services.source' version='1.2.100.v20160506-0759'>
+      <properties size='2'>
+        <property name='artifact.size' value='25278'/>
+        <property name='download.size' value='25278'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.services.source_1.2.100.v20160506-0759.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.services.source_1.2.100.v20160506-0759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.services.source' version='3.5.100.v20160504-1419'>
+      <properties size='2'>
+        <property name='artifact.size' value='218038'/>
+        <property name='download.size' value='218038'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.osgi.services.source_3.5.100.v20160504-1419.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.osgi.services.source_3.5.100.v20160504-1419.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.commands.source' version='0.11.100.v20160506-0804'>
+      <properties size='2'>
+        <property name='artifact.size' value='21600'/>
+        <property name='download.size' value='21600'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.core.commands.source_0.11.100.v20160506-0804.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.core.commands.source_0.11.100.v20160506-0804.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.equinox.p2.user.ui.source' version='2.2.203.v20170131-1444'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.equinox.p2.user.ui.source_2.2.203.v20170131-1444/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.equinox.p2.user.ui.source_2.2.203.v20170131-1444'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.batik.util.gui.source' version='1.7.0.v200903091627'>
+      <properties size='2'>
+        <property name='artifact.size' value='79609'/>
+        <property name='download.size' value='79609'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.batik.util.gui.source_1.7.0.v200903091627.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.batik.util.gui.source_1.7.0.v200903091627.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.platform.source' version='4.6.3.v20170301-0400'>
+      <properties size='2'>
+        <property name='artifact.size' value='11133'/>
+        <property name='download.size' value='11133'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.platform.source_4.6.3.v20170301-0400.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.platform.source_4.6.3.v20170301-0400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.gerrit.core' version='2.12.0.v20160719-2354'>
+      <properties size='2'>
+        <property name='artifact.size' value='252328'/>
+        <property name='download.size' value='252328'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.gerrit.core_2.12.0.v20160719-2354.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.gerrit.core_2.12.0.v20160719-2354.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.artifact.repository.source' version='1.1.500.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='99355'/>
+        <property name='download.size' value='99355'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.artifact.repository.source_1.1.500.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.artifact.repository.source_1.1.500.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.tools' version='4.5.0.v20160503-0947'>
+      <properties size='2'>
+        <property name='artifact.size' value='122630'/>
+        <property name='download.size' value='122630'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.tools_4.5.0.v20160503-0947.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.tools_4.5.0.v20160503-0947.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.rcp.source' version='4.6.3.v20170301-0400'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.rcp.source_4.6.3.v20170301-0400/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.rcp.source_4.6.3.v20170301-0400'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.gradleware.tooling.client' version='0.16.0.v20160831165132'>
+      <properties size='2'>
+        <property name='artifact.size' value='67279'/>
+        <property name='download.size' value='67279'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.gradleware.tooling.client_0.16.0.v20160831165132.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.gradleware.tooling.client_0.16.0.v20160831165132.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.engine.source' version='2.4.100.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='141962'/>
+        <property name='download.size' value='141962'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.engine.source_2.4.100.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.engine.source_2.4.100.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jface.text.source' version='3.11.2.v20170220-1911'>
+      <properties size='2'>
+        <property name='artifact.size' value='783829'/>
+        <property name='download.size' value='783829'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jface.text.source_3.11.2.v20170220-1911.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jface.text.source_3.11.2.v20170220-1911.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.gwtorm' version='1.1.4.v201112241444'>
+      <properties size='2'>
+        <property name='artifact.size' value='178928'/>
+        <property name='download.size' value='178928'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.google.gwtorm_1.1.4.v201112241444.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.google.gwtorm_1.1.4.v201112241444.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.workbench.source' version='1.4.0.v20160517-1624'>
+      <properties size='2'>
+        <property name='artifact.size' value='154885'/>
+        <property name='download.size' value='154885'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.workbench.source_1.4.0.v20160517-1624.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.workbench.source_1.4.0.v20160517-1624.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.console.source' version='1.0.500.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='20486'/>
+        <property name='download.size' value='20486'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.console.source_1.0.500.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.console.source_1.0.500.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.generator.ui' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='23472'/>
+        <property name='download.size' value='23472'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.generator.ui_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.generator.ui_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.reconciler.dropins.source' version='1.1.400.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='35325'/>
+        <property name='download.size' value='35325'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.reconciler.dropins.source_1.1.400.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.reconciler.dropins.source_1.1.400.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.touchpoint.natives.source' version='1.2.100.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='60908'/>
+        <property name='download.size' value='60908'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.touchpoint.natives.source_1.2.100.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.touchpoint.natives.source_1.2.100.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.browser.source' version='3.5.2.v20161114-0210'>
+      <properties size='2'>
+        <property name='artifact.size' value='99068'/>
+        <property name='download.size' value='99068'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.browser.source_3.5.2.v20161114-0210.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.browser.source_3.5.2.v20161114-0210.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.source' version='3.108.1.v20160929-1045'>
+      <properties size='2'>
+        <property name='artifact.size' value='146587'/>
+        <property name='download.size' value='146587'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.source_3.108.1.v20160929-1045.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.source_3.108.1.v20160929-1045.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.bidi.source' version='1.0.0.v20160307-1318'>
+      <properties size='2'>
+        <property name='artifact.size' value='64809'/>
+        <property name='download.size' value='64809'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.bidi.source_1.0.0.v20160307-1318.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.bidi.source_1.0.0.v20160307-1318.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.launch.rwt' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='131920'/>
+        <property name='download.size' value='131920'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.launch.rwt_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.launch.rwt_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.tools.services' version='4.5.0.v20160503-0947'>
+      <properties size='2'>
+        <property name='artifact.size' value='36083'/>
+        <property name='download.size' value='36083'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.tools.services_4.5.0.v20160503-0947.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.tools.services_4.5.0.v20160503-0947.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.gradleware.tooling.model' version='0.16.0.v20160831165132'>
+      <properties size='2'>
+        <property name='artifact.size' value='166552'/>
+        <property name='download.size' value='166552'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.gradleware.tooling.model_0.16.0.v20160831165132.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.gradleware.tooling.model_0.16.0.v20160831165132.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.ant.source' version='1.9.6.v201510161327'>
+      <properties size='2'>
+        <property name='artifact.size' value='2395347'/>
+        <property name='download.size' value='2395347'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.ant.source_1.9.6.v201510161327.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.ant.source_1.9.6.v201510161327.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.metadata.repository.source' version='1.2.300.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='60301'/>
+        <property name='download.size' value='60301'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.metadata.repository.source_1.2.300.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.metadata.repository.source_1.2.300.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.externaltools.source' version='3.3.100.v20160518-1858'>
+      <properties size='2'>
+        <property name='artifact.size' value='85677'/>
+        <property name='download.size' value='85677'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.externaltools.source_3.3.100.v20160518-1858.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.externaltools.source_3.3.100.v20160518-1858.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.search.source' version='3.11.1.v20161113-1700'>
+      <properties size='2'>
+        <property name='artifact.size' value='305046'/>
+        <property name='download.size' value='305046'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.search.source_3.11.1.v20161113-1700.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.search.source_3.11.1.v20161113-1700.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.servlet.jsp.source' version='2.2.0.v201112011158'>
+      <properties size='2'>
+        <property name='artifact.size' value='225504'/>
+        <property name='download.size' value='225504'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/javax.servlet.jsp.source_2.2.0.v201112011158.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\javax.servlet.jsp.source_2.2.0.v201112011158.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.emf.xpath.source' version='0.1.200.v20160506-0804'>
+      <properties size='2'>
+        <property name='artifact.size' value='53626'/>
+        <property name='download.size' value='53626'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.emf.xpath.source_0.1.200.v20160506-0804.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.emf.xpath.source_0.1.200.v20160506-0804.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.help.source' version='3.7.0.v20160602-1307'>
+      <properties size='2'>
+        <property name='artifact.size' value='184482'/>
+        <property name='download.size' value='184482'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.help.source_3.7.0.v20160602-1307.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.help.source_3.7.0.v20160602-1307.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.eclipse.core' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='23525'/>
+        <property name='download.size' value='23525'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.eclipse.core_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.eclipse.core_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.gerrit.prettify' version='2.1.5.v201112241444'>
+      <properties size='2'>
+        <property name='artifact.size' value='55135'/>
+        <property name='download.size' value='55135'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.google.gerrit.prettify_2.1.5.v201112241444.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.google.gerrit.prettify_2.1.5.v201112241444.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.di.annotations.source' version='1.5.0.v20151127-1241'>
+      <properties size='2'>
+        <property name='artifact.size' value='13672'/>
+        <property name='download.size' value='13672'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.core.di.annotations.source_1.5.0.v20151127-1241.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.core.di.annotations.source_1.5.0.v20151127-1241.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.di.source' version='1.6.1.v20160712-0927'>
+      <properties size='2'>
+        <property name='artifact.size' value='44774'/>
+        <property name='download.size' value='44774'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.core.di.source_1.6.1.v20160712-0927.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.core.di.source_1.6.1.v20160712-0927.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.builds.ui' version='1.13.0.v20160725-1817'>
+      <properties size='2'>
+        <property name='artifact.size' value='330990'/>
+        <property name='download.size' value='330990'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.builds.ui_1.13.0.v20160725-1817.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.builds.ui_1.13.0.v20160725-1817.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.externaltools.source' version='1.0.400.v20160509-1057'>
+      <properties size='2'>
+        <property name='artifact.size' value='36959'/>
+        <property name='download.size' value='36959'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.externaltools.source_1.0.400.v20160509-1057.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.externaltools.source_1.0.400.v20160509-1057.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.hudson' version='1.13.0.v20160806-1446'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.hudson_1.13.0.v20160806-1446/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.hudson_1.13.0.v20160806-1446'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.views.source' version='3.8.102.v20170111-0801'>
+      <properties size='2'>
+        <property name='artifact.size' value='81941'/>
+        <property name='download.size' value='81941'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.views.source_3.8.102.v20170111-0801.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.views.source_3.8.102.v20170111-0801.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.versions.ui' version='1.13.0.v20160630-2022'>
+      <properties size='2'>
+        <property name='artifact.size' value='13813'/>
+        <property name='download.size' value='13813'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.versions.ui_1.13.0.v20160630-2022.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.versions.ui_1.13.0.v20160630-2022.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.navigator.source' version='3.6.101.v20161006-1120'>
+      <properties size='2'>
+        <property name='artifact.size' value='315821'/>
+        <property name='download.size' value='315821'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.navigator.source_3.6.101.v20161006-1120.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.navigator.source_3.6.101.v20161006-1120.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.variables.source' version='3.3.0.v20160419-1720'>
+      <properties size='2'>
+        <property name='artifact.size' value='39050'/>
+        <property name='download.size' value='39050'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.variables.source_3.3.0.v20160419-1720.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.variables.source_3.3.0.v20160419-1720.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.css.swt.theme.source' version='0.10.100.v20160523-0836'>
+      <properties size='2'>
+        <property name='artifact.size' value='22390'/>
+        <property name='download.size' value='22390'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.css.swt.theme.source_0.10.100.v20160523-0836.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.css.swt.theme.source_0.10.100.v20160523-0836.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.rap.tools.launch.source' version='3.1.2.20161108-1501'>
+      <properties size='2'>
+        <property name='artifact.size' value='38598'/>
+        <property name='download.size' value='38598'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.rap.tools.launch.source_3.1.2.20161108-1501.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.rap.tools.launch.source_3.1.2.20161108-1501.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.director.app.source' version='1.0.500.v20160419-0834'>
+      <properties size='2'>
+        <property name='artifact.size' value='34888'/>
+        <property name='download.size' value='34888'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.director.app.source_1.0.500.v20160419-0834.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.director.app.source_1.0.500.v20160419-0834.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.editors.source' version='3.10.1.v20161106-1856'>
+      <properties size='2'>
+        <property name='artifact.size' value='321551'/>
+        <property name='download.size' value='321551'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.editors.source_3.10.1.v20161106-1856.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.editors.source_3.10.1.v20161106-1856.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.compare.win32.source' version='1.1.0.v20160418-1534'>
+      <properties size='2'>
+        <property name='artifact.size' value='23618'/>
+        <property name='download.size' value='23618'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.compare.win32.source_1.1.0.v20160418-1534.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.compare.win32.source_1.1.0.v20160418-1534.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filebuffers.source' version='3.6.0.v20160503-1849'>
+      <properties size='2'>
+        <property name='artifact.size' value='91087'/>
+        <property name='download.size' value='91087'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.filebuffers.source_3.6.0.v20160503-1849.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.filebuffers.source_3.6.0.v20160503-1849.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.continuation.source' version='9.3.9.v20160517'>
+      <properties size='2'>
+        <property name='artifact.size' value='22540'/>
+        <property name='download.size' value='22540'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jetty.continuation.source_9.3.9.v20160517.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jetty.continuation.source_9.3.9.v20160517.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.builds.core' version='1.13.0.v20160704-1634'>
+      <properties size='2'>
+        <property name='artifact.size' value='209734'/>
+        <property name='download.size' value='209734'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.builds.core_1.13.0.v20160704-1634.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.builds.core_1.13.0.v20160704-1634.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.el.source' version='2.2.0.v201303151357'>
+      <properties size='2'>
+        <property name='artifact.size' value='97804'/>
+        <property name='download.size' value='97804'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/javax.el.source_2.2.0.v201303151357.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\javax.el.source_2.2.0.v201303151357.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.publisher.eclipse.source' version='1.2.100.v20160504-1450'>
+      <properties size='2'>
+        <property name='artifact.size' value='150859'/>
+        <property name='download.size' value='150859'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.publisher.eclipse.source_1.2.100.v20160504-1450.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.publisher.eclipse.source_1.2.100.v20160504-1450.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.swtbot.forms' version='2.5.0.201609021837'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.swtbot.forms_2.5.0.201609021837/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.swtbot.forms_2.5.0.201609021837'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.ibm.icu.source' version='56.1.0.v201601250100'>
+      <properties size='2'>
+        <property name='artifact.size' value='2152385'/>
+        <property name='download.size' value='2152385'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.ibm.icu.source_56.1.0.v201601250100.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.ibm.icu.source_56.1.0.v201601250100.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.versions.core' version='1.13.0.v20160630-2022'>
+      <properties size='2'>
+        <property name='artifact.size' value='31087'/>
+        <property name='download.size' value='31087'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.versions.core_1.13.0.v20160630-2022.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.versions.core_1.13.0.v20160630-2022.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.text.source' version='3.6.0.v20160503-1849'>
+      <properties size='2'>
+        <property name='artifact.size' value='268190'/>
+        <property name='download.size' value='268190'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.text.source_3.6.0.v20160503-1849.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.text.source_3.6.0.v20160503-1849.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filesystem.source' version='1.6.1.v20161113-2349'>
+      <properties size='2'>
+        <property name='artifact.size' value='97343'/>
+        <property name='download.size' value='97343'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.filesystem.source_1.6.1.v20161113-2349.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.filesystem.source_1.6.1.v20161113-2349.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jface.source' version='3.12.2.v20170113-2113'>
+      <properties size='2'>
+        <property name='artifact.size' value='1008878'/>
+        <property name='download.size' value='1008878'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jface.source_3.12.2.v20170113-2113.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jface.source_3.12.2.v20170113-2113.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.workbench.texteditor.source' version='3.10.1.v20160818-1626'>
+      <properties size='2'>
+        <property name='artifact.size' value='412852'/>
+        <property name='download.size' value='412852'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.workbench.texteditor.source_3.10.1.v20160818-1626.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.workbench.texteditor.source_3.10.1.v20160818-1626.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.http.jetty.source' version='3.3.0.v20160324-1850'>
+      <properties size='2'>
+        <property name='artifact.size' value='23115'/>
+        <property name='download.size' value='23115'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.http.jetty.source_3.3.0.v20160324-1850.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.http.jetty.source_3.3.0.v20160324-1850.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.net.source' version='1.3.0.v20160426-1633'>
+      <properties size='2'>
+        <property name='artifact.size' value='30547'/>
+        <property name='download.size' value='30547'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.net.source_1.3.0.v20160426-1633.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.net.source_1.3.0.v20160426-1633.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.pde_feature' version='3.21.0.v20160701-1337'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.pde_feature_3.21.0.v20160701-1337/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.pde_feature_3.21.0.v20160701-1337'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swt.win32.win32.x86_64.source' version='3.105.3.v20170228-0512'>
+      <properties size='2'>
+        <property name='artifact.size' value='2508706'/>
+        <property name='download.size' value='2508706'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64.source_3.105.3.v20170228-0512.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64.source_3.105.3.v20170228-0512.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.commons.repositories.http' version='1.13.0.v20160630-1702'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.commons.repositories.http_1.13.0.v20160630-1702/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.commons.repositories.http_1.13.0.v20160630-1702'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.reviews.feature' version='2.12.0.v20160819-2206'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.reviews.feature_2.12.0.v20160819-2206/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.reviews.feature_2.12.0.v20160819-2206'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.team.ui.source' version='3.8.0.v20160518-1906'>
+      <properties size='2'>
+        <property name='artifact.size' value='795480'/>
+        <property name='download.size' value='795480'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.team.ui.source_3.8.0.v20160518-1906.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.team.ui.source_3.8.0.v20160518-1906.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.forms.source' version='3.7.1.v20161220-1635'>
+      <properties size='2'>
+        <property name='artifact.size' value='215866'/>
+        <property name='download.size' value='215866'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.forms.source_3.7.1.v20161220-1635.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.forms.source_3.7.1.v20161220-1635.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.generator.rules.workbench' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='17305'/>
+        <property name='download.size' value='17305'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.generator.rules.workbench_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.generator.rules.workbench_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.ui.css.swt.source' version='0.12.100.v20160517-1505'>
+      <properties size='2'>
+        <property name='artifact.size' value='196090'/>
+        <property name='download.size' value='196090'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.ui.css.swt.source_0.12.100.v20160517-1505.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.ui.css.swt.source_0.12.100.v20160517-1505.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.navigator.resources.source' version='3.5.101.v20161006-0640'>
+      <properties size='2'>
+        <property name='artifact.size' value='91738'/>
+        <property name='download.size' value='91738'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.navigator.resources.source_3.5.101.v20161006-0640.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.navigator.resources.source_3.5.101.v20161006-0640.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.update.configurator.source' version='3.3.400.v20160506-0750'>
+      <properties size='2'>
+        <property name='artifact.size' value='85660'/>
+        <property name='download.size' value='85660'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.update.configurator.source_3.3.400.v20160506-0750.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.update.configurator.source_3.3.400.v20160506-0750.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.pde.ui' version='3.21.0.v20160701-1337'>
+      <properties size='2'>
+        <property name='artifact.size' value='67740'/>
+        <property name='download.size' value='67740'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.pde.ui_3.21.0.v20160701-1337.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.pde.ui_3.21.0.v20160701-1337.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.ui.sdk.scheduler.source' version='1.3.0.v20161124-1529'>
+      <properties size='2'>
+        <property name='artifact.size' value='59430'/>
+        <property name='download.size' value='59430'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.ui.sdk.scheduler.source_1.3.0.v20161124-1529.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.ui.sdk.scheduler.source_1.3.0.v20161124-1529.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.event.source' version='1.3.200.v20160324-1850'>
+      <properties size='2'>
+        <property name='artifact.size' value='28904'/>
+        <property name='download.size' value='28904'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.event.source_1.3.200.v20160324-1850.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.event.source_1.3.200.v20160324-1850.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.servlet.source' version='3.1.0.v201410161800'>
+      <properties size='2'>
+        <property name='artifact.size' value='233094'/>
+        <property name='download.size' value='233094'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/javax.servlet.source_3.1.0.v201410161800.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\javax.servlet.source_3.1.0.v201410161800.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.util.source' version='3.3.100.v20150423-1351'>
+      <properties size='2'>
+        <property name='artifact.size' value='33362'/>
+        <property name='download.size' value='33362'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.osgi.util.source_3.3.100.v20150423-1351.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.osgi.util.source_3.3.100.v20150423-1351.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.w3c.dom.svg.source' version='1.1.0.v201011041433'>
+      <properties size='2'>
+        <property name='artifact.size' value='91281'/>
+        <property name='download.size' value='91281'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.w3c.dom.svg.source_1.1.0.v201011041433.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.w3c.dom.svg.source_1.1.0.v201011041433.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.tools.jdt.templates' version='4.5.0.v20161220-1401'>
+      <properties size='2'>
+        <property name='artifact.size' value='17000'/>
+        <property name='download.size' value='17000'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.tools.jdt.templates_4.5.0.v20161220-1401.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.tools.jdt.templates_4.5.0.v20161220-1401.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.runtime.source' version='0.10.0.v201209301036'>
+      <properties size='2'>
+        <property name='artifact.size' value='59285'/>
+        <property name='download.size' value='59285'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.felix.gogo.runtime.source_0.10.0.v201209301036.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.felix.gogo.runtime.source_0.10.0.v201209301036.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.swt.finder' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='783527'/>
+        <property name='download.size' value='783527'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.swt.finder_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.swt.finder_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.eclipse.finder' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='155305'/>
+        <property name='download.size' value='155305'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.eclipse.finder_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.eclipse.finder_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.reviews.edit' version='2.12.0.v20160701-1338'>
+      <properties size='2'>
+        <property name='artifact.size' value='94724'/>
+        <property name='download.size' value='94724'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.reviews.edit_2.12.0.v20160701-1338.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.reviews.edit_2.12.0.v20160701-1338.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.platform.doc.isv' version='4.6.2.v20170221-1001'>
+      <properties size='2'>
+        <property name='artifact.size' value='37310972'/>
+        <property name='download.size' value='37310972'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.platform.doc.isv_4.6.2.v20170221-1001.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.platform.doc.isv_4.6.2.v20170221-1001.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.swtbot.e4.finder' version='2.5.0.201609021837'>
+      <properties size='2'>
+        <property name='artifact.size' value='40500'/>
+        <property name='download.size' value='40500'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.swtbot.e4.finder_2.5.0.201609021837.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.swtbot.e4.finder_2.5.0.201609021837.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.mylyn.git' version='1.13.0.v20160630-2022'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.mylyn.git_1.13.0.v20160630-2022/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.mylyn.git_1.13.0.v20160630-2022'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sun.el.source' version='2.2.0.v201303151357'>
+      <properties size='2'>
+        <property name='artifact.size' value='155629'/>
+        <property name='download.size' value='155629'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.sun.el.source_2.2.0.v201303151357.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.sun.el.source_2.2.0.v201303151357.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.gerrit.reviewdb' version='2.1.5.v201112241444'>
+      <properties size='2'>
+        <property name='artifact.size' value='124317'/>
+        <property name='download.size' value='124317'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/com.google.gerrit.reviewdb_2.1.5.v201112241444.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\com.google.gerrit.reviewdb_2.1.5.v201112241444.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.command.source' version='0.10.0.v201209301215'>
+      <properties size='2'>
+        <property name='artifact.size' value='34902'/>
+        <property name='download.size' value='34902'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.felix.gogo.command.source_0.10.0.v201209301215.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.felix.gogo.command.source_0.10.0.v201209301215.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.equinox.p2.rcp.feature.source' version='1.2.203.v20170131-1444'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.equinox.p2.rcp.feature.source_1.2.203.v20170131-1444/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.equinox.p2.rcp.feature.source_1.2.203.v20170131-1444'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.repository.tools.source' version='2.1.300.v20160421-0324'>
+      <properties size='2'>
+        <property name='artifact.size' value='180949'/>
+        <property name='download.size' value='180949'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.repository.tools.source_2.1.300.v20160421-0324.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.repository.tools.source_2.1.300.v20160421-0324.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.rap.tools.feature' version='3.1.2.20170215-1811'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.rap.tools.feature_3.1.2.20170215-1811/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.rap.tools.feature_3.1.2.20170215-1811'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.gerrit.ui' version='2.12.0.v20160701-1338'>
+      <properties size='2'>
+        <property name='artifact.size' value='174802'/>
+        <property name='download.size' value='174802'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.gerrit.ui_2.12.0.v20160701-1338.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.gerrit.ui_2.12.0.v20160701-1338.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.io.source' version='9.3.9.v20160517'>
+      <properties size='2'>
+        <property name='artifact.size' value='66356'/>
+        <property name='download.size' value='66356'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jetty.io.source_9.3.9.v20160517.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jetty.io.source_9.3.9.v20160517.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.ide.application.source' version='1.1.101.v20160829-0827'>
+      <properties size='2'>
+        <property name='artifact.size' value='45503'/>
+        <property name='download.size' value='45503'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.ide.application.source_1.1.101.v20160829-0827.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.ide.application.source_1.1.101.v20160829-0827.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.batik.css.source' version='1.7.0.v201011041433'>
+      <properties size='2'>
+        <property name='artifact.size' value='324031'/>
+        <property name='download.size' value='324031'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.batik.css.source_1.7.0.v201011041433.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.batik.css.source_1.7.0.v201011041433.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.buildship.core' version='1.0.21.v20161010-1640'>
+      <properties size='2'>
+        <property name='artifact.size' value='266915'/>
+        <property name='download.size' value='266915'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.buildship.core_1.0.21.v20161010-1640.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.buildship.core_1.0.21.v20161010-1640.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.jobs.source' version='3.8.0.v20160509-0411'>
+      <properties size='2'>
+        <property name='artifact.size' value='109104'/>
+        <property name='download.size' value='109104'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.jobs.source_3.8.0.v20160509-0411.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.jobs.source_3.8.0.v20160509-0411.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.mylyn.git.core' version='1.13.0.v20160630-2022'>
+      <properties size='2'>
+        <property name='artifact.size' value='22790'/>
+        <property name='download.size' value='22790'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.mylyn.git.core_1.13.0.v20160630-2022.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.mylyn.git.core_1.13.0.v20160630-2022.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.logging.source' version='1.1.1.v201101211721'>
+      <properties size='2'>
+        <property name='artifact.size' value='86626'/>
+        <property name='download.size' value='86626'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.apache.commons.logging.source_1.1.1.v201101211721.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.apache.commons.logging.source_1.1.1.v201101211721.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ui.ide.source' version='3.12.3.v20170119-0935'>
+      <properties size='2'>
+        <property name='artifact.size' value='1344702'/>
+        <property name='download.size' value='1344702'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.ui.ide.source_3.12.3.v20170119-0935.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.ui.ide.source_3.12.3.v20170119-0935.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.transport.ecf.source' version='1.1.201.v20161115-1927'>
+      <properties size='2'>
+        <property name='artifact.size' value='31928'/>
+        <property name='download.size' value='31928'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.p2.transport.ecf.source_1.1.201.v20161115-1927.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.p2.transport.ecf.source_1.1.201.v20161115-1927.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.di.extensions.source' version='0.14.0.v20160211-1614'>
+      <properties size='2'>
+        <property name='artifact.size' value='20295'/>
+        <property name='download.size' value='20295'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.core.di.extensions.source_0.14.0.v20160211-1614.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.core.di.extensions.source_0.14.0.v20160211-1614.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.tools.emf.ui' version='4.5.100.v20170109-1815'>
+      <properties size='2'>
+        <property name='artifact.size' value='1574624'/>
+        <property name='download.size' value='1574624'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.e4.tools.emf.ui_4.5.100.v20170109-1815.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.e4.tools.emf.ui_4.5.100.v20170109-1815.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.http.source' version='9.3.9.v20160517'>
+      <properties size='2'>
+        <property name='artifact.size' value='98455'/>
+        <property name='download.size' value='98455'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.jetty.http.source_9.3.9.v20160517.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.jetty.http.source_9.3.9.v20160517.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.databinding.property.source' version='1.6.0.v20160427-0852'>
+      <properties size='2'>
+        <property name='artifact.size' value='95591'/>
+        <property name='download.size' value='95591'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.databinding.property.source_1.6.0.v20160427-0852.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.databinding.property.source_1.6.0.v20160427-0852.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.e4.rcp.source' version='1.5.3.v20170228-0512'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/features/org.eclipse.e4.rcp.source_1.5.3.v20170228-0512/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\features\org.eclipse.e4.rcp.source_1.5.3.v20170228-0512'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.ds.source' version='1.4.400.v20160226-2036'>
+      <properties size='2'>
+        <property name='artifact.size' value='166271'/>
+        <property name='download.size' value='166271'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.equinox.ds.source_1.4.400.v20160226-2036.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.equinox.ds.source_1.4.400.v20160226-2036.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.expressions.source' version='3.5.100.v20160418-1621'>
+      <properties size='2'>
+        <property name='artifact.size' value='88676'/>
+        <property name='download.size' value='88676'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseRCP/eclipse/plugins/org.eclipse.core.expressions.source_3.5.100.v20160418-1621.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseRCP\eclipse\plugins\org.eclipse.core.expressions.source_3.5.100.v20160418-1621.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.swtbot.generator.feature"
+      label="SWTBot Test Recorder and Code Generator"
+      version="2.5.0.201609021837"
+      provider-name="Eclipse.org - SWTBot"
+      plugin="org.eclipse.swtbot.eclipse.ui">
+
+   <description url="http://eclipse.org/">
+      SWTBot Generator: Enable recording of Events and generates code accordingly. APIs are still in a provisional state and are likely to evolve.
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.swtbot.generator"
+         download-size="85"
+         install-size="155"
+         version="2.5.0.201609021837"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.swtbot.generator.rules.workbench"
+         download-size="16"
+         install-size="24"
+         version="2.5.0.201609021837"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.swtbot.generator.jdt"
+         download-size="55"
+         install-size="113"
+         version="2.5.0.201609021837"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.swtbot.generator.ui"
+         download-size="22"
+         install-size="37"
+         version="2.5.0.201609021837"
+         unpack="false"/>
+
+</feature>

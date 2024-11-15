@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\work\pleiades\eclipse\dropins\MergeDoc' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1716343783890'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='3'>
+    <artifact classifier='org.eclipse.update.feature' id='jp.sourceforge.mergedoc.pleiades' version='1.7.26'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/MergeDoc/eclipse/features/jp.sourceforge.mergedoc.pleiades/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\MergeDoc\eclipse\features\jp.sourceforge.mergedoc.pleiades'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='jp.sourceforge.mergedoc.PleiadesJavaPerspective' version='1.2.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='26964'/>
+        <property name='download.size' value='26964'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/MergeDoc/eclipse/plugins/jp.sourceforge.mergedoc.PleiadesJavaPerspective_1.2.0.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\MergeDoc\eclipse\plugins\jp.sourceforge.mergedoc.PleiadesJavaPerspective_1.2.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='jp.sourceforge.mergedoc.pleiades' version='1.7.26'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/MergeDoc/eclipse/plugins/jp.sourceforge.mergedoc.pleiades/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\MergeDoc\eclipse\plugins\jp.sourceforge.mergedoc.pleiades'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

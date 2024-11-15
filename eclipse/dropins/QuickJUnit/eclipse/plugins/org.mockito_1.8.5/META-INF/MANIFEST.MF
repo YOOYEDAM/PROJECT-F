@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 19.0-b09 (Sun Microsystems Inc.)
+Bundle-ManifestVersion: 2
+Bundle-Name: Mockito
+Bundle-SymbolicName: org.mockito
+Bundle-Version: 1.8.5
+Export-Package: org.mockito,org.mockito.asm,org.mockito.asm.signature,
+ org.mockito.asm.tree,org.mockito.asm.tree.analysis,org.mockito.asm.ut
+ il,org.mockito.cglib.beans,org.mockito.cglib.core,org.mockito.cglib.p
+ roxy,org.mockito.cglib.reflect,org.mockito.cglib.transform,org.mockit
+ o.cglib.transform.impl,org.mockito.cglib.util,org.mockito.configurati
+ on,org.mockito.exceptions,org.mockito.exceptions.base,org.mockito.exc
+ eptions.misusing,org.mockito.exceptions.verification,org.mockito.exce
+ ptions.verification.junit,org.mockito.invocation,org.mockito.runners,
+ org.mockito.stubbing,org.mockito.stubbing.answers,org.mockito.verific
+ ation
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ClassPath: mockito.jar
+

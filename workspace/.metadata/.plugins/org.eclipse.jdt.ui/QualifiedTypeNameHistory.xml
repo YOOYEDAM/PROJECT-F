@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="tool.Page"/>
+<fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+<fullyQualifiedTypeName name="Forward"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="bean.Teacher"/>
+<fullyQualifiedTypeName name="dao.SubjectDao"/>
+<fullyQualifiedTypeName name="bean.Subject"/>
+<fullyQualifiedTypeName name="bean.ClassNum"/>
+<fullyQualifiedTypeName name="dao.TestListStudentDao"/>
+<fullyQualifiedTypeName name="bean.Test"/>
+<fullyQualifiedTypeName name="bean.TestListSubject"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="dao.TestListSubjectDao"/>
+<fullyQualifiedTypeName name="bean.Student"/>
+<fullyQualifiedTypeName name="bean.TestListStudent"/>
+<fullyQualifiedTypeName name="dao.StudentDao"/>
+</qualifiedTypeNameHistroy>

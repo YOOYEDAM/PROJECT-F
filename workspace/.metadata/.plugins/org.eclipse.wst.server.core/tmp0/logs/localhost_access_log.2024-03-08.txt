@@ -1,0 +1,7 @@
+127.0.0.1 - - [08/Mar/2024:11:25:59 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:11:26:01 +0900] "GET /book/chapter16/attribute2.jsp HTTP/1.1" 500 3233
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:11:27:38 +0900] "GET /book/chapter16/attribute2.jsp HTTP/1.1" 500 3233
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:11:27:44 +0900] "GET /book/chapter16/attribute2.jsp HTTP/1.1" 500 3233
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:11:42:30 +0900] "GET /book/chapter16/attribute2.jsp HTTP/1.1" 500 2955
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:11:48:08 +0900] "GET /book/chapter16/attribute2 HTTP/1.1" 200 4286
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:11:51:12 +0900] "GET /book/chapter16/attribute2 HTTP/1.1" 200 578

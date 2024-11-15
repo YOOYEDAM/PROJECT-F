@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.editors.templates">
+      <template
+            autoinsert="true"
+            contextTypeId="java-members"
+            description="Insert @After method"
+            id="junit.extensions.eclipse.quick.after"
+            name="A">
+         <pattern>
+            @${testType:newType(org.junit.After)}
+public void ${after}() throws Exception {
+${cursor} 
+}
+         </pattern>
+      </template>
+      <template
+            autoinsert="true"
+            contextTypeId="java-members"
+            description="Insert @Before method (Quick JUnit)"
+            id="junit.extensions.eclipse.quick.before"
+            name="B">
+         <pattern>
+            @${testType:newType(org.junit.Before)}
+public void ${before}() throws Exception {
+${cursor} 
+}
+         </pattern>
+      </template>
+      <template
+            autoinsert="true"
+            contextTypeId="java-members"
+            description="Insert @AfterClass method (Quick JUnit)"
+            id="junit.extensions.eclipse.quick.afterClass"
+            name="AC">
+         <pattern>
+            @${testType:newType(org.junit.AfterClass)}
+public static void ${afterClass}() throws Exception {
+${cursor} 
+}
+         </pattern>
+      </template>
+      <template
+            autoinsert="true"
+            contextTypeId="java-members"
+            description="Insert @BeforeClass method (Quick JUnit)"
+            id="junit.extensions.eclipse.quick.template.beforeClass"
+            name="BC">
+         <pattern>
+            @${testType:newType(org.junit.BeforeClass)}
+public static void ${beforeClass}() throws Exception {
+${cursor} 
+}
+         </pattern>
+      </template>
+      <template
+            autoinsert="true"
+            contextTypeId="java-statements"
+            description="Insert assertThat method (Quick JUnit)"
+            id="junit.extensions.eclipse.quick.template.assertThat"
+            name="AT">
+         <pattern>
+            ${junit:importStatic(&apos;org.junit.Assert.assertThat&apos;)}assertThat(${:localVar(java.lang.Object)}${cursor},${hamcrest:importStatic(&apos;org.hamcrest.CoreMatchers.is&apos;)}is(${expected}));
+         </pattern>
+      </template>
+   </extension>
+</plugin>

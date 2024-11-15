@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.6.0_65-b14-468-11M4833 (Apple Inc.)
+
+Name: pleiades.png
+SHA1-Digest: rWHC29jZKQtt+FeW30lnXAhYgyk=
+
+Name: feature.xml
+SHA1-Digest: 4aPq1ZKSf6z+nbjLucrhkf6KfJo=
+
+Name: feature.properties
+SHA1-Digest: TOMJGeihpkI8adhbb9wQNmHHpng=
+

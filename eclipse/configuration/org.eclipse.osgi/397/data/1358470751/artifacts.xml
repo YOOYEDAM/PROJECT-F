@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1716343783780'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='11'>
+    <artifact classifier='osgi.bundle' id='org.sf.feeling.decompiler' version='2.9.0.r20160620180'>
+      <properties size='2'>
+        <property name='artifact.size' value='1042292'/>
+        <property name='download.size' value='1042292'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/plugins/org.sf.feeling.decompiler_2.9.0.r20160620180.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\plugins\org.sf.feeling.decompiler_2.9.0.r20160620180.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.sf.feeling.decompiler.jd' version='2.9.0.r20160620180'>
+      <properties size='2'>
+        <property name='artifact.size' value='2710264'/>
+        <property name='download.size' value='2710264'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/plugins/org.sf.feeling.decompiler.jd_2.9.0.r20160620180.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\plugins\org.sf.feeling.decompiler.jd_2.9.0.r20160620180.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.sf.feeling.decompiler.jad' version='2.9.0.r20160620180'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/features/org.sf.feeling.decompiler.jad_2.9.0.r20160620180/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\features\org.sf.feeling.decompiler.jad_2.9.0.r20160620180'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.sf.feeling.decompiler.cfr' version='2.9.0.r20160620180'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/features/org.sf.feeling.decompiler.cfr_2.9.0.r20160620180/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\features\org.sf.feeling.decompiler.cfr_2.9.0.r20160620180'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.sf.feeling.decompiler.procyon' version='2.9.0.r20160620180'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/features/org.sf.feeling.decompiler.procyon_2.9.0.r20160620180/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\features\org.sf.feeling.decompiler.procyon_2.9.0.r20160620180'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.sf.feeling.decompiler' version='2.9.0.r20160620180'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/features/org.sf.feeling.decompiler_2.9.0.r20160620180/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\features\org.sf.feeling.decompiler_2.9.0.r20160620180'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.sf.feeling.decompiler.jd' version='2.9.0.r20160620180'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/features/org.sf.feeling.decompiler.jd_2.9.0.r20160620180/'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\features\org.sf.feeling.decompiler.jd_2.9.0.r20160620180'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.sf.feeling.decompiler.procyon' version='2.9.0.r20160620180'>
+      <properties size='2'>
+        <property name='artifact.size' value='1592163'/>
+        <property name='download.size' value='1592163'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/plugins/org.sf.feeling.decompiler.procyon_2.9.0.r20160620180.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\plugins\org.sf.feeling.decompiler.procyon_2.9.0.r20160620180.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.sf.feeling.decompiler.cfr' version='2.9.0.r20160620180'>
+      <properties size='2'>
+        <property name='artifact.size' value='1320805'/>
+        <property name='download.size' value='1320805'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/plugins/org.sf.feeling.decompiler.cfr_2.9.0.r20160620180.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\plugins\org.sf.feeling.decompiler.cfr_2.9.0.r20160620180.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.sf.feeling.decompiler.jad' version='2.9.0.r20160620180'>
+      <properties size='2'>
+        <property name='artifact.size' value='774039'/>
+        <property name='download.size' value='774039'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/plugins/org.sf.feeling.decompiler.jad_2.9.0.r20160620180.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\plugins\org.sf.feeling.decompiler.jad_2.9.0.r20160620180.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.sf.feeling.decompiler.update' version='2.9.0.r20160620180'>
+      <properties size='2'>
+        <property name='artifact.size' value='37693'/>
+        <property name='download.size' value='37693'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/work/pleiades/eclipse/dropins/EclipseClassDecompiler/eclipse/plugins/org.sf.feeling.decompiler.update_2.9.0.r20160620180.jar'/>
+        <property name='file.name' value='C:\work\pleiades\eclipse\dropins\EclipseClassDecompiler\eclipse\plugins\org.sf.feeling.decompiler.update_2.9.0.r20160620180.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

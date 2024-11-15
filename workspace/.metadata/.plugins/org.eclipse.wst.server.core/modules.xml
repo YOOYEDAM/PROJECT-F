@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:Book" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:Sampl" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:exam" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+  <module moduleId="org.eclipse.jst.jee.server:kadai" serverId="ローカル・ホスト の Tomcat8 (Java8)"/>
+</modules>

@@ -1,0 +1,5 @@
+contextsDir=%ECLIPSE_HOME_PARENT%/tomcat/8/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=%ECLIPSE_HOME_PARENT%/tomcat/8/conf/server.xml
+tomcatDir=%ECLIPSE_HOME_PARENT%/tomcat/8
+tomcatVersion=tomcatV8

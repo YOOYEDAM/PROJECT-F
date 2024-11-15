@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 19.0-b09 (Sun Microsystems Inc.)
+Require-Bundle: org.eclipse.ui.editors;bundle-version="[3.5.0,4.0.0)"
+Bundle-Vendor: Quick JUnit Plugin Project
+Bundle-Version: 0.1.0.201204240825
+Bundle-Name: Quick JUnit Contents Assist Template
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: junit.extensions.eclipse.quick.template;singleton
+ :=true
+
