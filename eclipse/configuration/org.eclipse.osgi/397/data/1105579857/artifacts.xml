@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Eclipse2.0StylePluginSupport' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1732587559582'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='2'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.compatibility.plugins' version='1.0.0.v20131023-1243'>
+      <properties size='2'>
+        <property name='artifact.size' value='42747'/>
+        <property name='download.size' value='42747'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Eclipse2.0StylePluginSupport/eclipse/plugins/org.eclipse.osgi.compatibility.plugins_1.0.0.v20131023-1243.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Eclipse2.0StylePluginSupport\eclipse\plugins\org.eclipse.osgi.compatibility.plugins_1.0.0.v20131023-1243.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.osgi.compatibility.plugins.feature' version='1.0.0.v20150202-1328'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Eclipse2.0StylePluginSupport/eclipse/features/org.eclipse.osgi.compatibility.plugins.feature_1.0.0.v20150202-1328/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Eclipse2.0StylePluginSupport\eclipse\features\org.eclipse.osgi.compatibility.plugins.feature_1.0.0.v20150202-1328'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

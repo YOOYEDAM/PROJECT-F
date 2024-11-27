@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\AmaterasModeler' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1732587558852'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='5'>
+    <artifact classifier='osgi.bundle' id='net.java.amateras.umleditor' version='1.3.4'>
+      <properties size='2'>
+        <property name='artifact.size' value='476249'/>
+        <property name='download.size' value='476249'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AmaterasModeler/eclipse/plugins/net.java.amateras.umleditor_1.3.4.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\AmaterasModeler\eclipse\plugins\net.java.amateras.umleditor_1.3.4.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.java.amateras.xstream' version='1.3.4'>
+      <properties size='2'>
+        <property name='artifact.size' value='2868098'/>
+        <property name='download.size' value='2868098'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AmaterasModeler/eclipse/plugins/net.java.amateras.xstream_1.3.4.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\AmaterasModeler\eclipse\plugins\net.java.amateras.xstream_1.3.4.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.java.amateras.db' version='1.0.9.201507010120'>
+      <properties size='2'>
+        <property name='artifact.size' value='3468286'/>
+        <property name='download.size' value='3468286'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AmaterasModeler/eclipse/plugins/net.java.amateras.db_1.0.9.201507010120.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\AmaterasModeler\eclipse\plugins\net.java.amateras.db_1.0.9.201507010120.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='net.java.amateras.modeler' version='1.0.0.201507010120'>
+      <properties size='3'>
+        <property name='artifact.size' value='0'/>
+        <property name='download.size' value='0'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AmaterasModeler/eclipse/features/net.java.amateras.modeler_1.0.0.201507010120/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\AmaterasModeler\eclipse\features\net.java.amateras.modeler_1.0.0.201507010120'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.java.amateras.umleditor.java' version='1.3.4'>
+      <properties size='2'>
+        <property name='artifact.size' value='46479'/>
+        <property name='download.size' value='46479'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AmaterasModeler/eclipse/plugins/net.java.amateras.umleditor.java_1.3.4.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\AmaterasModeler\eclipse\plugins\net.java.amateras.umleditor.java_1.3.4.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

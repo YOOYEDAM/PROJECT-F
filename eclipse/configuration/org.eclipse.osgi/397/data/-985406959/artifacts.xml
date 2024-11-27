@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\FindBugs' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1732587561316'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='1'>
+    <artifact classifier='osgi.bundle' id='edu.umd.cs.findbugs.plugin.eclipse' version='3.0.1.20150306-5afe4d1'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/FindBugs/eclipse/plugins/edu.umd.cs.findbugs.plugin.eclipse_3.0.1.20150306-5afe4d1/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\FindBugs\eclipse\plugins\edu.umd.cs.findbugs.plugin.eclipse_3.0.1.20150306-5afe4d1'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

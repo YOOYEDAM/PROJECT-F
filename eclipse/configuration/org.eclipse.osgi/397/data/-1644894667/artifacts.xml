@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1732587561423'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='8'>
+    <artifact classifier='org.eclipse.update.feature' id='com.xored.glance' version='1.2.8.201607122247'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/features/com.xored.glance_1.2.8.201607122247/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\features\com.xored.glance_1.2.8.201607122247'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.xored.glance.ui.controls' version='1.2.8.201607122247'>
+      <properties size='2'>
+        <property name='artifact.size' value='75156'/>
+        <property name='download.size' value='75156'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/plugins/com.xored.glance.ui.controls_1.2.8.201607122247.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\plugins\com.xored.glance.ui.controls_1.2.8.201607122247.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.xored.glance.ui.gef' version='1.2.8.201607122247'>
+      <properties size='2'>
+        <property name='artifact.size' value='30596'/>
+        <property name='download.size' value='30596'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/plugins/com.xored.glance.ui.gef_1.2.8.201607122247.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\plugins\com.xored.glance.ui.gef_1.2.8.201607122247.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.xored.glance.ui.cvs' version='1.2.8.201607122247'>
+      <properties size='2'>
+        <property name='artifact.size' value='48533'/>
+        <property name='download.size' value='48533'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/plugins/com.xored.glance.ui.cvs_1.2.8.201607122247.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\plugins\com.xored.glance.ui.cvs_1.2.8.201607122247.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.xored.glance.ui.viewers' version='1.2.8.201607122247'>
+      <properties size='2'>
+        <property name='artifact.size' value='20661'/>
+        <property name='download.size' value='20661'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/plugins/com.xored.glance.ui.viewers_1.2.8.201607122247.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\plugins\com.xored.glance.ui.viewers_1.2.8.201607122247.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.xored.glance.cvs' version='1.2.8.201607122247'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/features/com.xored.glance.cvs_1.2.8.201607122247/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\features\com.xored.glance.cvs_1.2.8.201607122247'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.xored.glance.ui' version='1.2.8.201607122247'>
+      <properties size='2'>
+        <property name='artifact.size' value='141168'/>
+        <property name='download.size' value='141168'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/plugins/com.xored.glance.ui_1.2.8.201607122247.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\plugins\com.xored.glance.ui_1.2.8.201607122247.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.xored.glance.gef' version='1.2.8.201607122247'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/eclipse/features/com.xored.glance.gef_1.2.8.201607122247/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Glance\eclipse\features\com.xored.glance.gef_1.2.8.201607122247'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

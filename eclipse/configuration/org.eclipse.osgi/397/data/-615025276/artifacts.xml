@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1732587561768'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='42'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.client' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='260434'/>
+        <property name='download.size' value='260434'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.client_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.client_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.archives.scanner' version='3.6.100.Alpha1-v20160519-0029-B970'>
+      <properties size='2'>
+        <property name='artifact.size' value='24665'/>
+        <property name='download.size' value='24665'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.archives.scanner_3.6.100.Alpha1-v20160519-0029-B970.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.archives.scanner_3.6.100.Alpha1-v20160519-0029-B970.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.usage' version='2.2.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='216856'/>
+        <property name='download.size' value='216856'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.usage_2.2.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.usage_2.2.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.websocket.servlet' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='25061'/>
+        <property name='download.size' value='25061'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.websocket.servlet_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.websocket.servlet_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.websocket.server' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='45912'/>
+        <property name='download.size' value='45912'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.websocket.server_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.websocket.server_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.fasterxml.jackson.core.jackson-annotations' version='2.5.0.v201504151636'>
+      <properties size='2'>
+        <property name='artifact.size' value='49928'/>
+        <property name='download.size' value='49928'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/com.fasterxml.jackson.core.jackson-annotations_2.5.0.v201504151636.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\com.fasterxml.jackson.core.jackson-annotations_2.5.0.v201504151636.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.ide.eclipse.as.core' version='3.2.0.Alpha1-v20160519-0029-B970'>
+      <properties size='2'>
+        <property name='artifact.size' value='930397'/>
+        <property name='download.size' value='930397'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.ide.eclipse.as.core_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.ide.eclipse.as.core_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.common.ui' version='3.8.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='243777'/>
+        <property name='download.size' value='243777'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.common.ui_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.common.ui_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.livereload.core' version='1.4.0.Alpha1-v20160519-2351-B473'>
+      <properties size='2'>
+        <property name='artifact.size' value='307566'/>
+        <property name='download.size' value='307566'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.livereload.core_1.4.0.Alpha1-v20160519-2351-B473.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.livereload.core_1.4.0.Alpha1-v20160519-2351-B473.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.ide.eclipse.as.wtp.core' version='3.2.0.Alpha1-v20160519-0029-B970'>
+      <properties size='2'>
+        <property name='artifact.size' value='345512'/>
+        <property name='download.size' value='345512'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.ide.eclipse.as.wtp.core_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.ide.eclipse.as.wtp.core_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.foundation.ui' version='1.3.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='96292'/>
+        <property name='download.size' value='96292'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.foundation.ui_1.3.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.foundation.ui_1.3.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.livereload.ui' version='1.4.0.Alpha1-v20160519-2351-B473'>
+      <properties size='2'>
+        <property name='artifact.size' value='552576'/>
+        <property name='download.size' value='552576'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.livereload.ui_1.4.0.Alpha1-v20160519-2351-B473.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.livereload.ui_1.4.0.Alpha1-v20160519-2351-B473.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.foundation.checkup' version='1.3.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='50075'/>
+        <property name='download.size' value='50075'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.foundation.checkup_1.3.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.foundation.checkup_1.3.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.common' version='3.8.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='67550'/>
+        <property name='download.size' value='67550'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.common_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.common_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.fasterxml.jackson.core.jackson-databind' version='2.5.0.v201504151636'>
+      <properties size='2'>
+        <property name='artifact.size' value='1180012'/>
+        <property name='download.size' value='1180012'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/com.fasterxml.jackson.core.jackson-databind_2.5.0.v201504151636.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\com.fasterxml.jackson.core.jackson-databind_2.5.0.v201504151636.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.fasterxml.jackson.core.jackson-core' version='2.5.0.v201504151636'>
+      <properties size='2'>
+        <property name='artifact.size' value='239692'/>
+        <property name='download.size' value='239692'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/com.fasterxml.jackson.core.jackson-core_2.5.0.v201504151636.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\com.fasterxml.jackson.core.jackson-core_2.5.0.v201504151636.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.security' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='101714'/>
+        <property name='download.size' value='101714'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.security_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.security_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.common.core' version='3.8.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='220244'/>
+        <property name='download.size' value='220244'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.common.core_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.common.core_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.jboss.tools.livereload.feature' version='1.4.0.Alpha1-v20160519-2351-B473'>
+      <properties size='3'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/features/org.jboss.tools.livereload.feature_1.4.0.Alpha1-v20160519-2351-B473/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\features\org.jboss.tools.livereload.feature_1.4.0.Alpha1-v20160519-2351-B473'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.common.resref.core' version='3.8.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='13921'/>
+        <property name='download.size' value='13921'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.common.resref.core_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.common.resref.core_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.websocket.common' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='204258'/>
+        <property name='download.size' value='204258'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.websocket.common_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.websocket.common_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.ide.eclipse.archives.core' version='3.6.100.Alpha1-v20160519-0029-B970'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.ide.eclipse.archives.core_3.6.100.Alpha1-v20160519-0029-B970/'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.ide.eclipse.archives.core_3.6.100.Alpha1-v20160519-0029-B970'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.io' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='118199'/>
+        <property name='download.size' value='118199'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.io_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.io_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.proxy' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='90562'/>
+        <property name='download.size' value='90562'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.proxy_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.proxy_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.continuation' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='22679'/>
+        <property name='download.size' value='22679'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.continuation_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.continuation_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.servlets' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='94447'/>
+        <property name='download.size' value='94447'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.servlets_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.servlets_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.websocket.api' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='55256'/>
+        <property name='download.size' value='55256'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.websocket.api_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.websocket.api_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.aries.spifly.dynamic.bundle' version='1.0.2'>
+      <properties size='2'>
+        <property name='artifact.size' value='62868'/>
+        <property name='download.size' value='62868'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.apache.aries.spifly.dynamic.bundle_1.0.2.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.apache.aries.spifly.dynamic.bundle_1.0.2.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.common.text.xml' version='3.8.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='105467'/>
+        <property name='download.size' value='105467'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.common.text.xml_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.common.text.xml_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.common.el.core' version='3.8.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='180696'/>
+        <property name='download.size' value='180696'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.common.el.core_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.common.el.core_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.http' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='127731'/>
+        <property name='download.size' value='127731'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.http_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.http_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.objectweb.asm.commons' version='5.0.1.v201404251740'>
+      <properties size='2'>
+        <property name='artifact.size' value='51991'/>
+        <property name='download.size' value='51991'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.objectweb.asm.commons_5.0.1.v201404251740.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.objectweb.asm.commons_5.0.1.v201404251740.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.jmx.core' version='1.8.0.Alpha1-v20160519-0029-B970'>
+      <properties size='2'>
+        <property name='artifact.size' value='72937'/>
+        <property name='download.size' value='72937'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.jmx.core_1.8.0.Alpha1-v20160519-0029-B970.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.jmx.core_1.8.0.Alpha1-v20160519-0029-B970.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.server' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='504736'/>
+        <property name='download.size' value='504736'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.server_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.server_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.ide.eclipse.as.management.core' version='3.2.0.Alpha1-v20160519-0029-B970'>
+      <properties size='2'>
+        <property name='artifact.size' value='30097'/>
+        <property name='download.size' value='30097'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.ide.eclipse.as.management.core_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.ide.eclipse.as.management.core_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.foundation.core' version='1.3.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='107322'/>
+        <property name='download.size' value='107322'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.foundation.core_1.3.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.foundation.core_1.3.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.runtime.core' version='3.2.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='88542'/>
+        <property name='download.size' value='88542'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.runtime.core_3.2.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.runtime.core_3.2.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.aries.util' version='1.1.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='115475'/>
+        <property name='download.size' value='115475'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.apache.aries.util_1.1.1.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.apache.aries.util_1.1.1.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.util' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='438883'/>
+        <property name='download.size' value='438883'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.util_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.util_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.tools.common.validation' version='3.8.0.Alpha1-v20160511-2035-B942'>
+      <properties size='2'>
+        <property name='artifact.size' value='100653'/>
+        <property name='download.size' value='100653'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.tools.common.validation_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.tools.common.validation_3.8.0.Alpha1-v20160511-2035-B942.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.servlet' version='9.3.5.v20151012'>
+      <properties size='2'>
+        <property name='artifact.size' value='123243'/>
+        <property name='download.size' value='123243'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.eclipse.jetty.servlet_9.3.5.v20151012.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.eclipse.jetty.servlet_9.3.5.v20151012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jboss.ide.eclipse.as.dmr' version='3.2.0.Alpha1-v20160519-0029-B970'>
+      <properties size='2'>
+        <property name='artifact.size' value='89445'/>
+        <property name='download.size' value='89445'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/eclipse/plugins/org.jboss.ide.eclipse.as.dmr_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\Livereload\eclipse\plugins\org.jboss.ide.eclipse.as.dmr_3.2.0.Alpha1-v20160519-0029-B970.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

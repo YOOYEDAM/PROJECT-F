@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1732587559368'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='8'>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.checkstyle' version='7.6.0.201703111252'>
+      <properties size='2'>
+        <property name='artifact.size' value='4742666'/>
+        <property name='download.size' value='4742666'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.checkstyle_7.6.0.201703111252.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.checkstyle_7.6.0.201703111252.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.core' version='7.6.0.201703111252'>
+      <properties size='2'>
+        <property name='artifact.size' value='532133'/>
+        <property name='download.size' value='532133'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.core_7.6.0.201703111252.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.core_7.6.0.201703111252.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.branding' version='7.6.0.201612142232'>
+      <properties size='2'>
+        <property name='artifact.size' value='5154'/>
+        <property name='download.size' value='5154'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.branding_7.6.0.201612142232.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.branding_7.6.0.201612142232.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.core.source' version='7.6.0.201703111252'>
+      <properties size='2'>
+        <property name='artifact.size' value='205949'/>
+        <property name='download.size' value='205949'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.core.source_7.6.0.201703111252.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.core.source_7.6.0.201703111252.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.ui' version='7.6.0.201703111252'>
+      <properties size='2'>
+        <property name='artifact.size' value='2206582'/>
+        <property name='download.size' value='2206582'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.ui_7.6.0.201703111252.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.ui_7.6.0.201703111252.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.doc' version='7.6.0.201703111252'>
+      <properties size='2'>
+        <property name='artifact.size' value='3150241'/>
+        <property name='download.size' value='3150241'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.doc_7.6.0.201703111252.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.doc_7.6.0.201703111252.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.ui.source' version='7.6.0.201703111252'>
+      <properties size='2'>
+        <property name='artifact.size' value='247701'/>
+        <property name='download.size' value='247701'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.ui.source_7.6.0.201703111252.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.ui.source_7.6.0.201703111252.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='net.sf.eclipsecs.checkstyle.source' version='7.6.0.201703111252'>
+      <properties size='2'>
+        <property name='artifact.size' value='1003638'/>
+        <property name='download.size' value='1003638'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/C:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/eclipse/plugins/net.sf.eclipsecs.checkstyle.source_7.6.0.201703111252.jar'/>
+        <property name='file.name' value='C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\dropins\CheckStyle\eclipse\plugins\net.sf.eclipsecs.checkstyle.source_7.6.0.201703111252.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
