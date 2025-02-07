@@ -1,0 +1,48 @@
+package action;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import bean.UserBean;
+import dao.UserDAO;
+
+@WebServlet("/SignupAction")
+public class SignupAction extends HttpServlet {
+    private static final long serialVersionUID = 1L;
+
+    protected void doPost(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+
+        request.setCharacterEncoding("UTF-8");
+
+        String userId = request.getParameter("userId");
+        String password = request.getParameter("password");
+        String name = request.getParameter("name");
+        String email = request.getParameter("email");
+        String department = request.getParameter("department");
+
+        if (userId == null || password == null || name == null || email == null || department == null) {
+            response.sendRedirect("error.jsp");
+            return;
+        }
+
+        UserBean user = new UserBean();
+        user.setUserId(userId);
+        user.setPassword(password);
+        user.setName(name);
+        user.setEmail(email);
+        user.setDepartment(department);
+
+        UserDAO dao = new UserDAO();
+        if (dao.insertUser(user)) {
+            response.sendRedirect("success.jsp");
+        } else {
+            response.sendRedirect("error.jsp");
+        }
+    }
+}

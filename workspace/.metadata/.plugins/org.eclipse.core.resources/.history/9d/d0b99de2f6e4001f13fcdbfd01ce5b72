@@ -1,0 +1,10 @@
+<web-app>
+    <servlet>
+        <servlet-name>SignupAction</servlet-name>
+        <servlet-class>action.SignupAction</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SignupAction</servlet-name>
+        <url-pattern>/SignupAction</url-pattern>
+    </servlet-mapping>
+</web-app>

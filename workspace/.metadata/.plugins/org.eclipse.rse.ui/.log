@@ -1,0 +1,11 @@
+Fri Feb 07 11:18:59 JST 2025
+ERROR org.eclipse.rse.ui  Error refreshing remote edit project
+org.eclipse.core.internal.resources.ResourceException: «í?«««ëªÎ«Õ«¡«¤«ë?«·«¹«Æ«àªÇ«ê«½?«¹ªò«ê«Õ«ì«Ã«·«åñéªË«¨«é?ª¬?ßæª·ªÞª·ª¿¡£
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refreshResource(FileSystemResourceManager.java:977)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.refresh(FileSystemResourceManager.java:960)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1594)
+	at org.eclipse.rse.internal.files.ui.resources.SystemRemoteEditManager.refreshRemoteEditProject(SystemRemoteEditManager.java:794)
+	at org.eclipse.rse.internal.files.ui.Activator$InitRemoteEditJob.run(Activator.java:77)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: 'RemoteSystemsTempFiles' ªÎ«×«í«¸«§«¯«ÈÑÀâû«Õ«¡«¤«ë (.project) ª¬ª¢ªêªÞª»ªó¡£ ª³ªÎ«Õ«¡«¤«ëªËªÏ¡¢«×«í«¸«§«¯«ÈªË?ª¹ªëñìé©ªÊï×ÜÃª¬ùßªÞªìªÆª¤ªÞª¹¡£ ª³ªÎ«Õ«¡«¤«ëª¬ÜÖêªªµªìªëªÞªÇ¡¢«×«í«¸«§«¯«ÈªÏïáª·ª¯Ñ¦Òöª·ªÞª»ªó¡£
+--------------------------------------------

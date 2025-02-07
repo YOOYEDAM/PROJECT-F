@@ -1,0 +1,36 @@
+package action;
+
+import dao.UserDAO;
+import bean.UserBean;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class SignupAction extends HttpServlet {
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        response.setContentType("text/plain"); // ✅ 응답을 텍스트 형식으로 설정
+
+        String userId = request.getParameter("userId");
+        String password = request.getParameter("password");
+        String name = request.getParameter("name");
+        String email = request.getParameter("email");
+        String department = request.getParameter("department");
+
+        UserBean user = new UserBean(userId, password, name, email, department);
+        UserDAO userDao = new UserDAO();
+
+        boolean success = userDao.insertUser(user);
+
+        PrintWriter out = response.getWriter();
+        if (success) {
+            out.print("success"); // ✅ 성공하면 "success" 반환
+        } else {
+            out.print("fail"); // ✅ 실패하면 "fail" 반환
+        }
+        out.flush();
+    }
+}

@@ -1,0 +1,57 @@
+<%@ page contentType="text/html; charset=UTF-8" %>
+<!DOCTYPE html>
+<html>
+ <link href="css/style.css" rel="stylesheet">
+
+<head>
+    <title>회원가입</title>
+        <!-- ✅ 로컬 Bootstrap CSS 적용 -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- ✅ 로컬 Bootstrap JS 적용 -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script>
+        function validateForm() {
+            let userId = document.getElementById("userId").value;
+            let password = document.getElementById("password").value;
+            let email = document.getElementById("email").value;
+            let idPattern = /[A-Za-z].*\d|\d.*[A-Za-z]/;
+            let passPattern = /(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}/;
+            let emailPattern = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/;
+
+            if (!idPattern.test(userId)) {
+                alert("ID는 알파벳과 숫자가 포함되어야 합니다.");
+                return false;
+            }
+
+            if (!passPattern.test(password)) {
+                alert("비밀번호는 대소문자, 숫자, 특수기호가 포함되어야 합니다.");
+                return false;
+            }
+
+            if (!emailPattern.test(email)) {
+                alert("올바른 이메일 형식을 입력하세요.");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <h2>회원가입</h2>
+    <form action="SignupAction" method="post" onsubmit="return validateForm();">
+        아이디: <input type="text" id="userId" name="userId" required><br>
+        비밀번호: <input type="password" id="password" name="password" required><br>
+        이름: <input type="text" name="name" required><br>
+        이메일: <input type="email" id="email" name="email" required><br>
+        희망 부서:
+        <select name="department">
+            <option value="부서1">부서1</option>
+            <option value="부서2">부서2</option>
+            <option value="부서3">부서3</option>
+        </select><br>
+        <button type="submit">가입하기</button>
+    </form>
+</body>
+</html>
