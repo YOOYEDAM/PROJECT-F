@@ -4,11 +4,13 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseext
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseextension/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseextension/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\.eclipseextension
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseextension/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseextension/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseextension/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/.eclipseextension
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_.eclipseextension/version=1
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_configuration_org.eclipse.osgi_405_data_listener_1925729951/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_configuration_org.eclipse.osgi_405_data_listener_1925729951/name=dropins
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_configuration_org.eclipse.osgi_405_data_listener_1925729951/suffix=content.xml
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_configuration_org.eclipse.osgi_405_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_configuration_org.eclipse.osgi_405_data_listener_1925729951/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/configuration/org.eclipse.osgi/405/data/listener_1925729951/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_configuration_org.eclipse.osgi_405_data_listener_1925729951/version=1.0.0
@@ -17,6 +19,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ama
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasModeler/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasModeler/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\AmaterasModeler
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasModeler/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasModeler/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasModeler/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasModeler/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AmaterasModeler/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasModeler/version=1
@@ -25,6 +28,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ama
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasStepCounter/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasStepCounter/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\AmaterasStepCounter
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasStepCounter/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasStepCounter/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasStepCounter/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasStepCounter/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AmaterasStepCounter/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AmaterasStepCounter/version=1
@@ -33,6 +37,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Any
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AnyEditTools/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AnyEditTools/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\AnyEditTools
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AnyEditTools/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AnyEditTools/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AnyEditTools/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AnyEditTools/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AnyEditTools/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AnyEditTools/version=1
@@ -41,6 +46,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Aut
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AutodetectEncoding/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AutodetectEncoding/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\AutodetectEncoding
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AutodetectEncoding/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AutodetectEncoding/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AutodetectEncoding/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AutodetectEncoding/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/AutodetectEncoding/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_AutodetectEncoding/version=1
@@ -49,6 +55,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Che
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_CheckStyle/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_CheckStyle/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\CheckStyle
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_CheckStyle/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_CheckStyle/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_CheckStyle/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_CheckStyle/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/CheckStyle/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_CheckStyle/version=1
@@ -57,6 +64,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBV
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBViewer/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBViewer/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\DBViewer
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBViewer/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBViewer/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBViewer/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBViewer/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/DBViewer/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_DBViewer/version=1
@@ -65,6 +73,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ecl
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Eclipse2.0StylePluginSupport/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Eclipse2.0StylePluginSupport/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\Eclipse2.0StylePluginSupport
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Eclipse2.0StylePluginSupport/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Eclipse2.0StylePluginSupport/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Eclipse2.0StylePluginSupport/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Eclipse2.0StylePluginSupport/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Eclipse2.0StylePluginSupport/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Eclipse2.0StylePluginSupport/version=1
@@ -73,6 +82,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ecl
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseClassDecompiler/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseClassDecompiler/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\EclipseClassDecompiler
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseClassDecompiler/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseClassDecompiler/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseClassDecompiler/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseClassDecompiler/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/EclipseClassDecompiler/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseClassDecompiler/version=1
@@ -81,6 +91,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ecl
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseColorTheme/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseColorTheme/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\EclipseColorTheme
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseColorTheme/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseColorTheme/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseColorTheme/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseColorTheme/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/EclipseColorTheme/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseColorTheme/version=1
@@ -89,6 +100,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ecl
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRCP/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRCP/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\EclipseRCP
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRCP/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRCP/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRCP/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRCP/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/EclipseRCP/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRCP/version=1
@@ -97,6 +109,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ecl
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRunner/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRunner/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\EclipseRunner
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRunner/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRunner/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRunner/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRunner/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/EclipseRunner/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_EclipseRunner/version=1
@@ -105,6 +118,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Fin
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_FindBugs/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_FindBugs/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\FindBugs
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_FindBugs/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_FindBugs/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_FindBugs/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_FindBugs/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/FindBugs/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_FindBugs/version=1
@@ -113,6 +127,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Gla
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Glance/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Glance/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\Glance
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Glance/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Glance/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Glance/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Glance/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Glance/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Glance/version=1
@@ -121,6 +136,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSD
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSDTJQuery/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSDTJQuery/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\JSDTJQuery
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSDTJQuery/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSDTJQuery/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSDTJQuery/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSDTJQuery/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/JSDTJQuery/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_JSDTJQuery/version=1
@@ -129,6 +145,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Lim
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Limy/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Limy/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\Limy
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Limy/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Limy/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Limy/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Limy/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Limy/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Limy/version=1
@@ -137,6 +154,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Liv
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Livereload/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Livereload/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\Livereload
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Livereload/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Livereload/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Livereload/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Livereload/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Livereload/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Livereload/version=1
@@ -145,6 +163,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E-APT/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E-APT/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\M2E-APT
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E-APT/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E-APT/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E-APT/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E-APT/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/M2E-APT/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_M2E-APT/version=1
@@ -153,6 +172,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Mer
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MergeDoc/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MergeDoc/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\MergeDoc
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MergeDoc/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MergeDoc/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MergeDoc/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MergeDoc/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/MergeDoc/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MergeDoc/version=1
@@ -161,6 +181,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Min
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MinimalistGradleEditor/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MinimalistGradleEditor/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\MinimalistGradleEditor
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MinimalistGradleEditor/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MinimalistGradleEditor/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MinimalistGradleEditor/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MinimalistGradleEditor/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/MinimalistGradleEditor/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MinimalistGradleEditor/version=1
@@ -169,6 +190,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Moo
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MoonriseUITheme/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MoonriseUITheme/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\MoonriseUITheme
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MoonriseUITheme/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MoonriseUITheme/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MoonriseUITheme/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MoonriseUITheme/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/MoonriseUITheme/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_MoonriseUITheme/version=1
@@ -177,6 +199,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTa
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTail/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTail/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\NTail
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTail/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTail/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTail/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTail/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/NTail/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_NTail/version=1
@@ -185,6 +208,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Ope
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_OpenExternal/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_OpenExternal/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\OpenExternal
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_OpenExternal/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_OpenExternal/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_OpenExternal/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_OpenExternal/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/OpenExternal/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_OpenExternal/version=1
@@ -193,6 +217,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Qui
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickJUnit/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickJUnit/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\QuickJUnit
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickJUnit/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickJUnit/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickJUnit/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickJUnit/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/QuickJUnit/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickJUnit/version=1
@@ -201,6 +226,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Qui
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickREx/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickREx/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\QuickREx
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickREx/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickREx/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickREx/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickREx/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/QuickREx/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_QuickREx/version=1
@@ -209,6 +235,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Sub
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Subversive/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Subversive/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\Subversive
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Subversive/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Subversive/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Subversive/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Subversive/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/Subversive/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Subversive/version=1
@@ -217,6 +244,7 @@ repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_Sub
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_SubversiveJDT/isSystem=true
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_SubversiveJDT/name=C\:\\Users\\Yoo\\Documents\\GitHub\\PROJECT-F\\eclipse\\dropins\\SubversiveJDT
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_SubversiveJDT/provider=
+repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_SubversiveJDT/suffix=eclipse
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_SubversiveJDT/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_SubversiveJDT/uri=file\:/C\:/Users/Yoo/Documents/GitHub/PROJECT-F/eclipse/dropins/SubversiveJDT/
 repositories/file\:_C\:_Users_Yoo_Documents_GitHub_PROJECT-F_eclipse_dropins_SubversiveJDT/version=1
