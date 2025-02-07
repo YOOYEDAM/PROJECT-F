@@ -205,3 +205,15 @@
 0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:09:34 +0900] "GET /Project-newcompany/css/style.css HTTP/1.1" 200 395
 0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:09:34 +0900] "GET /Project-newcompany/css/bootstrap.min.css HTTP/1.1" 200 232948
 0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:09:34 +0900] "GET /Project-newcompany/js/bootstrap.bundle.min.js HTTP/1.1" 200 80663
+127.0.0.1 - - [07/Feb/2025:14:18:59 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:19:00 +0900] "GET /Project-newcompany/ HTTP/1.1" 200 859
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:19:04 +0900] "GET /Project-newcompany/signup.jsp HTTP/1.1" 200 4654
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:19:55 +0900] "GET /Project-newcompany HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:19:55 +0900] "GET /Project-newcompany/ HTTP/1.1" 200 859
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:20:03 +0900] "GET /Project-newcompany/ HTTP/1.1" 200 859
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:20:03 +0900] "GET /Project-newcompany/css/style.css HTTP/1.1" 200 395
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:20:03 +0900] "GET /Project-newcompany/js/bootstrap.bundle.min.js HTTP/1.1" 200 80663
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:20:03 +0900] "GET /Project-newcompany/css/bootstrap.min.css HTTP/1.1" 200 232948
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:20:05 +0900] "GET /Project-newcompany/signup.jsp HTTP/1.1" 200 4654
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:20:22 +0900] "POST /Project-newcompany/SignupAction HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [07/Feb/2025:14:20:24 +0900] "GET /Project-newcompany/login.jsp HTTP/1.1" 404 1075

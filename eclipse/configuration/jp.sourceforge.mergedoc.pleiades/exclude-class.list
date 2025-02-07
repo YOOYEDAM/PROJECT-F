@@ -1384,6 +1384,7 @@ org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.ui.action
 /java.awt.Container
 org.eclipse.e4.ui.css.swt_0.12.100.v20160517-1505.jar/org.eclipse.e4.ui.css.swt.resources.SWTResourceRegistryKeyFactory
 org.eclipse.wst.common.project.facet.ui_1.4.600.v201505072140.jar/org.eclipse.wst.common.project.facet.ui.ModifyFacetedProjectWizard$5$1
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.reorg.JavaMoveProcessor
 /javax.crypto.ShortBufferException
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.internal.core.ifeature.IFeatureData
 maven-model-builder-3.3.9.jar/org.apache.maven.model.building.ModelData
@@ -11022,6 +11023,7 @@ org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.sea
 org.eclipse.equinox.p2.core_2.4.100.v20160419-0834.jar/org.eclipse.equinox.internal.p2.core.helpers.FileUtils$2
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.ETypedElement
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.ShowInPackageViewAction
+org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.SWTException
 /org.apache.maven.artifact.handler.DefaultArtifactHandler$__sisu14
 /org.apache.maven.artifact.handler.DefaultArtifactHandler$__sisu15
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.parsers.DOMParser
@@ -11523,6 +11525,7 @@ org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.int
 org.apache.httpcomponents.httpcore_4.3.3.v201411290715.jar/org.apache.http.impl.entity.LaxContentLengthStrategy
 org.eclipse.wst.jsdt.debug.rhino.ui_1.0.500.v201604292217.jar/org.eclipse.wst.jsdt.debug.internal.rhino.ui.refactoring.ScriptRenameParticipant
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.refactoring.actions.MoveInstanceMethodAction
+org.eclipse.ui.ide_3.12.3.v20170119-0935.jar/org.eclipse.ui.internal.ide.actions.BuildSetAction
 org.eclipse.wst.common.emf_1.2.500.v201701191735.jar/org.eclipse.wst.common.internal.emf.utilities.TranslatorManager
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.custom.StyledTextRenderer$1
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.PropagatingAdapter
@@ -14554,6 +14557,7 @@ org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.comm
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.ClasspathContainerInitializer
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.source.projection.ProjectionSupport$ProjectionDrawingStrategy
 org.eclipse.ltk.ui.refactoring_3.8.0.v20160518-1817.jar/org.eclipse.ltk.ui.refactoring.resource.RenameResourceWizard
+org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.resource.URLImageDescriptor$URLImageDataProvider
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.Viewer$1
 org.eclipse.core.filesystem_1.6.1.v20161113-2349.jar/org.eclipse.core.internal.filesystem.Policy
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.JavaIndenter
@@ -16848,6 +16852,7 @@ org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.
 org.eclipse.equinox.p2.metadata_2.3.100.v20160427-2220.jar/org.eclipse.equinox.p2.query.Collector$1
 org.eclipse.rse.core_3.3.100.201603151753.jar/org.eclipse.rse.core.subsystems.ISubSystemConfiguration
 /org.apache.taglibs.standard.tei.Util
+org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.resource.DeviceResourceException
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.framework.eventmgr.EventDispatcher
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.commands.impl.CommandsPackageImpl$Literals
 net.sf.eclipsecs.ui_7.6.0.201703111252.jar/net.sf.eclipsecs.ui.properties.filter.CheckFileOnOpenPartListener$PartsOpenedJob
@@ -22456,6 +22461,7 @@ org.eclipse.ui.workbench.texteditor_3.10.1.v20160818-1626.jar/org.eclipse.ui.tex
 maven-model-builder-3.3.9.jar/org.apache.maven.model.interpolation.BuildTimestampValueSource
 ch.qos.logback.classic_1.0.7.v20121108-1250.jar/ch.qos.logback.classic.pattern.CallerDataConverter
 org.eclipse.epp.mpc.core_1.5.4.v20170222-1921.jar/org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport$1
+org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.core.refactoring.participants.MoveProcessor
 ch.qos.logback.classic_1.0.7.v20121108-1250.jar/ch.qos.logback.classic.encoder.PatternLayoutEncoder
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.internal.core.ExternalModelManager
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.PackageDeclaration
