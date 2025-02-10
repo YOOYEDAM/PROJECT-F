@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>分析ページ</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        canvas {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>評価の分析結果</h1>
+    <canvas id="radarChart" width="600" height="600"></canvas> <!-- キャンバスのサイズを変更 -->
+    <h2>AIアドバイス:</h2>
+    <p id="aiAdvice"></p>
+
+    <script>
+        function displayChartAndAdvice() {
+            // ローカルストレージからデータを取得
+            const criteria = JSON.parse(localStorage.getItem('criteria'));
+
+            // データをチャートに変換
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            const radarChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: ['JavaScript', 'Python', 'Java', 'C++', 'C#', 'PHP', 'Swift', 'Ruby', 'Go (Golang)', 'SQL'],
+                    datasets: [{
+                        label: '評価',
+                        data: criteria,
+                        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scale: {
+                        ticks: {
+                            beginAtZero: true,
+                            min: 1,
+                            max: 5
+                        }
+                    }
+                }
+            });
+
+            // TensorFlow.jsで簡単なAIモデルを作成してアドバイスを生成
+            async function generateAdvice() {
+                // モデルの作成
+                const model = tf.sequential();
+                model.add(tf.layers.dense({units: 1, inputShape: [10]}));
+                model.compile({optimizer: 'sgd', loss: 'meanSquaredError'});
+
+                // 学習データ（仮のデータを使用）
+                const xs = tf.tensor2d([
+                    [1, 2, 3, 4, 5, 1, 2, 3, 4, 5],
+                    [5, 4, 3, 2, 1, 5, 4, 3, 2, 1]
+                ]);
+                const ys = tf.tensor2d([[1], [0]]);
+
+                // モデルを訓練
+                await model.fit(xs, ys, {epochs: 10});
+
+                // 入力データの予測
+                const input = tf.tensor2d([criteria]);
+                const prediction = model.predict(input);
+                const advice = prediction.dataSync()[0] > 1 ? "評価が高いです！この調子で続けてください。" : "改善の余地があります。目標に向かって頑張りましょう。";
+
+                // アドバイスを表示
+                document.getElementById('aiAdvice').textContent = advice;
+            }
+
+            generateAdvice();
+        }
+
+        // ページが読み込まれた時にチャートとアドバイスを表示
+        window.onload = displayChartAndAdvice;
+    </script>
+</body>
+</html>

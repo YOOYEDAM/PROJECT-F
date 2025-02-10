@@ -1,0 +1,30 @@
+INFO  11:48:45.807 [main] (Pleiades) Pleiades キャッシュ保管パス: C:\Users\Yoo\Documents\GitHub\PROJECT-F\eclipse\configuration\jp.sourceforge.mergedoc.pleiades
+INFO  11:48:45.808 [main] (Pleiades) Eclipse AOP 起動トランスフォーマーを開始します。Pleiades 起動オプション:null
+INFO  11:48:45.934 [main] (PleiadesConfig) Pleiades 構成ファイルをロードしました。pleiades-config.xml
+INFO  11:48:45.958 [pool-1-thread-4] (PropertySet) load  0.019 秒 -      6 エントリー org.eclipse.ui.ide.prefs
+INFO  11:48:45.959 [pool-1-thread-2] (PropertySet) load  0.021 秒 -     69 エントリー translation-exclude-package.properties
+INFO  11:48:45.987 [pool-1-thread-2] (PropertySet) load  0.022 秒 -    475 エントリー translation-regex.properties
+INFO  11:48:46.035 [pool-1-thread-2] (PropertySet) load  0.030 秒 -     16 エントリー translation-regex-through.properties
+INFO  11:48:46.097 [main] (LauncherEclipseTransformer) transform: org.eclipse.equinox.launcher.Main
+INFO  11:48:46.133 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (前回): 2024-11-15 11:35:50
+INFO  11:48:46.133 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (今回): 2024-11-15 11:35:50
+INFO  11:48:46.234 [main] (LauncherTransformer) アプリケーションの起動を開始しました。-clean:false
+INFO  11:48:46.234 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  11:48:46.250 [main] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  11:48:46.301 [pool-1-thread-2] (ExcludeClassNameCache) load   22657 エントリー exclude-class.list
+INFO  11:48:46.502 [pool-1-thread-2] (TransformedClassCache) load     989 エントリー transformed-class.cache
+INFO  11:48:46.612 [pool-1-thread-2] (ValueHashPropertySet) load  0.104 秒 -  24227 エントリー translation-cache.properties.zip
+INFO  11:48:46.623 [pool-1-thread-2] (CachePropertySet) load  0.009 秒 -   2425 エントリー mnemonic-cache.properties.zip
+INFO  11:49:23.449 [main] (Analyses) Eclipse 始動完了 - 始動時間: 36.946 秒。-clean:false
+INFO  11:50:01.597 [main] (AbstractTranslationDictionary$1) load  0.326 秒 - 132956 エントリー translation.properties
+INFO  11:50:01.607 [main] (PropertySet) load  0.010 秒 -    264 エントリー translation-first.properties
+INFO  11:55:16.870 [main] (TransformedClassCache) load     989 エントリー transformed-class.cache
+INFO  11:55:17.149 [main] (TransformedClassCache) store    1009 エントリー transformed-class.cache
+INFO  11:55:17.185 [main] (ExcludeClassNameCache) load   22657 エントリー exclude-class.list
+INFO  11:55:17.332 [main] (ExcludeClassNameCache) store  22834 エントリー exclude-class.list
+INFO  11:55:17.337 [main] (PropertySet) load  0.005 秒 -   2425 エントリー mnemonic-cache.properties.zip
+INFO  11:55:17.360 [main] (CachePropertySet) store 0.022 秒 -   2506 エントリー mnemonic-cache.properties.zip
+INFO  11:55:17.361 [main] (CachePropertySet) ニーモニック変換キャッシュ・プロパティーを更新しました。
+INFO  11:55:17.415 [main] (PropertySet) load  0.053 秒 -  24227 エントリー translation-cache.properties.zip
+INFO  11:55:17.579 [main] (ValueHashPropertySet) store 0.164 秒 -  24665 エントリー translation-cache.properties.zip
+INFO  11:55:17.580 [main] (CachePropertySet) 翻訳キャッシュ・プロパティーを更新しました。

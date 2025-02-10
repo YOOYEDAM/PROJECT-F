@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>評価入力フォーム</title>
+</head>
+<body>
+    <h1>評価入力フォーム</h1>
+    <form id="evaluationForm">
+        <label for="criteria1">JavaScript:</label>
+        <input type="number" id="criteria1" name="criteria1" min="1" max="5" required><br><br>
+
+        <label for="criteria2">Python:</label>
+        <input type="number" id="criteria2" name="criteria2" min="1" max="5" required><br><br>
+
+        <label for="criteria3">Java:</label>
+        <input type="number" id="criteria3" name="criteria3" min="1" max="5" required><br><br>
+
+        <label for="criteria4">C++:</label>
+        <input type="number" id="criteria4" name="criteria4" min="1" max="5" required><br><br>
+
+        <label for="criteria5">C#:</label>
+        <input type="number" id="criteria5" name="criteria5" min="1" max="5" required><br><br>
+
+        <label for="criteria6">PHP:</label>
+        <input type="number" id="criteria6" name="criteria6" min="1" max="5" required><br><br>
+
+        <label for="criteria7">Swift:</label>
+        <input type="number" id="criteria7" name="criteria7" min="1" max="5" required><br><br>
+
+        <label for="criteria8">Ruby:</label>
+        <input type="number" id="criteria8" name="criteria8" min="1" max="5" required><br><br>
+
+        <label for="criteria9">Go (Golang):</label>
+        <input type="number" id="criteria9" name="criteria9" min="1" max="5" required><br><br>
+
+        <label for="criteria10">SQL:</label>
+        <input type="number" id="criteria10" name="criteria10" min="1" max="5" required><br><br>
+
+        <input type="submit" value="送信">
+    </form>
+
+    <script>
+        document.getElementById('evaluationForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            // 入力データを取得
+            const criteria = [];
+            for (let i = 1; i <= 10; i++) {
+                criteria.push(parseFloat(document.getElementById('criteria' + i).value));
+            }
+
+            // ローカルストレージにデータを保存
+            localStorage.setItem('criteria', JSON.stringify(criteria));
+
+            // 分析ページにリダイレクト
+            window.location.href = 'evaluation.html';
+        });
+    </script>
+</body>
+</html>
