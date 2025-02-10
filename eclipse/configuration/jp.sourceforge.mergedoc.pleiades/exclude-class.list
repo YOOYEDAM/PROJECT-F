@@ -36,6 +36,7 @@ ch.qos.logback.core_1.0.7.v20121108-1250.jar/ch.qos.logback.core.joran.util.Prop
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.BasicSearchEngine$5
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.BasicSearchEngine$4
 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.wst.common.project.facet.core.events.internal.TargetedRuntimesChangedEvent
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.BasicSearchEngine$6
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.dnd.DragSource$1
 org.eclipse.mylyn.commons.repositories.ui_1.13.0.v20160630-1702.jar/org.eclipse.mylyn.internal.commons.repositories.ui.UiLocationService
 org.eclipse.rse.core_3.3.100.201603151753.jar/org.eclipse.rse.core.filters.ISystemFilterReference
@@ -86,6 +87,7 @@ org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.int
 maven-settings-builder-3.3.9.jar/org.apache.maven.settings.io.DefaultSettingsWriter
 org.eclipse.tm.terminal.view.ui_4.2.0.201609191434.jar/org.eclipse.tm.terminal.view.ui.local.showin.ExternalExecutablesManager
 org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$TextInputListener
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.CuCollectingSearchRequestor
 org.eclipse.ui.browser_3.5.2.v20161114-0210.jar/org.eclipse.ui.internal.browser.WebBrowserEditorInput
 velocity-1.5.jar/org.apache.velocity.runtime.parser.Parser$LookaheadSuccess
 org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.internal.storage.file.ObjectDirectory$AlternateHandle
@@ -284,6 +286,7 @@ org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.action.IStatusLine
 velocity-1.5.jar/org.apache.velocity.context.Context
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.e4.compatibility.CompatibilityView$1$1
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.storage.NativeCodeFinder
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.PossibleMatchSet
 svnkit.jar/org.tmatesoft.svn.core.internal.wc.admin.SVNAdminArea16Factory
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$3
 com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.impl.CharacterIteratorWrapper
@@ -322,6 +325,7 @@ org.eclipse.core.jobs_3.8.0.v20160509-0411.jar/org.eclipse.core.internal.jobs.Jo
 org.eclipse.debug.ui_3.11.202.v20161114-0338.jar/org.eclipse.debug.ui.contexts.IDebugContextManager
 org.eclipse.jst.jee_1.0.700.v201404092004.jar/org.eclipse.jst.jee.model.internal.mergers.ResourceEnvRefsMerger
 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.wst.common.project.facet.core.events.internal.FixedFacetsChangedEvent
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.PossibleMatch
 org.eclipse.text_3.6.0.v20160503-1849.jar/org.eclipse.jface.text.projection.ProjectionDocumentEvent
 org.eclipse.equinox.p2.repository_2.3.200.v20160421-0324.jar/org.eclipse.equinox.p2.repository.spi.AbstractRepository
 org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.jspel.ASTMultiplyExpression
@@ -427,6 +431,7 @@ org.eclipse.core.filebuffers_3.6.0.v20160503-1849.jar/org.eclipse.core.internal.
 org.apache.httpcomponents.httpclient_4.3.6.v201511171540.jar/org.apache.http.conn.util.InetAddressUtils
 maven-core-3.3.9.jar/org.apache.maven.project.ProjectRealmCache$Key
 org.eclipse.wst.wsdl.validation_1.1.700.v201505131719.jar/org.eclipse.wst.wsdl.validation.internal.logging.ILogger
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.LineInformation
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.contentassist.ISubjectControlContentAssistant
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.IWidgetTokenOwner
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.wizards.NewTypeWizardPage
@@ -516,6 +521,7 @@ org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.collect.UnmodifiableListIterator
 org.eclipse.e4.ui.di_1.1.100.v20160506-0759.jar/org.eclipse.e4.ui.di.PersistState
 org.eclipse.equinox.ds_1.4.400.v20160226-2036.jar/org.eclipse.equinox.internal.ds.impl.ComponentInstanceImpl
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.ChangeHoverInformationControl
 guice-4.0-no_aop.jar/com.google.inject.internal.MembersInjectorImpl$1$1
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.contentmodel.PropertyProviderFactory$PPIsJSP
 org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.common.componentcore.internal.impl.WorkbenchComponentImpl
@@ -855,6 +861,7 @@ org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.impl.Basic
 guava-18.0.jar/com.google.common.collect.MapMaker
 archetype-common-2.4.jar/org.apache.maven.archetype.creator.FilesetArchetypeCreator
 org.eclipse.debug.ui_3.11.202.v20161114-0338.jar/org.eclipse.debug.ui.IBreakpointOrganizerDelegateExtension
+org.eclipse.pde.ui_3.9.100.v20161102-0517.jar/org.eclipse.pde.internal.ui.refactoring.ResourceMoveParticipant
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.part.EditorInputTransfer$EditorInputData
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.taglib.internal.impl.TaglibPackageImpl
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.editors.text.TextFileDocumentProvider$DocumentProviderOperation
@@ -949,6 +956,7 @@ org.eclipse.mylyn.tasks.ui_3.21.0.v20160913-2131.jar/org.eclipse.mylyn.internal.
 org.eclipse.gef_3.11.0.201606061308.jar/org.eclipse.gef.GraphicalViewer
 maven-model-builder-3.3.9.jar/org.apache.maven.model.management.PluginManagementInjector
 org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.inject.Weak
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.JavaChangeHover$1
 org.apache.httpcomponents.httpcore_4.3.3.v201411290715.jar/org.apache.http.message.BasicHeader
 /org.w3c.dom.Document
 plexus-interpolation-1.21.jar/org.codehaus.plexus.interpolation.reflection.ReflectionValueExtractor
@@ -1342,6 +1350,7 @@ org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.int
 org.eclipse.wst.xml.ui_1.1.700.v201604272318.jar/org.eclipse.wst.xml.ui.internal.tabletree.SourceEditorActionBarContributor
 org.eclipse.core.commands_3.8.1.v20161221-1651.jar/org.eclipse.core.commands.contexts.ContextManagerEvent
 org.eclipse.wst.xsd.core_1.1.900.v201401141857.jar/org.eclipse.wst.xsd.contentmodel.internal.XSDImpl$ElementDeclarationBaseImpl
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.provisional.IApiBaselineManager
 maven-model-builder-3.3.9.jar/org.apache.maven.model.plugin.ReportConfigurationExpander
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.CompilationUnitDocumentProvider$CompilationUnitInfo
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.core.MessageDestination
@@ -1350,6 +1359,7 @@ org.eclipse.jst.j2ee.ui_1.1.900.v201602161345.jar/org.eclipse.jst.j2ee.ui.projec
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.ast.IQualifiedNameReference
 org.eclipse.equinox.preferences_3.6.1.v20160815-1406.jar/org.eclipse.core.runtime.preferences.DefaultScope
 xstream-1.3.1.jar/com.thoughtworks.xstream.mapper.ArrayMapper
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MatchingNodeSet
 org.eclipse.e4.tools.services_4.5.0.v20160503-0947.jar/org.eclipse.e4.tools.services.impl.ResourcePoolFactory
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.ast.IConditionalExpression
 org.eclipse.osgi.compatibility.state_1.0.200.v20160504-1419.jar/org.eclipse.osgi.internal.resolver.BundleSpecificationImpl
@@ -2063,6 +2073,7 @@ org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.interna
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.ClipboardOperationAction
 org.eclipse.equinox.p2.repository_2.3.200.v20160421-0324.jar/org.eclipse.equinox.p2.repository.IRunnableWithProgress
 guava-18.0.jar/com.google.common.base.Preconditions
+org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.search.indexing.RemoveFolderFromIndex
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.webfragment.WebAppDeploymentDescriptor
 org.eclipse.pde.ui_3.9.100.v20161102-0517.jar/org.eclipse.pde.internal.ui.views.plugins.AddAllPluginsToJavaSearchHandler
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.builder.StringSet
@@ -2078,6 +2089,7 @@ org.eclipse.equinox.registry_3.6.100.v20160223-2218.jar/org.eclipse.core.interna
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.container.ModuleResolver
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.common.SecurityIdentity
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.menu.impl.TrimContributionImpl
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.rename.RenamePackageProcessor$PackageRenamer$1
 org.eclipse.m2e.wtp_1.3.1.20160831-1005.jar/org.eclipse.m2e.wtp.internal.build.WarProjectBuildParticipant$1
 org.eclipse.wst.css.core_1.1.900.v201603171933.jar/org.eclipse.wst.css.core.internal.document.CSSRuleImpl
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.indexing.RemoveFolderFromIndex
@@ -2338,6 +2350,7 @@ org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.internal.url.Multipl
 /org.w3c.dom.CDATASection
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.widgets.Sash
 org.eclipse.core.net_1.3.0.v20160418-1534.jar/org.eclipse.core.internal.net.proxy.win32.winhttp.WinHttpCurrentUserIEProxyConfig
+org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.search.JSPSearchParticipant
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.core.IEditable
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.actions.CleanUpAction
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.problem.AbortMethod
@@ -2488,6 +2501,7 @@ org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.as
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.progress.IJobProgressManagerListener
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.xni.parser.XMLDTDScanner
 org.eclipse.emf.ecore.xmi_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.xmi.XMIResource
+org.eclipse.jst.servlet.ui_1.1.900.v201605251556.jar/org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeAction
 maven-model-3.3.9.jar/org.apache.maven.model.License
 org.eclipse.jdt.core.manipulation_1.7.0.v20160419-0705.jar/org.eclipse.jdt.core.refactoring.UndoCompilationUnitChange
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.events.VerifyEvent
@@ -2504,6 +2518,7 @@ dom4j-1.6.1.jar/org.dom4j.tree.DefaultElement
 org.eclipse.cft.server.verify.ui_1.0.1.v201703012110.jar/org.eclipse.cft.server.verify.ui.internal.JREVersionVerifier
 org.eclipse.osgi.compatibility.plugins_1.0.0.v20131023-1243.jar/org.eclipse.osgi.compatibility.plugins.PluginConverterHook
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.builder.NameEnvironment
+org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.search.indexing.RemoveFromIndex
 maven-core-3.3.9.jar/org.apache.maven.lifecycle.internal.DefaultLifecyclePluginAnalyzer$GoalSpec
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.web.WelcomeFileList
 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.wst.common.project.facet.core.internal.Constraint
@@ -3001,6 +3016,7 @@ org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.wire.LocatorWiring
 org.eclipse.equinox.p2.metadata.repository_1.2.300.v20160419-0834.jar/org.eclipse.equinox.internal.p2.metadata.repository.io.MetadataParser$TouchpointDataHandler
 maven-core-3.3.9.jar/org.apache.maven.toolchain.merge.MavenToolchainMerger
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.IObjectActionContributor
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MultiTypeDeclarationPattern
 plexus-io-2.0.2.jar/org.codehaus.plexus.components.io.filemappers.MergeFileMapper
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.lookup.TypeSystem$HashedParameterizedTypes$InternalParameterizedTypeBinding
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.javaeditor.saveparticipant.AbstractSaveParticipantPreferenceConfiguration
@@ -3031,6 +3047,7 @@ org.apache.felix.gogo.runtime_0.10.0.v201209301036.jar/org.apache.felix.gogo.run
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.hyperlink.IHyperlinkPresenterExtension
 org.eclipse.wst.validation_1.2.700.v201508251749.jar/org.eclipse.wst.validation.internal.ConfigurationConstants
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.modelhandler.ModelHandlerForHTML
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.javaeditor.JavaElementReturnTypeHyperlink
 guice-4.0-no_aop.jar/com.google.inject.binder.AnnotatedBindingBuilder
 org.eclipse.wst.jsdt.js.common_1.0.200.v201610211901.jar/org.eclipse.wst.jsdt.js.common.CommonPlugin
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.util.DefaultErrorHandler
@@ -3110,6 +3127,7 @@ org.apache.felix.gogo.runtime_0.10.0.v201209301036.jar/org.apache.felix.gogo.run
 org.eclipse.core.commands_3.8.1.v20161221-1651.jar/org.eclipse.core.commands.ExecutionEvent
 org.eclipse.ui.workbench.texteditor_3.10.1.v20160818-1626.jar/org.eclipse.ui.texteditor.BlockSelectionModeToggleAction
 org.eclipse.m2e.core_1.7.0.20160603-1933.jar/org.eclipse.m2e.core.project.configurator.ProjectConfigurationRequest
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MatchLocatorParser$ClassButNoMethodDeclarationVisitor
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.ModifyParametersAction
 org.jboss.ide.eclipse.as.wtp.core_3.2.0.Alpha1-v20160519-0029-B970.jar/org.jboss.ide.eclipse.as.wtp.core.ASWTPToolsPlugin$1
 com.google.gson_2.2.4.v201311231704.jar/com.google.gson.JsonDeserializer
@@ -3605,6 +3623,7 @@ org.jboss.ide.eclipse.as.wtp.core_3.2.0.Alpha1-v20160519-0029-B970.jar/org.jboss
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.rules.IRule
 org.eclipse.wst.jsdt.web.core_1.0.801.v201602241914.jar/org.eclipse.wst.jsdt.web.core.javascript.JsTranslationAdapterFactory
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.ISourceElementRequestor
+org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.search.JSPPathIndexer$JSPFileVisitor
 org.apache.httpcomponents.httpclient_4.3.6.v201511171540.jar/org.apache.http.impl.conn.ManagedClientConnectionImpl
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.common.Description
 org.eclipse.core.resources_3.11.1.v20161107-2032.jar/org.eclipse.core.resources.IBuildConfiguration
@@ -3839,6 +3858,7 @@ org.eclipse.pde.launching_3.6.401.v20161115-0549.jar/org.eclipse.pde.internal.la
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.internal.win32.SCRIPT_LOGATTR
 org.eclipse.ui.workbench.texteditor_3.10.1.v20160818-1626.jar/org.eclipse.ui.texteditor.AbstractTextEditor$3$1
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.basic.MWindowElement
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.CopyResourceElementsOperation
 org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.revwalk.AbstractRevQueue$AlwaysEmptyQueue
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.plugin.EcorePlugin$Implementation
 org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.common.componentcore.internal.impl.ComponentCoreURIConverter
@@ -4145,6 +4165,7 @@ org.sat4j.core_2.3.5.v201308161310.jar/org.sat4j.minisat.core.IOrder
 /org.w3c.dom.traversal.DocumentTraversal
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.internal.core.P2Utils
 org.eclipse.wst.common.frameworks_1.2.200.v201304241450.jar/org.eclipse.wst.common.frameworks.internal.operations.ComposedExtendedOperationHolder
+org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.search.indexing.AddFolderToIndex$2
 org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.bean.IgnoreSetters
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.JavaColorManager$1
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.filters.NamePatternFilter
@@ -4308,6 +4329,7 @@ org.eclipse.core.expressions_3.5.100.v20160418-1621.jar/org.eclipse.core.interna
 org.eclipse.wst.css.ui_1.0.1001.v201608060346.jar/org.eclipse.wst.css.ui.internal.style.LineStyleProviderForEmbeddedCSS
 org.apache.httpcomponents.httpcore_4.3.3.v201411290715.jar/org.apache.http.Header
 org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.inject.Implementations
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.PackageReferenceLocator
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.commands.ICommandService
 org.apache.httpcomponents.httpcore_4.3.3.v201411290715.jar/org.apache.http.message.BasicNameValuePair
 maven-model-3.3.9.jar/org.apache.maven.model.ActivationFile
@@ -4414,6 +4436,7 @@ org.eclipse.emf.common_2.12.0.v20160420-0247.jar/org.eclipse.emf.common.EMFPlugi
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.bindings.IBindingManagerListener
 /java.awt.event.FocusEvent
 org.eclipse.rse.core_3.3.100.201603151753.jar/org.eclipse.rse.core.references.SystemReferencedObject
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.SessionManager
 org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.lib.ConfigSnapshot$CaseFoldingSet
 ch.qos.logback.core_1.0.7.v20121108-1250.jar/ch.qos.logback.core.subst.NodeToStringTransformer$1
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.webapplication.TagLibRef
@@ -4754,6 +4777,7 @@ org.eclipse.egit.ui_4.6.1.201703071140-r.jar/org.eclipse.egit.ui.internal.Resour
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.menu.impl.PopupMenuImpl
 /org.codehaus.plexus.components.io.resources.PlexusIoFileResourceCollection$__sisu3
 org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal.contentassist.CompletionProposalComputerRegistry$1
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.SearchResultGroup
 org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.util.RefList
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.source.IVerticalRulerExtension
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.classfmt.MethodInfoWithAnnotations
@@ -4761,6 +4785,7 @@ org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.interna
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.core.commands.ISuspendHandler
 org.eclipse.egit.ui_4.6.1.201703071140-r.jar/org.eclipse.egit.ui.internal.repository.tree.command.ToggleBranchHierarchyCommand
 org.eclipse.epp.logging.aeri.ide_2.0.4.v20170307-1435.jar/org.eclipse.epp.internal.logging.aeri.ide.server.mars.HttpResponses$ProgressMonitorResponseStringHandler
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.util.Util$BindingsToNodesMap
 svnkit.jar/org.tmatesoft.svn.core.internal.util.SVNPathUtil$1
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.contentmodel.DeclCollection$DualMap
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.plugin.EcorePlugin$ExtensionProcessor
@@ -5407,6 +5432,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.dom
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.basic.impl.BasicPackageImpl$Literals
 org.eclipse.core.resources_3.11.1.v20161107-2032.jar/org.eclipse.core.internal.dtree.DataTreeNode
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.imports.ImportRewriteConfiguration$OriginalImportHandling
+org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport$SearchRunnable
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.corext.template.java.CompilationUnitContextType$Method
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.events.MenuListener
 findbugs-plugin.jar/edu.umd.cs.findbugs.detect.FieldItemSummary
@@ -5460,6 +5486,7 @@ org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.LambdaEx
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.keys.ModifierKey
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.util.Geometry
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.DelegateUIHelper
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.OrLocator
 org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.lib.RepositoryCache$Key
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.hierarchy.ChangeCollector
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.lookup.MemberTypeBinding
@@ -6114,6 +6141,7 @@ org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.collect.HashMultimap
 de.loskutov.anyedit.AnyEditTools_2.6.1.201602151951.jar/de.loskutov.anyedit.ui.preferences.AndyEditPreferenceInitializer
 org.eclipse.core.resources_3.11.1.v20161107-2032.jar/org.eclipse.core.internal.localstore.SafeFileInputStream
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$Prefix
 org.eclipse.jem_2.0.600.v201302011850.jar/org.eclipse.jem.java.TypeKind
 org.eclipse.ui.ide_3.12.3.v20170119-0935.jar/org.eclipse.ui.internal.wizards.newresource.ResourceMessages
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.wizards.dialogfields.ListDialogField$1
@@ -6200,6 +6228,7 @@ org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.IP
 /java.awt.peer.PanelPeer
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.events.GestureListener
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.core.model.IValue
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$ConstPrefix
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.core.JavaEEObject
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.ProjectReferenceChange
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.processing.JobManager$1ProgressJob
@@ -6218,6 +6247,7 @@ org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.ISources
 org.eclipse.ui.ide_3.12.3.v20170119-0935.jar/org.eclipse.ui.IURIEditorInput
 org.apache.httpcomponents.httpclient_4.3.6.v201511171540.jar/org.apache.http.impl.conn.PoolingHttpClientConnectionManager$InternalConnectionFactory
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.CreateTypeHierarchyOperation
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.LineInformation$2
 maven-core-3.3.9.jar/org.apache.maven.plugin.PluginDescriptorCache$Key
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.ISelectionProvider
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.graphics.ImageData
@@ -6282,6 +6312,7 @@ org.eclipse.ui.browser_3.5.2.v20161114-0210.jar/org.eclipse.ui.internal.browser.
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.SourceType
 org.eclipse.ui.workbench.texteditor_3.10.1.v20160818-1626.jar/org.eclipse.ui.internal.texteditor.rulers.RulerColumnTarget
 velocity-1.5.jar/org.apache.velocity.runtime.resource.loader.ResourceLoaderFactory
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$1
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.FindWriteReferencesInHierarchyAction
 org.apache.httpcomponents.httpclient_4.3.6.v201511171540.jar/org.apache.http.cookie.CookieSpecFactory
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.contentmodel.modelquery.IExternalSchemaLocationProvider
@@ -6291,6 +6322,7 @@ org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.IInputSele
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.corext.refactoring.scripting.IntroduceParameterRefactoringContribution
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.core.plugin.IPluginModelBase
 mergedoc.encoding_1.8.3.201610171338.jar/mergedoc.encoding.EncodingControlContribution
+org.eclipse.wst.jsdt.chromium.debug.core_0.5.200.v201701261810.jar/org.eclipse.wst.jsdt.chromium.debug.core.FilePropertyTester
 org.eclipse.e4.core.di.extensions_0.14.0.v20160211-1614.jar/org.eclipse.e4.core.di.extensions.Preference
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.IElementComparer
 org.eclipse.equinox.simpleconfigurator_1.1.200.v20160504-1450.jar/org.eclipse.equinox.internal.simpleconfigurator.utils.URIUtil
@@ -6538,6 +6570,7 @@ org.eclipse.wst.server.core_1.9.0.v201610211907.jar/org.eclipse.wst.server.core.
 org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.lib.SymbolicRef
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.advanced.impl.PerspectiveImpl
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.validate.ValidatorGroupListener
+org.eclipse.pde.ui_3.9.100.v20161102-0517.jar/org.eclipse.pde.internal.ui.refactoring.ManifestPackageRenameParticipant
 ch.qos.logback.core_1.0.7.v20121108-1250.jar/ch.qos.logback.core.pattern.color.MagentaCompositeConverter
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.WhileStatement
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.javaeditor.SpecificContentAssistAction
@@ -6551,6 +6584,7 @@ org.eclipse.rse.subsystems.shells.core_3.1.300.201403271554.jar/org.eclipse.rse.
 aether-api-1.0.2.v20150114.jar/org.eclipse.aether.repository.LocalArtifactRequest
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.reorg.ReorgPolicyFactory$PackageFragmentRootsReorgPolicy
 org.eclipse.equinox.p2.publisher_1.4.100.v20160504-1450.jar/org.eclipse.equinox.spi.p2.publisher.LocalizationHelper$1
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.PackageReferencePattern
 org.eclipse.egit.ui_4.6.1.201703071140-r.jar/org.eclipse.egit.ui.internal.commands.shared.AbstractSharedCommandHandler
 org.eclipse.core.contenttype_3.5.100.v20160418-1621.jar/org.eclipse.core.internal.content.ContentTypeHandler
 jaxen-1.1.6.jar/org.jaxen.expr.DefaultUnionExpr
@@ -6668,6 +6702,7 @@ org.jboss.tools.usage_2.2.0.Alpha1-v20160511-2035-B942.jar/org.jboss.tools.usage
 org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal.derived.HTML2TextReader
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.parser.Scanner$VanguardParser
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.contentmodel.chtml.EntityCollection
+org.eclipse.pde.api.tools.ui_1.1.0.v20160519-0701.jar/org.eclipse.pde.api.tools.ui.internal.JavaElementActionFilter
 velocity-1.5.jar/org.apache.velocity.util.introspection.Introspector
 org.eclipse.buildship.core_1.0.21.v20161010-1640.jar/org.eclipse.buildship.core.configuration.WorkspaceConfigurationManager
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.contentmodel.factory.CMDocumentFactoryRegistry
@@ -6925,6 +6960,7 @@ findbugs-plugin.jar/edu.umd.cs.findbugs.plan.DetectorOrderingConstraint
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.parser.diagnose.LexStream$Token
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.internal.core.OutputStreamMonitor$ContentNotifier
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.FieldAccess
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.rewrite.TargetSourceRangeComputer
 org.eclipse.core.resources_3.11.1.v20161107-2032.jar/org.eclipse.core.resources.IProjectDescription
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.javaeditor.BasicCompilationUnitEditorActionContributor$MenuListener
 aether-api-1.0.2.v20150114.jar/org.eclipse.aether.collection.DependencyManagement
@@ -6962,6 +6998,7 @@ lucene-core-2.4.1.jar/org.apache.lucene.index.TermsHash
 /org.w3c.dom.DOMConfiguration
 org.eclipse.e4.ui.workbench.addons.swt_1.2.101.v20170206-1129.jar/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack
 org.eclipse.team.svn.core_4.0.3.I20161129-1700.jar/org.eclipse.team.svn.core.operation.UnreportableException
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.RefactoringSearchEngine
 org.eclipse.equinox.console_1.1.200.v20150929-1405.jar/org.eclipse.equinox.console.commands.HelpCommand
 dom4j-1.6.1.jar/org.dom4j.ElementPath
 /java.awt.LightweightDispatcher$2
@@ -7027,6 +7064,7 @@ org.eclipse.ecf.identity_3.7.0.v20160823-2221.jar/org.eclipse.ecf.internal.core.
 org.eclipse.jpt.common.core_1.5.0.v201603181811.jar/org.eclipse.jpt.common.core.internal.resource.ResourceLocatorConfig$Priority
 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.wst.common.project.facet.core.util.internal.VersionExpr$Wildcard
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.browser.WebSite
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.CollectingSearchRequestor
 org.apache.felix.gogo.shell_0.10.0.v201212101605.jar/org.apache.felix.gogo.options.Options
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.CoolBarToTrimManager
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.JarPackageFragmentRootInfo
@@ -7224,6 +7262,7 @@ org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.
 org.eclipse.ui.console_3.6.201.v20161107-0337.jar/org.eclipse.ui.internal.console.ConsoleManager$RepaintJob
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.accessibility.Accessible
 org.eclipse.wst.jsdt.web.ui_1.0.801.v201602241914.jar/org.eclipse.wst.jsdt.web.ui.internal.JsUIPlugin
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.util.SearchUtils
 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.wst.common.project.facet.core.internal.ActionDefinition
 org.eclipse.epp.logging.aeri.ide_2.0.4.v20170307-1435.jar/org.eclipse.epp.internal.logging.aeri.ide.notifications.MylynNotificationsSupport
 jaxen-1.1.6.jar/org.jaxen.expr.DefaultXPathFactory
@@ -7264,6 +7303,7 @@ svnkit.jar/org.tmatesoft.svn.core.wc2.AbstractSvnUpdate
 org.eclipse.ui.workbench.texteditor_3.10.1.v20160818-1626.jar/org.eclipse.ui.texteditor.spelling.SpellingEngineDescriptor
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.provisional.document.IDOMNode
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2$JavadocLookup$DescriptionGetter
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.DefaultBindingResolver$1
 findbugs-plugin.jar/edu.umd.cs.findbugs.Version
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.CompilationUnitDocumentProvider$ReverseMap$Entry
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment
@@ -7390,6 +7430,7 @@ org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.model.IEARMo
 xstream-1.3.1.jar/com.thoughtworks.xstream.io.xml.XmlFriendlyReplacer
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.information.IInformationProviderExtension2
 org.eclipse.wst.wsdl.validation_1.1.700.v201505131719.jar/org.eclipse.wst.wsdl.validation.internal.wsdl11.http.HTTPValidator
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MatchLocatorParser$NoClassNoMethodDeclarationVisitor
 org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal.style.SemanticHighlightingReconciler
 org.eclipse.equinox.p2.metadata_2.3.100.v20160427-2220.jar/org.eclipse.equinox.internal.p2.metadata.VersionFormatParser$RangeFragment
 dom4j-1.6.1.jar/org.dom4j.CDATA
@@ -7568,6 +7609,7 @@ org.eclipse.e4.ui.css.swt_0.12.100.v20160517-1505.jar/org.eclipse.e4.ui.css.swt.
 org.eclipse.sisu.plexus-0.3.2.jar/org.eclipse.sisu.plexus.Hints
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.IDelayedLabelDecorator
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.javaeditor.ToggleBreadcrumbAction
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.RenamePackageWizard$RenamePackageInputWizardPage
 org.eclipse.core.filebuffers_3.6.0.v20160503-1849.jar/org.eclipse.core.internal.filebuffers.TextFileBufferManager$SafeNotifier
 org.eclipse.compare_3.7.1.v20170103-1805.jar/org.eclipse.compare.structuremergeviewer.IDiffElement
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.search.IndexSelector
@@ -7630,6 +7672,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.uti
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.events.KeyEvent
 ch.qos.logback.core_1.0.7.v20121108-1250.jar/ch.qos.logback.core.FileAppender
 de.loskutov.anyedit.AnyEditTools_2.6.1.201602151951.jar/de.loskutov.anyedit.actions.internal.StartupHelper2
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.provisional.ISessionManager
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.themes.ICategorizedThemeElementDefinition
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.fix.CleanUpConstants
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.dialogs.NewWizard
@@ -7678,6 +7721,7 @@ org.eclipse.core.expressions_3.5.100.v20160418-1621.jar/org.eclipse.core.interna
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.lookup.FieldBinding
 org.eclipse.epp.logging.aeri.ide_2.0.4.v20170307-1435.jar/org.eclipse.epp.internal.logging.aeri.ide.notifications.Notification
 org.eclipse.team.ui_3.8.0.v20160518-1906.jar/org.eclipse.team.ui.TeamImages
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.QualifiedNameComponent$1
 juniversalchardet-2.0.0-backport-java6.jar/org.mozilla.universalchardet.prober.distributionanalysis.SJISDistributionAnalysis
 plexus-archiver-2.1.jar/org.codehaus.plexus.archiver.ArchivedFileSet
 org.eclipse.jdt.debug.ui_3.7.201.v20160811-0450.jar/org.eclipse.jdt.internal.debug.ui.monitors.JavaContendedMonitor
@@ -7756,6 +7800,7 @@ org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.resource.URLImageD
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.actions.BaseNewWizardMenu
 org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.Description
 org.eclipse.m2e.launching_1.7.0.20160603-1933.jar/org.eclipse.m2e.internal.launch.MavenConsoleLineTracker
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.ApiDescriptionManager
 aether-util-1.0.2.v20150114.jar/org.eclipse.aether.util.graph.selector.ScopeDependencySelector
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.undo.StructuredTextUndoManager$InternalStructuredDocumentListener
 org.eclipse.update.configurator_3.3.400.v20160506-0750.jar/org.eclipse.update.internal.configurator.branding.AboutInfo
@@ -7954,6 +7999,7 @@ guice-4.0-no_aop.jar/com.google.inject.internal.MembersInjectorStore
 quick-junit.jar/junit.extensions.eclipse.quick.internal.action.OpenTestingPairAction
 org.w3c.css.sac_1.3.1.v200903091627.jar/org.w3c.css.sac.AttributeCondition
 guice-4.0-no_aop.jar/com.google.inject.spi.BindingTargetVisitor
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MatchLocatorParser
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.dom.properties.css2.AbstractCSSPropertyFontHandler
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingManager
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.xni.XNIException
@@ -8001,6 +8047,7 @@ org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.cu
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.custom.TreeEditor$2
 svnkit.jar/org.tmatesoft.svn.core.internal.wc2.ng.SvnNgCanonicalizeUrls
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.dom.properties.ICSSPropertyHandler
+org.eclipse.pde.ui_3.9.100.v20161102-0517.jar/org.eclipse.pde.internal.ui.refactoring.FileMoveParticipant
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.JavaModelOperation
 org.eclipse.core.resources_3.11.1.v20161107-2032.jar/org.eclipse.core.internal.utils.StringPoolJob
 org.eclipse.equinox.p2.metadata_2.3.100.v20160427-2220.jar/org.eclipse.equinox.internal.p2.metadata.expression.MemberProvider$MapMemberProvider
@@ -8019,6 +8066,7 @@ findbugs-plugin.jar/edu.umd.cs.findbugs.updates.UpdateCheckCallback
 org.eclipse.wst.dtd.core_1.1.700.v201211012112.jar/org.eclipse.wst.dtd.core.internal.emf.impl.DTDPackageImpl
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.LabelDecorator
 org.eclipse.wst.css.core_1.1.900.v201603171933.jar/org.eclipse.wst.css.core.internal.parser.CSSStructuredDocumentRegionFactory
+org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.search.JSPPathIndexer
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.commentelement.impl.CommentElementRegistry
 org.eclipse.team.svn.core_4.0.3.I20161129-1700.jar/org.eclipse.team.svn.core.svnstorage.SVNCachedProxyCredentialsManager
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.menus.FocusControlSourceProvider
@@ -8386,6 +8434,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.Ab
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.SemanticHighlightingPresenter$HighlightingPositionUpdater
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.webservice.wsclient.Handler
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.provisional.problems.IApiProblemTypes
 org.eclipse.wst.dtd.core_1.1.700.v201211012112.jar/org.eclipse.wst.dtd.core.internal.saxparser.DTD
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.xpath.regex.RegularExpression$Context
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.internal.editors.quickdiff.RevertLineAction
@@ -8486,6 +8535,7 @@ org.eclipse.mylyn.context.core_3.21.0.v20160701-1337.jar/org.eclipse.mylyn.inter
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.XMLDocumentScannerImpl$PrologDispatcher
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.ui.actions.GenerateActionGroup
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.impl.sac.CSSPseudoClassConditionImpl
+org.eclipse.jst.jsp.ui_1.1.1100.v201605092203.jar/org.eclipse.jst.jsp.ui.internal.java.refactoring.JSPPackageRenameParticipant
 org.eclipse.jst.jsf.core_1.7.111.v201603050214.jar/org.eclipse.jst.jsf.designtime.internal.resolver.ViewBasedTaglibResolverFactory
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.QualifiedName
 aether-api-1.0.2.v20150114.jar/org.eclipse.aether.metadata.Metadata
@@ -8598,6 +8648,8 @@ org.eclipse.jst.server.core_1.2.500.v201603031514.jar/org.eclipse.jst.server.cor
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.web.internal.util.WebXMLHelperImpl
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.custom.StyledText$TextWriter
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.index.MemoryIndex
+/org.tmatesoft.svn.core.internal.util.jna.$Proxy23
+/org.tmatesoft.svn.core.internal.util.jna.$Proxy22
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.ast.IFieldDeclaration
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.core.AddressingType
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.ASTNode$NodeList
@@ -8617,6 +8669,7 @@ org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar/org.eclipse.e4.ui.workbench
 org.eclipse.rse.core_3.3.100.201603151753.jar/org.eclipse.rse.core.references.IRSEReferencedObject
 com.xored.glance.ui_1.2.8.201607122247.jar/com.xored.glance.internal.ui.search.SearchScopeEntry$IMatchListener
 org.eclipse.xsd_2.12.0.v20160526-0356.jar/org.eclipse.xsd.XSDAttributeUse
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.SimpleJavaSourceViewerConfiguration
 ch.qos.logback.classic_1.0.7.v20121108-1250.jar/ch.qos.logback.classic.selector.ContextSelector
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.ast.IJsDocFieldReference
 org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.common.componentcore.resources.IVirtualContainer
@@ -9067,6 +9120,7 @@ guava-18.0.jar/com.google.common.cache.LocalCache$1
 org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal.contentoutline.ConfigurableContentOutlinePage$SelectionProvider
 org.eclipse.wst.web.ui_1.1.601.v201602221748.jar/org.eclipse.wst.web.ui.internal.wizards.DataModelFacetCreationWizardPage$3$1
 org.eclipse.ui.ide_3.12.3.v20170119-0935.jar/org.eclipse.ui.actions.CloseResourceAction$1
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MatchLocator$WorkingCopyDocument
 guava-18.0.jar/com.google.common.cache.LocalCache$2
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.contentmodel.modelqueryimpl.XMLAssociationProvider
 org.eclipse.ui.console_3.6.201.v20161107-0337.jar/org.eclipse.ui.console.AbstractConsole$Lifecycle
@@ -9079,6 +9133,7 @@ org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.space.ClassFinder
 org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar/org.eclipse.e4.ui.internal.workbench.E4Workbench
 maven-model-3.3.9.jar/org.apache.maven.model.IssueManagement
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.ole.win32.OleControlSite
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.RewriteEventStore$EventHolder
 /javax.annotation.processing.Processor
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.editors.text.TextFileDocumentProvider$SingleElementIterator
 org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.common.componentcore.internal.ArtifactEditModel
@@ -9524,6 +9579,7 @@ maven-core-3.3.9.jar/org.apache.maven.MavenExecutionException
 org.eclipse.xsd_2.12.0.v20160526-0356.jar/org.eclipse.xsd.XSDComplexTypeDefinition
 org.eclipse.team.svn.core_4.0.3.I20161129-1700.jar/org.eclipse.team.svn.core.synchronize.UpdateSubscriber
 org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.treewalk.FileTreeIterator$FileEntry
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.PackageDeclarationPattern
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.osgi.framework.ServiceRegistration
 com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.impl.ReplaceableUCharacterIterator
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.parser.RecoveredElement
@@ -9652,6 +9708,7 @@ org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal
 findbugs-plugin.jar/edu.umd.cs.findbugs.ResourceTrackingDetector
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.xs.models.XSCMRepeatingLeaf
 org.eclipse.ui.intro.universal_3.3.1.v20160829-1558.jar/org.eclipse.ui.internal.intro.universal.contentdetect.ContentDetector
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$NodeMarker
 org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.contentmodel.tld.CMDataTypeImpl
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.BufferedDocumentScanner
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.corext.refactoring.scripting.InlineMethodRefactoringContribution
@@ -9703,6 +9760,7 @@ com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.util.ULocale$JDKLocaleHelper
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.ejb.RoleSource
 org.eclipse.wst.web.ui_1.1.601.v201602221748.jar/org.eclipse.wst.web.ui.internal.wizards.NewProjectDataModelFacetWizard$2
 org.eclipse.wst.web.ui_1.1.601.v201602221748.jar/org.eclipse.wst.web.ui.internal.wizards.NewProjectDataModelFacetWizard$3
+org.eclipse.jst.jsp.ui_1.1.1100.v201605092203.jar/org.eclipse.jst.jsp.ui.internal.java.refactoring.JSPRenameParticipant
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.ConstructorPattern
 indexer-core-3.1.0.jar/org.apache.maven.index.incremental.DefaultIncrementalHandler
 org.eclipse.wst.web.ui_1.1.601.v201602221748.jar/org.eclipse.wst.web.ui.internal.wizards.NewProjectDataModelFacetWizard$4
@@ -9892,6 +9950,7 @@ org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.Work
 plexus-sec-dispatcher-1.3.jar/org.sonatype.plexus.components.sec.dispatcher.SecDispatcherException
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.WorkbenchPlugin$6
 maven-core-3.3.9.jar/org.apache.maven.artifact.metadata.ResolutionGroup
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.PatternLocator
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.WorkbenchPlugin$9
 org.eclipse.jpt.common.utility_2.4.0.v201603181811.jar/org.eclipse.jpt.common.utility.internal.iterator.EmptyIterator
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.WorkbenchPlugin$8
@@ -9911,9 +9970,12 @@ org.apache.httpcomponents.httpclient_4.3.6.v201511171540.jar/org.apache.http.imp
 maven-core-3.3.9.jar/org.apache.maven.eventspy.EventSpy$Context
 org.eclipse.debug.ui_3.11.202.v20161114-0338.jar/org.eclipse.debug.internal.ui.DebugUIPlugin$4
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.handlers.CommandLegacyActionWrapper$CommandListener
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.java.hover.SourceViewerInformationControl$2
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.taglib.internal.TagLib
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.part.EditorActionBarContributor
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.java.hover.SourceViewerInformationControl$1
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.WorkbenchPlugin$1
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.ClasspathSourceDirectory
 org.eclipse.epp.mpc.ui_1.5.4.v20170222-1941.jar/org.eclipse.epp.mpc.ui.IMarketplaceClientConfiguration
 maven-resources-plugin-2.6.jar/org.apache.maven.plugin.resources.CopyResourcesMojo
 org.eclipse.jst.j2ee.web_1.1.851.v201608191717.jar/org.eclipse.jst.j2ee.internal.web.classpath.WebAppLibrariesContainer$Resources
@@ -9987,6 +10049,7 @@ org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.
 org.eclipse.team.svn.ui_4.0.4.I20170216-1700.jar/org.eclipse.team.svn.ui.action.local.CompareWithWorkingCopyAction
 maven-compat-3.3.9.jar/org.apache.maven.repository.legacy.resolver.transform.DefaultArtifactTransformationManager
 org.eclipse.wst.server.ui_1.5.307.v201611072017.jar/org.eclipse.wst.server.ui.internal.viewers.AbstractTreeContentProvider$TreeElement
+org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.core.refactoring.RefactoringStatusContext
 org.eclipse.ui.console_3.6.201.v20161107-0337.jar/org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener
 org.eclipse.core.jobs_3.8.0.v20160509-0411.jar/org.eclipse.core.runtime.jobs.ILock
 org.eclipse.wst.xsl.ui_1.1.301.v201304222136.jar/org.eclipse.wst.xsl.ui.internal.style.XSLTagNameSemanticHighlighting
@@ -10085,6 +10148,7 @@ guava-18.0.jar/com.google.common.base.Objects
 org.eclipse.jpt.common.utility_2.4.0.v201603181811.jar/org.eclipse.jpt.common.utility.internal.BitTools
 org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.preferences.JSPCorePreferenceInitializer
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.OpenEditorActionGroup
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.search.SearchMatch
 org.eclipse.e4.ui.css.swt_0.12.100.v20160517-1505.jar/org.eclipse.e4.ui.internal.css.swt.definition.IThemesExtension
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.dom.binding.VariableBinding
 svnkit.jar/org.tmatesoft.svn.core.wc2.SvnCat
@@ -10397,6 +10461,7 @@ aether-spi-1.0.2.v20150114.jar/org.eclipse.aether.spi.connector.RepositoryConnec
 org.eclipse.jpt.jaxb.core_1.4.100.v201603180253.jar/org.eclipse.jpt.jaxb.core.internal.InternalJaxbProjectManager$8
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.dom.properties.css2.AbstractCSSPropertyBackgroundCompositeHandler
 org.jboss.ide.eclipse.as.core_3.2.0.Alpha1-v20160519-0029-B970.jar/org.jboss.ide.eclipse.as.core.modules.SingleDeployableFactory$FileDeletionListener
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.CreatePackageFragmentOperation
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.IJavaScriptElement
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.action.StatusLineManager
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering$CTabFolderWrapper
@@ -10426,6 +10491,7 @@ org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.serv
 plexus-utils-3.0.22.jar/org.codehaus.plexus.util.cli.StreamConsumer
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.osgi.resource.Wiring
 xstream-1.3.1.jar/com.thoughtworks.xstream.mapper.DynamicProxyMapper
+org.eclipse.jdt.debug.ui_3.7.201.v20160811-0450.jar/org.eclipse.jdt.internal.debug.core.refactoring.BreakpointRenamePackageParticipant
 org.eclipse.osgi.compatibility.state_1.0.200.v20160504-1419.jar/org.eclipse.osgi.internal.resolver.BundleDeltaImpl
 org.eclipse.wst.server.core_1.9.0.v201610211907.jar/org.eclipse.wst.server.core.util.PublishAdapter
 org.eclipse.jst.jsp.ui_1.1.1100.v201605092203.jar/org.eclipse.jst.jsp.ui.internal.autoedit.AutoEditStrategyForTabs
@@ -10537,6 +10603,7 @@ org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal
 org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar/org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor$5
 org.eclipse.core.commands_3.8.1.v20161221-1651.jar/org.eclipse.core.commands.Category
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.xpath.XPath$Tokens
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.WildcardType
 guice-4.0-no_aop.jar/com.google.inject.spi.ConstructorBinding
 lucene-core-2.4.1.jar/org.apache.lucene.index.SegmentTermEnum
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.reconciler.AbstractReconciler$Listener
@@ -10592,8 +10659,10 @@ maven-core-3.3.9.jar/org.apache.maven.exception.ExceptionSummary
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.selectionactions.StructureSelectHistoryAction
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.util.DelegatingEcoreEList
 plexus-utils-3.0.jar/org.codehaus.plexus.util.DirectoryScanner
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.RenameResourceElementsOperation
 indexer-core-3.1.0.jar/org.apache.maven.index.context.NexusAnalyzer
 org.eclipse.equinox.registry_3.6.100.v20160223-2218.jar/org.eclipse.core.internal.registry.RegistryMessages
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.search.PackageDeclarationMatch
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.text.java.JavascriptReconcilingStrategy$1
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.internal.text.html.BrowserInformationControl
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.ast.INameReference
@@ -10803,6 +10872,7 @@ org.eclipse.wst.internet.cache_1.0.701.v201510130022.jar/org.eclipse.wst.interne
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.flow.InsideSubRoutineFlowContext
 org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.common.componentcore.datamodel.FacetDataModelConfigAdapter
 org.eclipse.equinox.p2.engine_2.4.100.v20160419-0834.jar/org.eclipse.equinox.internal.p2.engine.Messages
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.correction.ProblemLocation
 /org.apache.maven.index.ScanningRequest
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.IPerspectiveListener3
 svnkit.jar/org.tmatesoft.svn.core.wc2.admin.SvnRepositoryRemoveTransactions
@@ -10928,6 +10998,7 @@ org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.
 findbugs-plugin.jar/edu.umd.cs.findbugs.detect.DumbMethods
 svnkit.jar/org.tmatesoft.svn.core.internal.wc17.SVNWCContext$ISVNWCNodeHandler
 org.eclipse.ui.browser_3.5.2.v20161114-0210.jar/org.eclipse.ui.internal.browser.DefaultBrowserSupport
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MatchLocator$1
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.TreeSelection
 org.eclipse.jst.jsf.ui_1.6.0.v201309172102.jar/org.eclipse.jst.jsf.ui.internal.jspeditor.JSPELHyperlinkDetector
 maven-core-3.3.9.jar/org.apache.maven.artifact.resolver.ResolutionNode
@@ -11154,6 +11225,7 @@ maven-compat-3.3.9.jar/org.apache.maven.repository.legacy.resolver.conflict.Conf
 org.eclipse.jpt.jaxb.core_1.4.100.v201603180253.jar/org.eclipse.jpt.jaxb.core.internal.context.PackageFragmentAdapterFactory
 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.wst.common.project.facet.core.internal.FacetedProjectPropertyTester
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.JavaSearchNameEnvironment
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.dialogs.FilteredTree$NotifyingTreeViewer
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.FindReadReferencesInHierarchyAction
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.impl.ESuperAdapter$Holder
@@ -11170,6 +11242,7 @@ org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.IE
 guava-18.0.jar/com.google.common.collect.EmptyImmutableBiMap
 org.eclipse.equinox.registry_3.6.100.v20160223-2218.jar/org.eclipse.core.runtime.IRegistryChangeEvent
 org.eclipse.rse.core_3.3.100.201603151753.jar/org.eclipse.rse.internal.core.model.SystemHostPool
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.RefactoringScopeFactory
 xstream-1.3.1.jar/com.thoughtworks.xstream.converters.reflection.AbstractAttributedCharacterIteratorAttributeConverter
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.internal.win32.MENUITEMINFO
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.internal.core.feature.FeatureImport
@@ -11207,6 +11280,7 @@ maven-model-builder-3.3.9.jar/org.apache.maven.model.management.DefaultDependenc
 org.eclipse.ui.console_3.6.201.v20161107-0337.jar/org.eclipse.ui.internal.console.PatternMatchListener
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.operation.AccumulatingProgressMonitor
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.text.java.SmartSemicolonAutoEditStrategy
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.PackageDeclarationLocator
 plexus-archiver-2.1.jar/org.codehaus.plexus.archiver.BaseFileSet
 com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.text.RuleBasedCollator$FCDUTF16NFDIterator
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.util.IAttributeNamesConstants
@@ -11826,6 +11900,7 @@ org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.workbench.renderers.swt.SashLayout$2
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.search.JavaSearchDocument
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.menus.CommandContributionItem$1
+org.eclipse.pde.api.tools.ui_1.1.0.v20160519-0701.jar/org.eclipse.pde.api.tools.ui.internal.ApiUIPlugin
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.menus.CommandContributionItem$2
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.menus.CommandContributionItem$3
 org.eclipse.egit.core_4.6.1.201703071140-r.jar/org.eclipse.egit.core.AdapterUtils
@@ -12104,6 +12179,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.co
 org.eclipse.team.svn.ui_4.0.4.I20170216-1700.jar/org.eclipse.team.svn.ui.decorator.IDecorationFilter
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionAssistant$1
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.editors.text.IEncodingSupport
+org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.search.JSPSearchSupport
 org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.space.asm.ByteVector
 org.eclipse.xsd_2.12.0.v20160526-0356.jar/org.eclipse.xsd.util.XSDConstants
 maven-core-3.3.9.jar/org.apache.maven.lifecycle.internal.builder.multithreaded.ThreadOutputMuxer
@@ -12347,6 +12423,7 @@ org.eclipse.ltk.ui.refactoring_3.8.0.v20160518-1817.jar/org.eclipse.ltk.internal
 findbugs-plugin.jar/edu.umd.cs.findbugs.detect.InstantiateStaticClass
 org.eclipse.userstorage_1.0.1.v20170201-1648.jar/org.eclipse.userstorage.internal.Activator$CancelCredentialsProvider
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.ast.Javadoc
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.PathCollector
 org.eclipse.xsd_2.12.0.v20160526-0356.jar/org.eclipse.xsd.XSDMinFacet
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.StubTypeContext
 org.eclipse.mylyn.tasks.core_3.21.0.v20160914-0252.jar/org.eclipse.mylyn.internal.tasks.core.util.ContributorBlackList
@@ -12762,6 +12839,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refacto
 org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.internal.componentcore.JavaEEBinaryComponentLoadAdapter$1
 org.eclipse.xsd_2.12.0.v20160526-0356.jar/org.eclipse.xsd.util.XSDParser$Flusher
 org.eclipse.egit.ui_4.6.1.201703071140-r.jar/org.eclipse.egit.ui.internal.actions.ShowHistoryActionHandler
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.correction.ConfigureProblemSeveritySubProcessor
 maven-compiler-plugin-3.8.1.jar/org.apache.maven.plugin.compiler.CompilerMojo
 org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.project.facet.IJ2EEFacetConstants
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem
@@ -13045,6 +13123,7 @@ ch.qos.logback.classic_1.0.7.v20121108-1250.jar/ch.qos.logback.classic.pattern.T
 dom4j-1.6.1.jar/org.dom4j.io.ElementStack
 findbugs-plugin.jar/edu.umd.cs.findbugs.detect.MutableStaticFields
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.TypeDeclarationStatement
 org.eclipse.debug.ui_3.11.202.v20161114-0338.jar/org.eclipse.debug.ui.actions.IWatchExpressionFactoryAdapter
 org.eclipse.equinox.preferences_3.6.1.v20160815-1406.jar/org.eclipse.core.internal.preferences.OSGiPreferencesServiceManager
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.ast.TypeDeclaration
@@ -13139,6 +13218,7 @@ org.eclipse.ui.workbench.texteditor_3.10.1.v20160818-1626.jar/org.eclipse.ui.int
 org.eclipse.mylyn.context.core_3.21.0.v20160701-1337.jar/org.eclipse.mylyn.context.core.IDegreeOfInterest
 org.eclipse.jpt.common.utility_2.4.0.v201603181811.jar/org.eclipse.jpt.common.utility.command.StatefulExtendedCommandContext
 org.eclipse.wst.server.core_1.9.0.v201610211907.jar/org.eclipse.wst.server.core.internal.IOrdered
+org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.core.refactoring.participants.MoveArguments
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.contentmodel.HedHGROUP
 org.eclipse.jst.server.preview.adapter_1.1.300.v201606081655.jar/org.eclipse.jst.server.preview.adapter.internal.core.PreviewServer
 org.eclipse.text_3.6.0.v20160503-1849.jar/org.eclipse.jface.text.templates.TemplateContext
@@ -13185,6 +13265,7 @@ org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.core.LifecycleCallback
 /java.awt.ComponentOrientation
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.IDoubleClickListener
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.OrPattern
 org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.project.EarUtilities
 org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.wire.EntrySetAdapter$ValueIterator
 com.xored.glance.ui.controls_1.2.8.201607122247.jar/com.xored.glance.ui.controls.text.styled.ListeningStyledTextSource$1
@@ -13302,6 +13383,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.OpenView
 guice-4.0-no_aop.jar/com.google.inject.internal.util.StackTraceElements$InMemoryStackTraceElement
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.core.ILogicalStructureProvider
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.ast.AND_AND_Expression
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.rename.RenamePackageProcessor$PackageRenamer
 maven-core-3.3.9.jar/org.apache.maven.execution.ExecutionEvent$Type
 org.eclipse.wst.server.core_1.9.0.v201610211907.jar/org.eclipse.wst.server.core.internal.facets.RuntimeBridge
 org.eclipse.mylyn.team.ui_3.21.0.v20160701-1337.jar/org.eclipse.mylyn.internal.team.ui.FocusedTeamUiPlugin
@@ -13428,6 +13510,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.FindImpl
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.IProblemRequestor
 wagon-provider-api-2.10.jar/org.apache.maven.wagon.proxy.ProxyInfo
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.imports.TypeConflictingSimpleNameFinder
+org.eclipse.jdt.debug.ui_3.7.201.v20160811-0450.jar/org.eclipse.jdt.internal.debug.core.refactoring.LaunchConfigurationIPackageFragmentRenameParticipant
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.AddGetterSetterAction
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.internal.Callback
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.MGenericTile
@@ -13630,6 +13713,7 @@ org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.Work
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.Workbench$7
 svnkit.jar/org.tmatesoft.svn.core.internal.wc2.remote.SvnRemoteRemoteMkDir
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.Workbench$5
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.ApiBaselineManager
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.Workbench$6
 org.eclipse.jst.jee_1.0.700.v201404092004.jar/org.eclipse.jst.jee.model.internal.mergers.ModelElementMerger
 maven-core-3.3.9.jar/org.apache.maven.plugin.prefix.internal.DefaultPluginPrefixResult
@@ -13819,6 +13903,7 @@ org.eclipse.team.core_3.8.0.v20160418-1534.jar/org.eclipse.team.internal.core.Ba
 org.eclipse.core.resources_3.11.1.v20161107-2032.jar/org.eclipse.core.resources.ISavedState
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.dv.xs.AnyAtomicDV
 org.eclipse.equinox.app_1.3.400.v20150715-1528.jar/org.osgi.service.application.ApplicationHandle
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFlattener
 org.eclipse.jpt.jpa.core_3.5.0.v201603181811.jar/org.eclipse.jpt.jpa.core.JptJpaCoreMessages
 org.eclipse.equinox.p2.engine_2.4.100.v20160419-0834.jar/org.eclipse.equinox.internal.p2.engine.phases.Property$RemoveInstallableUnitProfilePropertiesAction
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.basic.MWizardDialog
@@ -13939,6 +14024,7 @@ org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.dv.xs.XSSimpleT
 /javax.swing.InternalFrameFocusTraversalPolicy
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.texteditor.MarkerAnnotationPreferences
 jaxen-1.1.6.jar/org.jaxen.expr.DefaultStep
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.provisional.ApiPlugin
 org.eclipse.wst.css.core_1.1.900.v201603171933.jar/org.eclipse.wst.css.core.internal.provisional.document.ICSSNode
 org.eclipse.rse.services_3.3.0.201506120731.jar/org.eclipse.rse.services.Mutex
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.core.DebugPlugin$StatusHandlerKey
@@ -13981,6 +14067,7 @@ org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler
 org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.internal.core.refactoring.history.RefactoringHistoryService$NullRefactoringHistory
 org.eclipse.rse.ui_3.3.300.201610252046.jar/org.eclipse.rse.internal.ui.actions.ShowInSystemsViewDelegate
 maven-core-3.3.9.jar/org.apache.maven.plugin.internal.PluginDependenciesResolver
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter
 org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.common.componentcore.resources.IVirtualFolder
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.util.URIResolver
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.EcorePackage$Literals
@@ -13997,6 +14084,7 @@ org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.xpath.regex.Tok
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.Block
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.ActionSetManager
 plexus-cipher-1.4.jar/org.sonatype.plexus.components.cipher.PBECipher
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.correction.SuppressWarningsSubProcessor
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.reorg.RefactoringModifications
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.validate.ErrorInfo
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.impl.EcoreFactoryImpl
@@ -14031,6 +14119,7 @@ archetype-common-2.4.jar/org.apache.maven.archetype.exception.TemplateCreationEx
 org.eclipse.equinox.p2.engine_2.4.100.v20160419-0834.jar/org.eclipse.equinox.internal.p2.engine.phases.Uninstall$BeforeUninstallEventAction
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.ast.UnaryExpression
 org.eclipse.jdt.core.manipulation_1.7.0.v20160419-0705.jar/org.eclipse.jdt.internal.core.refactoring.descriptors.RefactoringSignatureDescriptorFactory
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.changes.RenamePackageChange
 plexus-interpolation-1.21.jar/org.codehaus.plexus.interpolation.reflection.ClassMap
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.handlers.IntroHandler
 org.eclipse.ui.workbench.texteditor_3.10.1.v20160818-1626.jar/org.eclipse.ui.internal.texteditor.quickdiff.DocumentLineDiffer$LineChangeInfo
@@ -14143,6 +14232,7 @@ org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar/org.eclipse.e4.ui.internal.
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.EAttribute
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.base.Platform$1
 org.eclipse.e4.core.di_1.6.1.v20160712-0927.jar/org.eclipse.e4.core.internal.di.FieldRequestor
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$BlockFormattingPrefixSuffix
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.browser.ProgressEvent
 org.eclipse.wst.server.ui_1.5.307.v201611072017.jar/org.eclipse.wst.server.ui.internal.ServerLabelProvider
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.contentmodel.chtml.ElementCollection$Ids
@@ -14161,6 +14251,7 @@ org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.ejb.Act
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.container.ModuleContainerAdaptor$ModuleEvent
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.workbench.renderers.swt.TrimBarRenderer
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.reconciler.DirtyRegionQueue
+org.eclipse.pde.ui_3.9.100.v20161102-0517.jar/org.eclipse.pde.internal.ui.correction.java.QuickFixProcessor
 org.eclipse.mylyn.tasks.core_3.21.0.v20160914-0252.jar/org.eclipse.mylyn.tasks.core.ITaskActivationListener
 org.eclipse.wst.validation_1.2.700.v201508251749.jar/org.eclipse.wst.validation.ReporterHelper
 lucene-core-2.4.1.jar/org.apache.lucene.index.BufferedDeletes$Num
@@ -14415,6 +14506,7 @@ org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.
 com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.text.MessagePattern
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.IPageService
 org.eclipse.egit.ui_4.6.1.201703071140-r.jar/org.eclipse.egit.ui.internal.actions.DisconnectActionHandler
+org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.search.JSPSearchScope
 de.loskutov.anyedit.AnyEditTools_2.6.1.201602151951.jar/de.loskutov.anyedit.ui.util.SelectionTester
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.ltk.modelhandler.EmbeddedTypeHandler
 org.eclipse.equinox.p2.engine_2.4.100.v20160419-0834.jar/org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry$Parser
@@ -14583,6 +14675,7 @@ org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.int
 org.eclipse.e4.ui.css.swt_0.12.100.v20160517-1505.jar/org.eclipse.e4.ui.internal.css.swt.CSSActivator
 org.eclipse.rse.core_3.3.100.201603151753.jar/org.eclipse.rse.internal.core.model.SystemProfileManager
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.util.BasicExtendedMetaData$EDataTypeExtendedMetaDataImpl
+org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.java.search.JavaSearchDocumentDelegate
 org.eclipse.rse.ui_3.3.300.201610252046.jar/org.eclipse.rse.internal.ui.view.team.SystemTeamViewSubSystemConfigurationAdapter
 org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar/org.eclipse.e4.ui.internal.workbench.WorkbenchLogger
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.validate.ValidationMessage
@@ -14700,6 +14793,7 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.actions
 org.eclipse.epp.logging.aeri.ide_2.0.4.v20170307-1435.jar/org.eclipse.epp.internal.logging.aeri.ide.filters.QueueSizeLimitFilter
 maven-model-3.3.9.jar/org.apache.maven.model.Repository
 org.eclipse.core.expressions_3.5.100.v20160418-1621.jar/org.eclipse.core.internal.expressions.CountExpression
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.LineCommentEndOffsets
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.SemanticHighlightingReconciler$PositionCollector
 maven-model-builder-3.3.9.jar/org.apache.maven.model.profile.DefaultProfileInjector
 com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.text.MessagePattern$Part
@@ -14859,6 +14953,7 @@ org.eclipse.m2e.core_1.7.0.20160603-1933.jar/org.eclipse.m2e.core.project.MavenU
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.lookup.ArrayBinding
 org.apache.httpcomponents.httpclient_4.3.6.v201511171540.jar/org.apache.http.conn.HttpRoutedConnection
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.batch.Main$Logger
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.RenamePackageWizard$1
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.internal.workbench.renderers.swt.SWTRenderersMessages
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.viewsupport.IViewPartInputProvider
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.corext.template.java.LocalVarResolver
@@ -15101,6 +15196,7 @@ org.eclipse.ecf.provider.filetransfer_3.2.200.v20160823-2221.jar/org.eclipse.ecf
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.part.MultiPageEditorSite$1
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.web.TransportGuaranteeType
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.AST
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.IntersectingPattern
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.DefaultInformationControl
 maven-core-3.3.9.jar/org.apache.maven.lifecycle.internal.BuildListCalculator
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.source.VerticalRuler
@@ -15605,6 +15701,7 @@ org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.comm
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.collect.ImmutableAsList
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.resource.ContentHandler
 svnkit.jar/org.tmatesoft.svn.core.wc2.admin.SvnRepositoryFilter
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.text.java.IProblemLocation
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.internal.ole.win32.ITypeInfo
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.internal.core.WorkspaceModelManager
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.PluginActionSetBuilder
@@ -16066,6 +16163,7 @@ org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.bindings.TriggerSe
 org.eclipse.rse.services_3.3.0.201506120731.jar/org.eclipse.rse.services.files.AbstractFileService
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.javaeditor.CompilationUnitEditor$ExclusivePositionUpdater
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.viewsupport.JavaUILabelProvider
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.codemanipulation.OrganizeImportsOperation$TypeReferenceProcessor$UnresolvedTypeData
 org.eclipse.ui.trace_1.0.400.v20160509-1055.jar/org.eclipse.ui.trace.internal.TracingUIActivator
 org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.taglib.ProjectDescription$TaglibSorter
 guice-4.0-no_aop.jar/com.google.inject.internal.ListenerBindingProcessor
@@ -16416,6 +16514,7 @@ org.eclipse.mylyn.tasks.core_3.21.0.v20160914-0252.jar/org.eclipse.mylyn.interna
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.text.java.hover.JavaTypeHover
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.internal.core.commands.DisconnectCommand
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.packageview.HierarchicalDecorationContext
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.util.TypeNameMatchCollector
 com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.impl.Normalizer2Impl$IsAcceptable
 org.eclipse.m2e.core_1.7.0.20160603-1933.jar/org.eclipse.m2e.core.project.configurator.AbstractBuildParticipant2
 mergedoc.encoding_1.8.3.201610171338.jar/mergedoc.encoding.StrictUniversalDetector$InputState
@@ -16539,6 +16638,7 @@ org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.acti
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument$1
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.actions.FormatAllAction
 velocity-1.5.jar/org.apache.velocity.util.introspection.UberspectImpl
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.CorrectionEngine
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.dom.properties.ICSSPropertyHandlerProvider
 com.google.gson_2.2.4.v201311231704.jar/com.google.gson.internal.ObjectConstructor
 org.eclipse.debug.ui_3.11.202.v20161114-0338.jar/org.eclipse.debug.internal.ui.views.console.ConsoleShowPreferencesAction
@@ -16553,6 +16653,7 @@ org.eclipse.jst.j2ee.ui_1.1.900.v201602161345.jar/org.eclipse.jst.j2ee.internal.
 org.eclipse.ui.ide_3.12.3.v20170119-0935.jar/org.eclipse.ui.actions.NewProjectAction
 findbugs-plugin.jar/edu.umd.cs.findbugs.detect.NoteUnconditionalParamDerefs
 org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.internal.core.refactoring.ModificationStampValidationState
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.DocumentAdapter
 org.eclipse.rse.services_3.3.0.201506120731.jar/org.eclipse.rse.services.clientserver.archiveutils.SystemJarHandler
 org.eclipse.pde.core_3.11.1.v20161115-1951.jar/org.eclipse.pde.core.plugin.IExtensions
 org.eclipse.jst.server.tomcat.core_1.1.801.v201609071751.jar/org.eclipse.jst.server.tomcat.core.internal.TomcatLaunchConfigurationDelegate
@@ -16563,7 +16664,9 @@ org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.do
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.corext.template.java.CompilationUnitContextType$Project
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.JavaReconciler$ResourceChangeListener
 org.apache.httpcomponents.httpcore_4.3.3.v201411290715.jar/org.apache.http.protocol.HttpProcessor
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.RenameInputWizardPage$2
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.RenameInputWizardPage$1
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.RenameInputWizardPage$3
 maven-model-builder-3.3.9.jar/org.apache.maven.model.path.DefaultUrlNormalizer
 com.ibm.icu_56.1.0.v201601250100.jar/com.ibm.icu.impl.locale.BaseLocale$Key
 org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.internal.core.refactoring.history.RefactoringHistoryManager$DOMWriter
@@ -16945,6 +17048,7 @@ org.eclipse.epp.logging.aeri.ide_2.0.4.v20170307-1435.jar/org.eclipse.epp.intern
 maven-core-3.3.9.jar/org.apache.maven.artifact.InvalidRepositoryException
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.j2ee.internal.IEJBModelExtenderProvider
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.internal.core.commands.TerminateCommand
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.search.SearchRequestor
 guice-4.0-no_aop.jar/com.google.inject.spi.InjectionPoint
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.JavaUIMessages
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.ui.text.IColorManagerExtension
@@ -17271,6 +17375,7 @@ velocity-1.5.jar/org.apache.velocity.runtime.directive.Foreach
 /java.awt.im.spi.InputMethod
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.SourceMethodElementInfo
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.IParent
+org.eclipse.pde.ui_3.9.100.v20161102-0517.jar/org.eclipse.pde.internal.ui.refactoring.PDEMoveParticipant
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.osgi.service.packageadmin.PackageAdmin
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.internal.ImageList
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.internal.editors.text.URLHyperlinkDetector
@@ -17291,6 +17396,7 @@ org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer$8
 org.eclipse.e4.ui.workbench.renderers.swt_0.14.1.v20170117-1415.jar/org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer$7
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.viewsupport.JavaElementImageProvider
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.MarkerAnnotation
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.collect.Ordering
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.activities.IMutableActivityManager
 com.google.gwtorm_1.1.4.v201112241444.jar/com.google.gwtorm.server.StandardKeyEncoder
@@ -17575,6 +17681,7 @@ org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.test
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.internal.e4.compatibility.SelectionService
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.contentmodel.PropertyProviderFactory$PPProhibitedAncestors
 org.eclipse.emf.common_2.12.0.v20160420-0247.jar/org.eclipse.emf.common.util.URI
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.MatchLocatorParser$ClassAndMethodDeclarationVisitor
 org.eclipse.equinox.p2.engine_2.4.100.v20160419-0834.jar/org.eclipse.equinox.internal.p2.engine.phases.Install$AfterInstallEventAction
 maven-core-3.3.9.jar/org.apache.maven.lifecycle.mapping.Lifecycle
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.codeassist.select.SelectionOnMessageSend
@@ -17619,6 +17726,7 @@ svnkit.jar/org.tmatesoft.svn.core.internal.wc2.ng.SvnNgSetProperty
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.editors.text.TextFileDocumentProvider$5
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.ejb.AsyncMethodType
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.text.ISourceVersionDependent
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.search.matching.ImportMatchLocatorParser
 org.sf.feeling.decompiler_2.9.0.r20160620180.jar/org.sf.feeling.decompiler.actions.ExportSourceContributionFactory
 org.eclipse.equinox.p2.reconciler.dropins_1.1.400.v20160504-1450.jar/org.eclipse.equinox.internal.p2.reconciler.dropins.Activator
 svnkit.jar/org.tmatesoft.svn.core.internal.wc.SVNClassLoader
@@ -17717,6 +17825,7 @@ svnkit.jar/org.tmatesoft.svn.core.wc2.admin.SvnRepositoryGetProperty
 plexus-utils-3.0.22.jar/org.codehaus.plexus.util.xml.pull.XmlSerializer
 org.eclipse.sisu.inject-0.3.2.jar/org.eclipse.sisu.inject.MildConcurrentValues
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.actions.CompoundContributionItem$1
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$BlockContext
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.fragment.impl.FragmentPackageImpl
 org.eclipse.core.contenttype_3.5.100.v20160418-1621.jar/org.eclipse.core.runtime.content.IContentDescriber
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.widgets.MenuItem$MenuItemToolTip
@@ -17924,6 +18033,7 @@ org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.texteditor.Abstr
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.io.Files
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.texteditor.AbstractDecoratedTextEditor$1
 org.eclipse.ui.editors_3.10.1.v20161106-1856.jar/org.eclipse.ui.texteditor.AbstractDecoratedTextEditor$4
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.provisional.ISessionListener
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.part.PageBookView$PageRec
 org.eclipse.m2e.wtp_1.3.1.20160831-1005.jar/org.eclipse.m2e.wtp.MavenWtpPlugin
 org.eclipse.jpt.common.utility_2.4.0.v201603181811.jar/org.eclipse.jpt.common.utility.internal.StringTools$XmlElementTextTransformer
@@ -17972,11 +18082,13 @@ org.eclipse.emf.common_2.12.0.v20160420-0247.jar/org.eclipse.emf.common.util.Seg
 org.eclipse.e4.ui.workbench.addons.swt_1.2.101.v20170206-1129.jar/org.eclipse.e4.ui.workbench.addons.swt.SplitterProcessor
 org.eclipse.equinox.preferences_3.6.1.v20160815-1406.jar/org.eclipse.core.internal.preferences.PreferencesService$4
 org.eclipse.equinox.preferences_3.6.1.v20160815-1406.jar/org.eclipse.core.internal.preferences.PreferencesService$5
+org.eclipse.pde.api.tools.ui_1.1.0.v20160519-0701.jar/org.eclipse.pde.api.tools.ui.internal.ActionFilterAdapterFactory
 org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar/org.eclipse.e4.ui.model.application.ui.basic.MTrimmedWindow
 org.eclipse.team.svn.ui_4.0.4.I20170216-1700.jar/org.eclipse.team.svn.ui.properties.CustomPropertySet
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightings$ClassHighlighting
 jaxen-1.1.6.jar/org.jaxen.util.SingleObjectIterator
 org.eclipse.equinox.p2.metadata.repository_1.2.300.v20160419-0834.jar/org.eclipse.equinox.internal.p2.metadata.repository.io.MetadataParser$HostRequiredCapabilitiesHandler
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.RewriteEvent
 org.eclipse.emf.common_2.12.0.v20160420-0247.jar/org.eclipse.emf.common.notify.Notifier
 org.eclipse.wst.server.core_1.9.0.v201610211907.jar/org.eclipse.wst.server.core.IRuntimeType
 org.eclipse.equinox.registry_3.6.100.v20160223-2218.jar/org.eclipse.core.internal.registry.RegistryIndexElement
@@ -18057,6 +18169,7 @@ org.eclipse.jgit_4.6.1.201703071140-r.jar/org.eclipse.jgit.treewalk.AbstractTree
 maven-core-3.3.9.jar/org.apache.maven.lifecycle.MavenExecutionPlan
 org.eclipse.jst.j2ee.core_1.3.200.v201505041449.jar/org.eclipse.jst.javaee.webfragment.internal.impl.WebfragmentFactoryImpl
 org.eclipse.ecf.identity_3.7.0.v20160823-2221.jar/org.eclipse.ecf.core.identity.LongID
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.util.TextChangeManager$1
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.impl.dom.CSSStyleSheetImpl
 org.eclipse.ui.console_3.6.201.v20161107-0337.jar/org.eclipse.ui.console.TextConsole
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.osgi.framework.startlevel.BundleStartLevel
@@ -18501,6 +18614,7 @@ org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.int
 wagon-provider-api-2.10.jar/org.apache.maven.wagon.events.TransferListener
 org.eclipse.emf.common_2.12.0.v20160420-0247.jar/org.eclipse.emf.common.util.CommonUtil$StringPool$StringPoolEntry
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.internal.loader.SystemBundleLoader$SystemModuleClassLoader
+org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.search.indexing.AddFolderToIndex
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.PasteAction$TextPaster
 org.eclipse.jst.server.core_1.2.500.v201603031514.jar/org.eclipse.jst.server.core.IJavaRuntimeWorkingCopy
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.osgi.framework.BundleListener
@@ -18548,6 +18662,7 @@ findbugs-plugin.jar/edu.umd.cs.findbugs.Plugin$EnabledState
 org.eclipse.mylyn.context.core_3.21.0.v20160701-1337.jar/org.eclipse.mylyn.internal.context.core.AggregateInteractionEvent
 org.eclipse.epp.logging.aeri.ide_2.0.4.v20170307-1435.jar/org.eclipse.epp.internal.logging.aeri.ide.server.mars.IProblemsHistory
 org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.core.refactoring.TextEditChangeGroup
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.util.HashtableOfLong
 org.eclipse.ui.console_3.6.201.v20161107-0337.jar/org.eclipse.ui.internal.console.PatternMatchListenerExtension
 aether-impl-1.0.2.v20150114.jar/org.eclipse.aether.impl.ArtifactResolver
 org.eclipse.wst.common.project.facet.core_1.4.300.v201111030423.jar/org.eclipse.wst.common.project.facet.core.IFacetedProjectListener
@@ -18569,6 +18684,7 @@ org.eclipse.emf.ecore.xmi_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.xmi.XM
 org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar/org.eclipse.jdt.launching.IRuntimeClasspathProvider
 org.eclipse.e4.ui.css.swt_0.12.100.v20160517-1505.jar/org.eclipse.e4.ui.css.swt.properties.converters.CSSValueSWTFontConverterImpl
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.xni.parser.XMLInputSource
+org.eclipse.pde.api.tools_1.1.2.v20161115-0549.jar/org.eclipse.pde.api.tools.internal.WorkspaceDeltaProcessor
 org.eclipse.ecf.provider.filetransfer_3.2.200.v20160823-2221.jar/org.eclipse.ecf.internal.provider.filetransfer.Messages
 org.apache.httpcomponents.httpcore_4.3.3.v201411290715.jar/org.apache.http.util.TextUtils
 ch.qos.logback.core_1.0.7.v20121108-1250.jar/ch.qos.logback.core.subst.Tokenizer$TokenizerState
@@ -19068,6 +19184,7 @@ org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.inte
 org.eclipse.e4.ui.css.swt_0.12.100.v20160517-1505.jar/org.eclipse.e4.ui.css.swt.properties.definition.CSSPropertyFontDefinitionHandler
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.impl.xs.XSAttributeDecl
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.internal.text.source.DiffPainter$AnnotationListener
+org.eclipse.wst.jsdt.chromium.debug.core_0.5.200.v201701261810.jar/org.eclipse.wst.jsdt.chromium.debug.core.FilePropertyTester$ForFile
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.env.ISourceType
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.ast.ParameterizedQualifiedTypeReference
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.framework.console.CommandInterpreter
@@ -19083,6 +19200,7 @@ org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.in
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.impl.dom.CSSRuleImpl
 org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.internal.url.URLStreamHandlerSetter
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.dom.rewrite.TargetSourceRangeComputer$SourceRange
 org.eclipse.tm.terminal.view.ui_4.2.0.201609191434.jar/org.eclipse.tm.terminal.view.ui.local.showin.DynamicContributionItems$1
 org.eclipse.e4.core.contexts_1.5.1.v20170203-1100.jar/org.eclipse.e4.core.internal.contexts.osgi.EclipseContextOSGi
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.ITreePathLabelProvider
@@ -19758,6 +19876,7 @@ org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.inte
 maven-core-3.3.9.jar/org.apache.maven.execution.DefaultMavenExecutionRequestPopulator
 svnkit.jar/org.tmatesoft.svn.core.internal.wc2.remote.SvnRemoteGetInfo
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.JavaCommentScanner$AtJavaIdentifierDetector
+org.eclipse.jst.jsp.ui_1.1.1100.v201605092203.jar/org.eclipse.jst.jsp.ui.internal.java.refactoring.JSPRenameParticipant$ElementAndArgumentsPair
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.ast.IJsDocAllocationExpression
 org.eclipse.debug.core_3.10.100.v20160419-1720.jar/org.eclipse.debug.core.IBreakpointManager
 org.eclipse.wst.server.ui_1.5.307.v201611072017.jar/org.eclipse.wst.server.ui.internal.provisional.UIDecoratorManager
@@ -19777,6 +19896,7 @@ org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.service.resolver.Dis
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.util.EContentsEList$FeatureListIterator
 org.eclipse.wst.html.core_1.2.1.v201608061844.jar/org.eclipse.wst.html.core.internal.validate.DocumentPropagatingValidator
 net.sf.eclipsecs.ui_7.6.0.201703111252.jar/net.sf.eclipsecs.ui.actions.ActivateProjectsAction
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$FormattingPrefix
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.compiler.parser.RecoveredType
 maven-core-3.3.9.jar/org.apache.maven.artifact.resolver.ArtifactResolutionResult
 org.eclipse.ltk.core.refactoring_3.7.0.v20160419-0705.jar/org.eclipse.ltk.core.refactoring.TextEditBasedChange$LocalTextEditProcessor
@@ -19839,6 +19959,7 @@ org.eclipse.wst.sse.ui_1.3.500.v201605120129.jar/org.eclipse.wst.sse.ui.internal
 org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.contenttype.HeadParserToken
 org.eclipse.jst.server.tomcat.core_1.1.801.v201609071751.jar/org.eclipse.jst.server.tomcat.core.internal.xml.XMLUtil$1
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.xni.parser.XMLDTDSource
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgQueries$SkipQuery$1
 org.eclipse.wst.common.emf_1.2.500.v201701191735.jar/org.eclipse.wst.common.internal.emf.utilities.ExtendedEcoreUtil
 guava-18.0.jar/com.google.common.collect.AbstractMapBasedMultimap$WrappedList
 org.eclipse.equinox.p2.metadata_2.3.100.v20160427-2220.jar/org.eclipse.equinox.internal.p2.metadata.expression.Unique$UniqueIterator
@@ -20037,6 +20158,7 @@ com.google.gson_2.2.4.v201311231704.jar/com.google.gson.internal.bind.TimeTypeAd
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.impl.sac.CSSIdConditionImpl
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.text.javadoc.JavaDocScanner
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.core.search.IJavaSearchConstants
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$BlockFormattingPrefix
 org.eclipse.e4.ui.css.core_0.12.1.v20161114-0210.jar/org.eclipse.e4.ui.css.core.resources.ResourceRegistryKeyFactory
 org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.componentcore.util.EARVirtualComponent
 org.eclipse.ecf.provider.filetransfer.httpclient4.ssl_1.1.0.v20160823-2221.jar/org.eclipse.ecf.internal.provider.filetransfer.httpclient4.ssl.SSLSocketFactoryModifier
@@ -20209,6 +20331,7 @@ org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.internal.plu
 org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.JavaModelManager$PerProjectInfo
 org.eclipse.ui.browser_3.5.2.v20161114-0210.jar/org.eclipse.ui.internal.browser.TextAction
 org.eclipse.jst.j2ee_1.1.901.v201701192236.jar/org.eclipse.jst.j2ee.internal.archive.JavaEEEMFArchiveAdapterHelper
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.refactoring.reorg.RenamePackageWizard$RenamePackageInputWizardPage$1
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.resource.impl.ArchiveURIHandlerImpl
 org.eclipse.egit.ui_4.6.1.201703071140-r.jar/org.eclipse.egit.ui.internal.commit.command.CreateTagHandler
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.core.SearchableEnvironment$CancelableProgressMonitor
@@ -20345,6 +20468,7 @@ org.eclipse.egit.ui_4.6.1.201703071140-r.jar/org.eclipse.egit.ui.internal.UIText
 maven-compat-3.3.9.jar/org.apache.maven.repository.metadata.DefaultGraphConflictResolver
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEvent
 org.eclipse.sisu.plexus-0.3.2.jar/org.codehaus.plexus.personality.plexus.lifecycle.phase.Contextualizable
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.MoveResourceElementsOperation
 org.eclipse.wst.common.emfworkbench.integration_1.2.101.v201107081800.jar/org.eclipse.wst.common.internal.emfworkbench.edit.EMFWorkbenchEditContextFactory
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.internal.ui.text.java.JavaCodeScanner
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.StructuralPropertyDescriptor
@@ -20492,6 +20616,7 @@ com.google.guava_15.0.0.v201403281430.jar/com.google.common.util.concurrent.Abst
 lucene-core-2.4.1.jar/org.apache.lucene.index.IndexFileDeleter
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.impl.EAnnotationImpl
 org.eclipse.jst.j2ee.ui_1.1.900.v201602161345.jar/org.eclipse.jst.j2ee.internal.listeners.ValidateEditListener
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.rename.RenamePackageProcessor$ImportsManager
 org.eclipse.equinox.common_3.8.0.v20160509-1230.jar/org.eclipse.core.internal.runtime.FindSupport
 org.eclipse.mylyn.tasks.ui_3.21.0.v20160913-2131.jar/org.eclipse.mylyn.internal.tasks.ui.CategorizedPresentation
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.util.concurrent.AbstractIdleService$1
@@ -20596,6 +20721,7 @@ aether-impl-1.0.2.v20150114.jar/org.eclipse.aether.internal.impl.DataPool$Constr
 org.eclipse.mylyn.tasks.core_3.21.0.v20160914-0252.jar/org.eclipse.mylyn.internal.tasks.core.ITaskListChangeListener
 xstream-1.3.1.jar/com.thoughtworks.xstream.converters.Converter
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.internal.framework.ContextFinder$Finder
+org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.internal.win32.LVHITTESTINFO
 aether-impl-1.0.2.v20150114.jar/org.eclipse.aether.internal.impl.DefaultSyncContextFactory
 plexus-interactivity-api-1.0-alpha-4.jar/org.codehaus.plexus.components.interactivity.PrompterException
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.actions.SelectAllAction
@@ -20728,6 +20854,7 @@ wagon-provider-api-2.10.jar/org.apache.maven.wagon.ConnectionException
 svnkit.jar/org.tmatesoft.svn.core.wc2.admin.SvnRepositoryOperation
 org.eclipse.osgi.compatibility.state_1.0.200.v20160504-1419.jar/org.eclipse.osgi.internal.resolver.StateObjectFactoryImpl
 /javax.xml.transform.TransformerFactory
+org.eclipse.wst.jsdt.debug.rhino.ui_1.0.500.v201604292217.jar/org.eclipse.wst.jsdt.debug.internal.rhino.ui.refactoring.ScriptMoveParticipant
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.document.NodeContainer$ChildNodesCache
 plexus-java-0.9.10.jar/org.codehaus.plexus.languages.java.jpms.SourceModuleInfoParser
 org.eclipse.sisu.plexus-0.3.2.jar/org.eclipse.sisu.plexus.PlexusAnnotatedBeanModule$PlexusAnnotatedBeanSource
@@ -21364,9 +21491,11 @@ org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.text.Ja
 org.eclipse.wst.sse.core_1.1.1000.v201608061842.jar/org.eclipse.wst.sse.core.internal.text.DeleteEqualPositionUpdater
 org.eclipse.wst.server.ui_1.5.307.v201611072017.jar/org.eclipse.wst.server.ui.internal.wizard.page.ServerCreationCache
 org.eclipse.wst.jsdt.ui_2.0.200.v201612151739.jar/org.eclipse.wst.jsdt.ui.actions.ReadReferencesSearchGroup
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.NodeRewriteEvent
 org.eclipse.mylyn.tasks.core_3.21.0.v20160914-0252.jar/org.eclipse.mylyn.internal.tasks.core.TaskRepositoryManager
 dom4j-1.6.1.jar/org.dom4j.tree.AbstractText
 org.eclipse.core.runtime_3.12.0.v20160606-1342.jar/org.eclipse.core.runtime.PerformanceStats
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteAnalyzer
 org.slf4j.api_1.7.2.v20121108-1250.jar/org.slf4j.ILoggerFactory
 /org.apache.maven.artifact.handler.DefaultArtifactHandler$__sisu9
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.source.AnnotationPainter$ITextStyleStrategy
@@ -21541,6 +21670,7 @@ org.eclipse.jdt.debug.ui_3.7.201.v20160811-0450.jar/org.eclipse.jdt.internal.deb
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.internal.compiler.parser.RecoveredLocalVariable
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.ui.wizards.NewTypeWizardPage$TypeFieldsAdapter
 org.eclipse.buildship.ui_1.0.21.v20161010-1640.jar/org.eclipse.buildship.ui.launch.UiGradleLaunchConfigurationManager
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.ResolvedSourceField
 org.eclipse.wst.common.emf_1.2.500.v201701191735.jar/org.eclipse.wst.common.internal.emf.utilities.EncoderDecoderAdapter
 org.eclipse.jst.jsp.core_1.2.901.v201608060346.jar/org.eclipse.jst.jsp.core.internal.contentmodel.tld.CMDocumentFactoryTLD
 maven-model-builder-3.3.9.jar/org.apache.maven.model.profile.activation.ProfileActivator
@@ -21966,6 +22096,7 @@ org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.int
 org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar/org.eclipse.swt.widgets.Listener
 org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar/org.eclipse.ui.browser.AbstractWorkbenchBrowserSupport
 org.apache.xerces_2.9.0.v201101211617.jar/org.apache.xerces.util.NamespaceSupport$Prefixes
+org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.corext.refactoring.base.ReferencesInBinaryContext
 org.eclipse.jdt.ui_3.12.2.v20160929-0804.jar/org.eclipse.jdt.internal.ui.viewsupport.IProblemChangedListener
 org.eclipse.wst.common.modulecore_1.2.500.v201701032135.jar/org.eclipse.wst.common.componentcore.resources.ITaggedVirtualResource
 /java.awt.Frame$1
@@ -22120,6 +22251,7 @@ com.google.guava_15.0.0.v201403281430.jar/com.google.common.collect.CollectPreco
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.ast.IReturnStatement
 org.eclipse.team.core_3.8.0.v20160418-1534.jar/org.eclipse.team.internal.core.TeamResourceChangeListener
 org.eclipse.jface_3.12.2.v20170113-2113.jar/org.eclipse.jface.viewers.ITreeContentProvider
+org.eclipse.pde.api.tools.ui_1.1.0.v20160519-0701.jar/org.eclipse.pde.api.tools.ui.internal.ApiUIPlugin$1
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.contentmodel.CMGroup
 org.eclipse.osgi_3.11.3.v20170209-1843.jar/org.eclipse.osgi.internal.debug.Debug
 org.eclipse.pde.ui_3.9.100.v20161102-0517.jar/org.eclipse.pde.internal.ui.nls.GetNonExternalizedStringsAction
@@ -22258,6 +22390,7 @@ org.eclipse.mylyn.tasks.core_3.21.0.v20160914-0252.jar/org.eclipse.mylyn.interna
 jaxen-1.1.6.jar/org.jaxen.function.ext.LocaleFunctionSupport
 org.eclipse.jface.text_3.11.2.v20170220-1911.jar/org.eclipse.jface.text.source.OverviewRuler$InternalListener
 jaxen-1.1.6.jar/org.jaxen.function.CeilingFunction
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.core.dom.rewrite.ASTRewriteFormatter$ExtendedFlattener
 org.eclipse.wst.jsdt.core_2.0.200.v201612211424.jar/org.eclipse.wst.jsdt.core.dom.ASTNode$NodeList$Cursor
 org.eclipse.wst.xml.core_1.1.1001.v201702270442.jar/org.eclipse.wst.xml.core.internal.contentmodel.modelquery.ModelQuery
 com.google.guava_15.0.0.v201403281430.jar/com.google.common.util.concurrent.ExecutionQueue$RunnableExecutorPair
@@ -22497,6 +22630,7 @@ org.eclipse.jdt.junit_3.9.0.v20160421-1701.jar/org.eclipse.jdt.junit.launcher.JU
 com.eclipsegeek.openexternal_0.7.0.jar/com.eclipsegeek.openexternal.models.IntermediateResource
 org.eclipse.jpt.jpa.db_2.2.200.v201603180253.jar/org.eclipse.jpt.jpa.db.ConnectionProfileFactory
 org.apache.batik.util_1.7.0.v201011041433.jar/org.apache.batik.util.io.StreamNormalizingReader$CharDecoderFactory
+org.eclipse.jdt.core_3.12.3.v20170228-1205.jar/org.eclipse.jdt.internal.codeassist.select.SelectionOnFieldReference
 org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar/org.eclipse.emf.ecore.EValidator$PatternMatcher
 org.eclipse.mylyn.tasks.core_3.21.0.v20160914-0252.jar/org.eclipse.mylyn.tasks.core.spi.RepositoryConnectorDescriptor
 aether-api-1.0.2.v20150114.jar/org.eclipse.aether.collection.DependencyCollectionContext

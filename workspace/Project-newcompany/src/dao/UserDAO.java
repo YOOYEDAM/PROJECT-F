@@ -9,7 +9,7 @@ import java.sql.Statement;
 import bean.UserBean;
 
 public class UserDAO {
-	private static final String URL = "jdbc:h2:tcp://localhost/~/test";
+	private static final String URL = "jdbc:h2:tcp://localhost/~/prof;AUTO_SERVER=TRUE";
     private static final String USER = "sa";
     private static final String PASSWORD = "";
 

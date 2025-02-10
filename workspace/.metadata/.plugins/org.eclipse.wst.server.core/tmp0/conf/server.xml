@@ -126,7 +126,7 @@
 
       <Context docBase="C:\Users\Yoo\Documents\GitHub\PROJECT-F\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Yoo\Documents\GitHub\PROJECT-F\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Book" path="/book" reloadable="false" source="org.eclipse.jst.jee.server:Book"/><Context docBase="C:\Users\Yoo\Documents\GitHub\PROJECT-F\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\exam" path="/exam" reloadable="true" source="org.eclipse.jst.jee.server:exam">
 	<Resource auth="Container" driverClassName="org.h2.Driver" name="jdbc/yajima" password="" type="javax.sql.DataSource" url="jdbc:h2:tcp://localhost/~/exam" username="sa"/>
-</Context><Context docBase="C:\Users\Yoo\Documents\GitHub\PROJECT-F\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Project-newcompany" path="/Project-newcompany" reloadable="false" source="org.eclipse.jst.jee.server:Project-newcompany"/></Host>
+</Context><Context docBase="C:\Users\Yoo\Documents\GitHub\PROJECT-F\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Project-newcompany" path="/Project-newcompany" reloadable="false" source="org.eclipse.jst.jee.server:Project-newcompany"/><Context docBase="C:\Users\Yoo\Documents\GitHub\PROJECT-F\workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Notouch" path="/Notouch" reloadable="false" source="org.eclipse.jst.jee.server:Notouch"/></Host>
     </Engine>
   </Service>
 </Server>
